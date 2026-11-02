@@ -1,0 +1,16 @@
+{
+  "name": "adaptive-nat-traversal",
+  "version": "1.0.0",
+  "description": "Adaptive NAT traversal demo: behaviour-aware UDP hole punching with relay fallback, over simulated NAT devices on localhost.",
+  "main": "demo.js",
+  "scripts": {
+    "demo:cone-cone": "node demo.js full-cone full-cone",
+    "demo:symmetric-symmetric": "node demo.js symmetric symmetric",
+    "demo:mixed": "node demo.js full-cone symmetric",
+    "demo:restricted": "node demo.js restricted-cone restricted-cone",
+    "server": "node src/server.js",
+    "peer-a": "node src/peer.js A",
+    "peer-b": "node src/peer.js B"
+  },
+  "license": "MIT"
+}

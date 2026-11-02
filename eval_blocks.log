@@ -1,0 +1,12 @@
+100/1134 sessions, 18s
+200/1134 sessions, 36s
+300/1134 sessions, 64s
+400/1134 sessions, 91s
+500/1134 sessions, 123s
+600/1134 sessions, 148s
+700/1134 sessions, 166s
+800/1134 sessions, 193s
+900/1134 sessions, 224s
+1000/1134 sessions, 254s
+1100/1134 sessions, 286s
+wrote evaluation_blocks.csv: 1134 sessions in 297s

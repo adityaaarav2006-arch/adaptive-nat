@@ -1,0 +1,14 @@
+100/1386 sessions, 9s
+200/1386 sessions, 22s
+300/1386 sessions, 47s
+400/1386 sessions, 72s
+500/1386 sessions, 90s
+600/1386 sessions, 109s
+700/1386 sessions, 135s
+800/1386 sessions, 162s
+900/1386 sessions, 194s
+1000/1386 sessions, 228s
+1100/1386 sessions, 263s
+1200/1386 sessions, 293s
+1300/1386 sessions, 326s
+wrote evaluation_results.csv: 1386 sessions in 356s

@@ -1,0 +1,70 @@
+{
+ "block-aware": {
+  "n": 378,
+  "direct": 73.8,
+  "ok": true,
+  "t_med": 0.058
+ },
+ "block-unaware": {
+  "n": 378,
+  "direct": 73.8,
+  "ok": true,
+  "t_med": 0.058
+ },
+ "ice": {
+  "n": 378,
+  "direct": 31.0,
+  "ok": true,
+  "t_med": 2.542
+ },
+ "block-aware_blk": {
+  "direct": 98.0,
+  "pkts_med": 92.0,
+  "pkts_mean": 92,
+  "t_med": 0.083
+ },
+ "block-unaware_blk": {
+  "direct": 98.0,
+  "pkts_med": 424.0,
+  "pkts_mean": 530,
+  "t_med": 0.196
+ },
+ "ice_blk": {
+  "direct": 26.5,
+  "pkts_med": 106.0,
+  "pkts_mean": 468,
+  "t_med": 2.545
+ },
+ "n_spray_sessions": 114,
+ "n_block_sessions": 102,
+ "packet_reduction": 4.6,
+ "model_p_aware": 99.1,
+ "aware_better_pairs": 3,
+ "unaware_better_pairs": 3,
+ "testbed": {
+  "block-aware": {
+   "direct": "10/10",
+   "t_med_ms": 86,
+   "pkts_med": 91.5,
+   "pkts_min": 90,
+   "pkts_max": 95
+  },
+  "block-unaware": {
+   "direct": "10/10",
+   "t_med_ms": 228,
+   "pkts_med": 472.0,
+   "pkts_min": 296,
+   "pkts_max": 1448
+  },
+  "aioice": {
+   "direct": "0/5",
+   "t_med_ms": 15009,
+   "pkts_med": null,
+   "pkts_min": null,
+   "pkts_max": null
+  }
+ },
+ "testbed_profile": [
+  "APD/APD/Blk512"
+ ]
+}

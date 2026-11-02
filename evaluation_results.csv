@@ -1,0 +1,1387 @@
+agent,nat_a,nat_b,trial,plan,path,ok,t_connect,packets,t_profile,p_spray,profile_a,profile_b,reason
+adaptive,AD/AD/Fixed,AD/AD/Fixed,0,PREDICT,direct,True,0.05586306199984392,74,1.5055066049999368,,AD/AD/Fixed,AD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/AD/Fixed,AD/AD/Fixed,1,PREDICT,direct,True,0.056882924000092316,74,1.5054555520000577,,AD/AD/Fixed,AD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/AD/Fixed,AD/AD/Fixed,2,PREDICT,direct,True,0.05726856100000077,74,1.5048416009999528,,AD/AD/Fixed,AD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/AD/Fixed,AD/AD/Rand,0,PREDICT,direct,True,0.0563583739999558,56,1.5059867840000152,,AD/AD/Fixed,AD/AD/Rand,A is lenient and its port is pred
+adaptive,AD/AD/Fixed,AD/AD/Rand,1,PREDICT,direct,True,0.056661350000013044,56,1.5039708899998914,,AD/AD/Fixed,AD/AD/Rand,A is lenient and its port is pred
+adaptive,AD/AD/Fixed,AD/AD/Rand,2,PREDICT,direct,True,0.05750294099971143,56,1.50661569399972,,AD/AD/Fixed,AD/AD/Rand,A is lenient and its port is pred
+adaptive,AD/AD/Fixed,AD/APD/Fixed,0,PREDICT,direct,True,0.05608325399998648,74,1.5066612269997677,,AD/AD/Fixed,AD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/AD/Fixed,AD/APD/Fixed,1,PREDICT,direct,True,0.05730377700001554,74,1.5073909699999604,,AD/AD/Fixed,AD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/AD/Fixed,AD/APD/Fixed,2,PREDICT,direct,True,0.05671702400013601,74,1.5064057129998218,,AD/AD/Fixed,AD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/AD/Fixed,AD/APD/Rand,0,PREDICT,direct,True,0.05620848600028694,56,1.5065151290000358,,AD/AD/Fixed,AD/APD/Rand,A is lenient and its port is pred
+adaptive,AD/AD/Fixed,AD/APD/Rand,1,PREDICT,direct,True,0.056354106000071624,56,1.5065362949999326,,AD/AD/Fixed,AD/APD/Rand,A is lenient and its port is pred
+adaptive,AD/AD/Fixed,AD/APD/Rand,2,PREDICT,direct,True,0.05688988600013545,56,1.5058498359999248,,AD/AD/Fixed,AD/APD/Rand,A is lenient and its port is pred
+adaptive,AD/AD/Fixed,AD/APD/Seq,0,PREDICT,direct,True,0.056750387999727536,74,1.5177181060003022,,AD/AD/Fixed,AD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/AD/Fixed,AD/APD/Seq,1,PREDICT,direct,True,0.05606320900005812,74,1.5062606330002382,,AD/AD/Fixed,AD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/AD/Fixed,AD/APD/Seq,2,PREDICT,direct,True,0.057217400000354246,74,1.5081367510001655,,AD/AD/Fixed,AD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/AD/Fixed,APD/AD/Fixed,0,PREDICT,direct,True,0.05845198099996196,74,1.506288625000252,,AD/AD/Fixed,APD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/AD/Fixed,APD/AD/Fixed,1,PREDICT,direct,True,0.05822569799966004,74,1.506533734000186,,AD/AD/Fixed,APD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/AD/Fixed,APD/AD/Fixed,2,PREDICT,direct,True,0.05904019499985225,74,1.505926448000082,,AD/AD/Fixed,APD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/AD/Fixed,APD/AD/Rand,0,PREDICT,direct,True,0.05767275099969993,56,1.5066847890002464,,AD/AD/Fixed,APD/AD/Rand,A is lenient and its port is pred
+adaptive,AD/AD/Fixed,APD/AD/Rand,1,PREDICT,direct,True,0.057179271999757475,56,1.5052500199999486,,AD/AD/Fixed,APD/AD/Rand,A is lenient and its port is pred
+adaptive,AD/AD/Fixed,APD/AD/Rand,2,PREDICT,direct,True,0.058084062000034464,56,1.5050510799997028,,AD/AD/Fixed,APD/AD/Rand,A is lenient and its port is pred
+adaptive,AD/AD/Fixed,APD/AD/Seq,0,PREDICT,direct,True,0.05891764499983765,74,1.5077746810002282,,AD/AD/Fixed,APD/AD/Seq,both ports predictable (pred/pred)
+adaptive,AD/AD/Fixed,APD/AD/Seq,1,PREDICT,direct,True,0.0584076019999884,74,1.5062686239998584,,AD/AD/Fixed,APD/AD/Seq,both ports predictable (pred/pred)
+adaptive,AD/AD/Fixed,APD/AD/Seq,2,PREDICT,direct,True,0.0577144980002231,74,1.5062049670000306,,AD/AD/Fixed,APD/AD/Seq,both ports predictable (pred/pred)
+adaptive,AD/AD/Fixed,APD/APD/Fixed,0,PREDICT,direct,True,0.058384631000080844,74,1.506246031000046,,AD/AD/Fixed,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/AD/Fixed,APD/APD/Fixed,1,PREDICT,direct,True,0.05883294000022943,74,1.5086293170002136,,AD/AD/Fixed,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/AD/Fixed,APD/APD/Fixed,2,PREDICT,direct,True,0.05835424499991859,74,1.5058128420000685,,AD/AD/Fixed,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/AD/Fixed,APD/APD/Rand,0,PREDICT,direct,True,0.05853530900003534,56,1.5082771979996323,,AD/AD/Fixed,APD/APD/Rand,A is lenient and its port is pred
+adaptive,AD/AD/Fixed,APD/APD/Rand,1,PREDICT,direct,True,0.05844744100022581,56,1.5072264020000148,,AD/AD/Fixed,APD/APD/Rand,A is lenient and its port is pred
+adaptive,AD/AD/Fixed,APD/APD/Rand,2,PREDICT,direct,True,0.05871903700017356,56,1.5073358889999326,,AD/AD/Fixed,APD/APD/Rand,A is lenient and its port is pred
+adaptive,AD/AD/Fixed,APD/APD/Seq,0,PREDICT,direct,True,0.05785890600009225,74,1.5095625159997326,,AD/AD/Fixed,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/AD/Fixed,APD/APD/Seq,1,PREDICT,direct,True,0.05855885099981606,74,1.5039029419999679,,AD/AD/Fixed,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/AD/Fixed,APD/APD/Seq,2,PREDICT,direct,True,0.05807297999990624,74,1.5054991370002426,,AD/AD/Fixed,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/AD/Fixed,APD/EI/Fixed,0,PREDICT,direct,True,0.05994285299993862,74,1.5055190309999489,,AD/AD/Fixed,APD/EI/Fixed,both ports predictable (pred/pred)
+adaptive,AD/AD/Fixed,APD/EI/Fixed,1,PREDICT,direct,True,0.058488788999966346,74,1.506898511000145,,AD/AD/Fixed,APD/EI/Fixed,both ports predictable (pred/pred)
+adaptive,AD/AD/Fixed,APD/EI/Fixed,2,PREDICT,direct,True,0.057904750000034255,74,1.5054182889998629,,AD/AD/Fixed,APD/EI/Fixed,both ports predictable (pred/pred)
+adaptive,AD/AD/Fixed,APD/EI/Rand,0,PREDICT,direct,True,0.058673955999893224,56,1.5053163689999565,,AD/AD/Fixed,APD/EI/Rand,A is lenient and its port is pred
+adaptive,AD/AD/Fixed,APD/EI/Rand,1,PREDICT,direct,True,0.05912511899987294,56,1.504634568000256,,AD/AD/Fixed,APD/EI/Rand,A is lenient and its port is pred
+adaptive,AD/AD/Fixed,APD/EI/Rand,2,PREDICT,direct,True,0.057244891000209464,56,1.5048987519999173,,AD/AD/Fixed,APD/EI/Rand,A is lenient and its port is pred
+adaptive,AD/AD/Fixed,APD/EI/Seq,0,PREDICT,direct,True,0.05920269499983988,74,1.5047265639996112,,AD/AD/Fixed,APD/EI/Seq,both ports predictable (pred/pred)
+adaptive,AD/AD/Fixed,APD/EI/Seq,1,PREDICT,direct,True,0.05743597899981978,74,1.5102306479998333,,AD/AD/Fixed,APD/EI/Seq,both ports predictable (pred/pred)
+adaptive,AD/AD/Fixed,APD/EI/Seq,2,PREDICT,direct,True,0.062042330999702244,74,1.5071063360001062,,AD/AD/Fixed,APD/EI/Seq,both ports predictable (pred/pred)
+adaptive,AD/AD/Rand,AD/AD/Rand,0,SPRAY,direct,True,0.3404038890002994,616,1.505414658999598,0.9866662960471693,AD/AD/Rand,AD/AD/Rand,"A random, opener=A"
+adaptive,AD/AD/Rand,AD/AD/Rand,1,SPRAY,direct,True,0.16093311199983873,392,1.5067191170001024,0.9866662960471693,AD/AD/Rand,AD/AD/Rand,"A random, opener=A"
+adaptive,AD/AD/Rand,AD/AD/Rand,2,SPRAY,direct,True,0.3421846070000356,872,1.5049270530003014,0.9866662960471693,AD/AD/Rand,AD/AD/Rand,"A random, opener=A"
+adaptive,AD/AD/Rand,AD/APD/Fixed,0,SPRAY,direct,True,0.1624243100000058,392,1.5062878670000828,0.9866662960471693,AD/AD/Rand,AD/APD/Fixed,"A random, opener=A"
+adaptive,AD/AD/Rand,AD/APD/Fixed,1,SPRAY,relay,True,2.513891620999857,1606,1.5065377279997847,0.9866662960471693,AD/AD/Rand,AD/APD/Fixed,"A random, opener=A"
+adaptive,AD/AD/Rand,AD/APD/Fixed,2,SPRAY,direct,True,0.1876616709996597,424,1.5049613969999882,0.9866662960471693,AD/AD/Rand,AD/APD/Fixed,"A random, opener=A"
+adaptive,AD/AD/Rand,AD/APD/Rand,0,SPRAY,direct,True,0.5249589469999592,1096,1.5064713090000623,0.9866662960471693,AD/AD/Rand,AD/APD/Rand,"A random, opener=A"
+adaptive,AD/AD/Rand,AD/APD/Rand,1,SPRAY,direct,True,0.10996858800035625,328,1.506435818999762,0.9866662960471693,AD/AD/Rand,AD/APD/Rand,"A random, opener=A"
+adaptive,AD/AD/Rand,AD/APD/Rand,2,SPRAY,direct,True,0.39336759499974505,936,1.5063593879999644,0.9866662960471693,AD/AD/Rand,AD/APD/Rand,"A random, opener=A"
+adaptive,AD/AD/Rand,AD/APD/Seq,0,SPRAY,direct,True,0.7045440689998941,1320,1.506069504000152,0.9866662960471693,AD/AD/Rand,AD/APD/Seq,"A random, opener=A"
+adaptive,AD/AD/Rand,AD/APD/Seq,1,SPRAY,direct,True,0.0818457089999356,297,1.5055552520002493,0.9866662960471693,AD/AD/Rand,AD/APD/Seq,"A random, opener=A"
+adaptive,AD/AD/Rand,AD/APD/Seq,2,SPRAY,direct,True,0.18632907299979706,424,1.507470385999568,0.9866662960471693,AD/AD/Rand,AD/APD/Seq,"A random, opener=A"
+adaptive,AD/AD/Rand,APD/AD/Fixed,0,PREDICT,direct,True,0.057070556999860855,56,1.5061781300000803,,AD/AD/Rand,APD/AD/Fixed,B is lenient and its port is pred
+adaptive,AD/AD/Rand,APD/AD/Fixed,1,PREDICT,direct,True,0.057248342000093544,56,1.5061591589997079,,AD/AD/Rand,APD/AD/Fixed,B is lenient and its port is pred
+adaptive,AD/AD/Rand,APD/AD/Fixed,2,PREDICT,direct,True,0.05645575500011546,56,1.510721115999786,,AD/AD/Rand,APD/AD/Fixed,B is lenient and its port is pred
+adaptive,AD/AD/Rand,APD/AD/Rand,0,SPRAY,direct,True,0.14303048099964144,360,1.5065176499997506,0.9866662960471693,AD/AD/Rand,APD/AD/Rand,"A random, opener=A"
+adaptive,AD/AD/Rand,APD/AD/Rand,1,SPRAY,direct,True,0.33932265300018116,841,1.509107454000059,0.9866662960471693,AD/AD/Rand,APD/AD/Rand,"A random, opener=A"
+adaptive,AD/AD/Rand,APD/AD/Rand,2,SPRAY,direct,True,0.3041640120000011,552,1.5091865700001108,0.9866662960471693,AD/AD/Rand,APD/AD/Rand,"A random, opener=A"
+adaptive,AD/AD/Rand,APD/AD/Seq,0,PREDICT,direct,True,0.057717861999663,56,1.505938179000168,,AD/AD/Rand,APD/AD/Seq,B is lenient and its port is pred
+adaptive,AD/AD/Rand,APD/AD/Seq,1,PREDICT,direct,True,0.05718363700043483,56,1.5059005529997194,,AD/AD/Rand,APD/AD/Seq,B is lenient and its port is pred
+adaptive,AD/AD/Rand,APD/AD/Seq,2,PREDICT,direct,True,0.05798845499975869,56,1.5067955099998471,,AD/AD/Rand,APD/AD/Seq,B is lenient and its port is pred
+adaptive,AD/AD/Rand,APD/APD/Fixed,0,SPRAY,direct,True,0.14129970300018613,360,1.5058097800001633,0.9866662960471693,AD/AD/Rand,APD/APD/Fixed,"A random, opener=A"
+adaptive,AD/AD/Rand,APD/APD/Fixed,1,SPRAY,direct,True,0.31765442500000063,552,1.5103863509998519,0.9866662960471693,AD/AD/Rand,APD/APD/Fixed,"A random, opener=A"
+adaptive,AD/AD/Rand,APD/APD/Fixed,2,SPRAY,direct,True,0.08404420100032439,296,1.5076689150000675,0.9866662960471693,AD/AD/Rand,APD/APD/Fixed,"A random, opener=A"
+adaptive,AD/AD/Rand,APD/APD/Rand,0,SPRAY,direct,True,0.6623099520002143,1192,1.5070656180000697,0.9866662960471693,AD/AD/Rand,APD/APD/Rand,"A random, opener=A"
+adaptive,AD/AD/Rand,APD/APD/Rand,1,SPRAY,direct,True,0.0842501780002749,296,1.5074710799999593,0.9866662960471693,AD/AD/Rand,APD/APD/Rand,"A random, opener=A"
+adaptive,AD/AD/Rand,APD/APD/Rand,2,SPRAY,direct,True,0.1686097950000658,392,1.50810715300031,0.9866662960471693,AD/AD/Rand,APD/APD/Rand,"A random, opener=A"
+adaptive,AD/AD/Rand,APD/APD/Seq,0,SPRAY,direct,True,0.41336015099977885,936,1.5070439190003526,0.9866662960471693,AD/AD/Rand,APD/APD/Seq,"A random, opener=A"
+adaptive,AD/AD/Rand,APD/APD/Seq,1,SPRAY,direct,True,0.08590662200003862,296,1.5077157169998827,0.9866662960471693,AD/AD/Rand,APD/APD/Seq,"A random, opener=A"
+adaptive,AD/AD/Rand,APD/APD/Seq,2,SPRAY,direct,True,0.14323289899994052,360,1.5077067599995644,0.9866662960471693,AD/AD/Rand,APD/APD/Seq,"A random, opener=A"
+adaptive,AD/AD/Rand,APD/EI/Fixed,0,PREDICT,direct,True,0.056698933000006946,56,1.5043547380000746,,AD/AD/Rand,APD/EI/Fixed,B is lenient and its port is pred
+adaptive,AD/AD/Rand,APD/EI/Fixed,1,PREDICT,direct,True,0.058136413999818615,56,1.5043402979999883,,AD/AD/Rand,APD/EI/Fixed,B is lenient and its port is pred
+adaptive,AD/AD/Rand,APD/EI/Fixed,2,PREDICT,direct,True,0.05714677200012375,56,1.5042608660000951,,AD/AD/Rand,APD/EI/Fixed,B is lenient and its port is pred
+adaptive,AD/AD/Rand,APD/EI/Rand,0,SPRAY,direct,True,0.3339845979999154,842,1.5055206469996847,0.9866662960471693,AD/AD/Rand,APD/EI/Rand,"A random, opener=A"
+adaptive,AD/AD/Rand,APD/EI/Rand,1,SPRAY,direct,True,0.33059476700009327,842,1.5031854539997767,0.9866662960471693,AD/AD/Rand,APD/EI/Rand,"A random, opener=A"
+adaptive,AD/AD/Rand,APD/EI/Rand,2,SPRAY,direct,True,0.3326638260000436,842,1.5035476709999784,0.9866662960471693,AD/AD/Rand,APD/EI/Rand,"A random, opener=A"
+adaptive,AD/AD/Rand,APD/EI/Seq,0,PREDICT,direct,True,0.05855777599981593,56,1.5053742249997413,,AD/AD/Rand,APD/EI/Seq,B is lenient and its port is pred
+adaptive,AD/AD/Rand,APD/EI/Seq,1,PREDICT,direct,True,0.05768765299990264,56,1.5066321759995844,,AD/AD/Rand,APD/EI/Seq,B is lenient and its port is pred
+adaptive,AD/AD/Rand,APD/EI/Seq,2,PREDICT,direct,True,0.05818291000014142,56,1.5057651329998407,,AD/AD/Rand,APD/EI/Seq,B is lenient and its port is pred
+adaptive,AD/AD/Seq,AD/AD/Fixed,0,PREDICT,direct,True,0.056408729999930074,74,1.5065927860000556,,AD/AD/Seq,AD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/AD/Seq,AD/AD/Fixed,1,PREDICT,direct,True,0.05660529199985831,74,1.5058009929998661,,AD/AD/Seq,AD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/AD/Seq,AD/AD/Fixed,2,PREDICT,direct,True,0.05596599799991964,74,1.5059791230000883,,AD/AD/Seq,AD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/AD/Seq,AD/AD/Rand,0,PREDICT,direct,True,0.05688379299999724,56,1.5053593249999722,,AD/AD/Seq,AD/AD/Rand,A is lenient and its port is pred
+adaptive,AD/AD/Seq,AD/AD/Rand,1,PREDICT,direct,True,0.05612281499998062,56,1.506122224000137,,AD/AD/Seq,AD/AD/Rand,A is lenient and its port is pred
+adaptive,AD/AD/Seq,AD/AD/Rand,2,PREDICT,direct,True,0.0563890450002873,56,1.5077691060000689,,AD/AD/Seq,AD/AD/Rand,A is lenient and its port is pred
+adaptive,AD/AD/Seq,AD/AD/Seq,0,PREDICT,direct,True,0.05596763099993041,74,1.5056790539997564,,AD/AD/Seq,AD/AD/Seq,both ports predictable (pred/pred)
+adaptive,AD/AD/Seq,AD/AD/Seq,1,PREDICT,direct,True,0.05668745000002673,74,1.5060032010001123,,AD/AD/Seq,AD/AD/Seq,both ports predictable (pred/pred)
+adaptive,AD/AD/Seq,AD/AD/Seq,2,PREDICT,direct,True,0.057004159999905823,74,1.5066952090000996,,AD/AD/Seq,AD/AD/Seq,both ports predictable (pred/pred)
+adaptive,AD/AD/Seq,AD/APD/Fixed,0,PREDICT,direct,True,0.056022769000264816,74,1.5057195980002689,,AD/AD/Seq,AD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/AD/Seq,AD/APD/Fixed,1,PREDICT,direct,True,0.05620922700018127,74,1.5061180489997241,,AD/AD/Seq,AD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/AD/Seq,AD/APD/Fixed,2,PREDICT,direct,True,0.056925058999695466,74,1.505924457999754,,AD/AD/Seq,AD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/AD/Seq,AD/APD/Rand,0,PREDICT,direct,True,0.055901521000123466,56,1.505121938999764,,AD/AD/Seq,AD/APD/Rand,A is lenient and its port is pred
+adaptive,AD/AD/Seq,AD/APD/Rand,1,PREDICT,direct,True,0.05695196799979385,56,1.5063271499998336,,AD/AD/Seq,AD/APD/Rand,A is lenient and its port is pred
+adaptive,AD/AD/Seq,AD/APD/Rand,2,PREDICT,direct,True,0.05655272000012701,56,1.5056832600002963,,AD/AD/Seq,AD/APD/Rand,A is lenient and its port is pred
+adaptive,AD/AD/Seq,AD/APD/Seq,0,PREDICT,direct,True,0.05580833299973165,74,1.5056775210000524,,AD/AD/Seq,AD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/AD/Seq,AD/APD/Seq,1,PREDICT,direct,True,0.05693610499974966,74,1.5076034609996896,,AD/AD/Seq,AD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/AD/Seq,AD/APD/Seq,2,PREDICT,direct,True,0.05683783399990716,74,1.5051696139998967,,AD/AD/Seq,AD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/AD/Seq,APD/AD/Fixed,0,PREDICT,direct,True,0.0585544900000059,74,1.5067605530002766,,AD/AD/Seq,APD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/AD/Seq,APD/AD/Fixed,1,PREDICT,direct,True,0.058953582999947685,74,1.5059569369996098,,AD/AD/Seq,APD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/AD/Seq,APD/AD/Fixed,2,PREDICT,direct,True,0.05855706500005908,74,1.5067119020000064,,AD/AD/Seq,APD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/AD/Seq,APD/AD/Rand,0,PREDICT,direct,True,0.05740317299978415,56,1.5051671750002242,,AD/AD/Seq,APD/AD/Rand,A is lenient and its port is pred
+adaptive,AD/AD/Seq,APD/AD/Rand,1,PREDICT,direct,True,0.05850347099976716,56,1.505962701000044,,AD/AD/Seq,APD/AD/Rand,A is lenient and its port is pred
+adaptive,AD/AD/Seq,APD/AD/Rand,2,PREDICT,direct,True,0.05829799599996477,56,1.5058939900000041,,AD/AD/Seq,APD/AD/Rand,A is lenient and its port is pred
+adaptive,AD/AD/Seq,APD/AD/Seq,0,PREDICT,direct,True,0.05936743500024022,74,1.5061491490000662,,AD/AD/Seq,APD/AD/Seq,both ports predictable (pred/pred)
+adaptive,AD/AD/Seq,APD/AD/Seq,1,PREDICT,direct,True,0.0590293179998298,74,1.506528010999773,,AD/AD/Seq,APD/AD/Seq,both ports predictable (pred/pred)
+adaptive,AD/AD/Seq,APD/AD/Seq,2,PREDICT,direct,True,0.05955829899994569,74,1.505834803000198,,AD/AD/Seq,APD/AD/Seq,both ports predictable (pred/pred)
+adaptive,AD/AD/Seq,APD/APD/Fixed,0,PREDICT,direct,True,0.05959559100028855,74,1.5075820809997822,,AD/AD/Seq,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/AD/Seq,APD/APD/Fixed,1,PREDICT,direct,True,0.057565954999972746,74,1.5051610710002024,,AD/AD/Seq,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/AD/Seq,APD/APD/Fixed,2,PREDICT,direct,True,0.057750547000068764,74,1.5085394379998434,,AD/AD/Seq,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/AD/Seq,APD/APD/Rand,0,PREDICT,direct,True,0.058580724999956146,56,1.5070382079998126,,AD/AD/Seq,APD/APD/Rand,A is lenient and its port is pred
+adaptive,AD/AD/Seq,APD/APD/Rand,1,PREDICT,direct,True,0.057683907999944495,56,1.5077491110000665,,AD/AD/Seq,APD/APD/Rand,A is lenient and its port is pred
+adaptive,AD/AD/Seq,APD/APD/Rand,2,PREDICT,direct,True,0.05782595600021523,56,1.5081640209996294,,AD/AD/Seq,APD/APD/Rand,A is lenient and its port is pred
+adaptive,AD/AD/Seq,APD/APD/Seq,0,PREDICT,direct,True,0.05833649400028662,74,1.5058697909998955,,AD/AD/Seq,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/AD/Seq,APD/APD/Seq,1,PREDICT,direct,True,0.05871625400004632,74,1.5097220069997093,,AD/AD/Seq,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/AD/Seq,APD/APD/Seq,2,PREDICT,direct,True,0.057942902999911894,74,1.5053858280002714,,AD/AD/Seq,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/AD/Seq,APD/EI/Fixed,0,PREDICT,direct,True,0.058780286999990494,74,1.505540104999909,,AD/AD/Seq,APD/EI/Fixed,both ports predictable (pred/pred)
+adaptive,AD/AD/Seq,APD/EI/Fixed,1,PREDICT,direct,True,0.0574817400001848,74,1.5043556549999266,,AD/AD/Seq,APD/EI/Fixed,both ports predictable (pred/pred)
+adaptive,AD/AD/Seq,APD/EI/Fixed,2,PREDICT,direct,True,0.058601029999863385,74,1.5047114849999161,,AD/AD/Seq,APD/EI/Fixed,both ports predictable (pred/pred)
+adaptive,AD/AD/Seq,APD/EI/Rand,0,PREDICT,direct,True,0.06480713500013735,56,1.5043761259998973,,AD/AD/Seq,APD/EI/Rand,A is lenient and its port is pred
+adaptive,AD/AD/Seq,APD/EI/Rand,1,PREDICT,direct,True,0.05942911800002548,56,1.5045435199999702,,AD/AD/Seq,APD/EI/Rand,A is lenient and its port is pred
+adaptive,AD/AD/Seq,APD/EI/Rand,2,PREDICT,direct,True,0.05781387300021379,56,1.506063826999707,,AD/AD/Seq,APD/EI/Rand,A is lenient and its port is pred
+adaptive,AD/AD/Seq,APD/EI/Seq,0,PREDICT,direct,True,0.05786919199999829,74,1.50377487500009,,AD/AD/Seq,APD/EI/Seq,both ports predictable (pred/pred)
+adaptive,AD/AD/Seq,APD/EI/Seq,1,PREDICT,direct,True,0.06029059100001177,74,1.5043929200001003,,AD/AD/Seq,APD/EI/Seq,both ports predictable (pred/pred)
+adaptive,AD/AD/Seq,APD/EI/Seq,2,PREDICT,direct,True,0.060102862999883655,74,1.5066869150000457,,AD/AD/Seq,APD/EI/Seq,both ports predictable (pred/pred)
+adaptive,AD/APD/Fixed,AD/APD/Fixed,0,PREDICT,direct,True,0.057256448000316595,74,1.5061697979999735,,AD/APD/Fixed,AD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/APD/Fixed,AD/APD/Fixed,1,PREDICT,direct,True,0.05832001799990394,74,1.5127074639999591,,AD/APD/Fixed,AD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/APD/Fixed,AD/APD/Fixed,2,PREDICT,direct,True,0.05681397400030619,74,1.5066341060000923,,AD/APD/Fixed,AD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/APD/Fixed,AD/APD/Rand,0,RELAY,relay,True,0.005704831999992166,6,1.5141105249999782,,AD/APD/Fixed,AD/APD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,AD/APD/Fixed,AD/APD/Rand,1,RELAY,relay,True,0.005534721000003628,6,1.506556898999861,,AD/APD/Fixed,AD/APD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,AD/APD/Fixed,AD/APD/Rand,2,RELAY,relay,True,0.005449083999792492,6,1.50752991499985,,AD/APD/Fixed,AD/APD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,AD/APD/Fixed,APD/AD/Fixed,0,PREDICT,direct,True,0.057870068999818614,74,1.5075113640000382,,AD/APD/Fixed,APD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/APD/Fixed,APD/AD/Fixed,1,PREDICT,direct,True,0.059482914000000164,74,1.506288795999808,,AD/APD/Fixed,APD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/APD/Fixed,APD/AD/Fixed,2,PREDICT,direct,True,0.05733890999999858,74,1.5055018599996401,,AD/APD/Fixed,APD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/APD/Fixed,APD/AD/Rand,0,RELAY,relay,True,0.00538388799986933,6,1.5046357050000552,,AD/APD/Fixed,APD/AD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,AD/APD/Fixed,APD/AD/Rand,1,RELAY,relay,True,0.005362784999761061,6,1.5071500070002912,,AD/APD/Fixed,APD/AD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,AD/APD/Fixed,APD/AD/Rand,2,RELAY,relay,True,0.005494028999692091,6,1.5080811429997993,,AD/APD/Fixed,APD/AD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,AD/APD/Fixed,APD/AD/Seq,0,PREDICT,direct,True,0.05799884200041561,74,1.5066979210000682,,AD/APD/Fixed,APD/AD/Seq,both ports predictable (pred/pred)
+adaptive,AD/APD/Fixed,APD/AD/Seq,1,PREDICT,direct,True,0.05736382799977946,74,1.506736307999745,,AD/APD/Fixed,APD/AD/Seq,both ports predictable (pred/pred)
+adaptive,AD/APD/Fixed,APD/AD/Seq,2,PREDICT,direct,True,0.05829439299986916,74,1.5049868489995788,,AD/APD/Fixed,APD/AD/Seq,both ports predictable (pred/pred)
+adaptive,AD/APD/Fixed,APD/APD/Fixed,0,PREDICT,direct,True,0.058961205999821686,74,1.5064794250001796,,AD/APD/Fixed,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/APD/Fixed,APD/APD/Fixed,1,PREDICT,direct,True,0.05812258300011308,74,1.5074302680000073,,AD/APD/Fixed,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/APD/Fixed,APD/APD/Fixed,2,PREDICT,direct,True,0.05885620800017932,74,1.507132443000046,,AD/APD/Fixed,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/APD/Fixed,APD/APD/Rand,0,RELAY,relay,True,0.005532938999749604,6,1.5072060699999383,,AD/APD/Fixed,APD/APD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,AD/APD/Fixed,APD/APD/Rand,1,RELAY,relay,True,0.005372309999984282,6,1.5053586580002047,,AD/APD/Fixed,APD/APD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,AD/APD/Fixed,APD/APD/Rand,2,RELAY,relay,True,0.005319764999967447,6,1.5051020470000367,,AD/APD/Fixed,APD/APD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,AD/APD/Fixed,APD/APD/Seq,0,PREDICT,direct,True,0.05952660699995249,74,1.5066213060003975,,AD/APD/Fixed,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/APD/Fixed,APD/APD/Seq,1,PREDICT,direct,True,0.05828328799998417,74,1.5131708529997923,,AD/APD/Fixed,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/APD/Fixed,APD/APD/Seq,2,PREDICT,direct,True,0.057274446999599604,74,1.505737272999795,,AD/APD/Fixed,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/APD/Fixed,APD/EI/Fixed,0,PREDICT,direct,True,0.0587016979998225,74,1.5047359420000248,,AD/APD/Fixed,APD/EI/Fixed,both ports predictable (pred/pred)
+adaptive,AD/APD/Fixed,APD/EI/Fixed,1,PREDICT,direct,True,0.058730131999709556,74,1.504038970000238,,AD/APD/Fixed,APD/EI/Fixed,both ports predictable (pred/pred)
+adaptive,AD/APD/Fixed,APD/EI/Fixed,2,PREDICT,direct,True,0.05863742299970909,74,1.5055026780000844,,AD/APD/Fixed,APD/EI/Fixed,both ports predictable (pred/pred)
+adaptive,AD/APD/Fixed,APD/EI/Rand,0,RELAY,relay,True,0.005295558999932837,6,1.5045386150000013,,AD/APD/Fixed,APD/EI/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,AD/APD/Fixed,APD/EI/Rand,1,RELAY,relay,True,0.005467273000249406,6,1.5043998870000905,,AD/APD/Fixed,APD/EI/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,AD/APD/Fixed,APD/EI/Rand,2,RELAY,relay,True,0.005506581999725313,6,1.5050773900002241,,AD/APD/Fixed,APD/EI/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,AD/APD/Fixed,APD/EI/Seq,0,PREDICT,direct,True,0.060635763999925985,74,1.505363195999962,,AD/APD/Fixed,APD/EI/Seq,both ports predictable (pred/pred)
+adaptive,AD/APD/Fixed,APD/EI/Seq,1,PREDICT,direct,True,0.05746062100024574,74,1.5061180920001789,,AD/APD/Fixed,APD/EI/Seq,both ports predictable (pred/pred)
+adaptive,AD/APD/Fixed,APD/EI/Seq,2,PREDICT,direct,True,0.05884078500002943,74,1.5041169229998559,,AD/APD/Fixed,APD/EI/Seq,both ports predictable (pred/pred)
+adaptive,AD/APD/Rand,AD/APD/Rand,0,RELAY,relay,True,0.0053438200002347,6,1.5067090549996465,,AD/APD/Rand,AD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+adaptive,AD/APD/Rand,AD/APD/Rand,1,RELAY,relay,True,0.005286303000048065,6,1.5060910490001334,,AD/APD/Rand,AD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+adaptive,AD/APD/Rand,AD/APD/Rand,2,RELAY,relay,True,0.005409499000052165,6,1.5090219159997105,,AD/APD/Rand,AD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+adaptive,AD/APD/Rand,APD/AD/Fixed,0,PREDICT,direct,True,0.05765577900001517,56,1.506613919999836,,AD/APD/Rand,APD/AD/Fixed,B is lenient and its port is pred
+adaptive,AD/APD/Rand,APD/AD/Fixed,1,PREDICT,direct,True,0.056632609000189404,56,1.5058904339998662,,AD/APD/Rand,APD/AD/Fixed,B is lenient and its port is pred
+adaptive,AD/APD/Rand,APD/AD/Fixed,2,PREDICT,direct,True,0.05848704799973348,56,1.5063398289998986,,AD/APD/Rand,APD/AD/Fixed,B is lenient and its port is pred
+adaptive,AD/APD/Rand,APD/AD/Rand,0,RELAY,relay,True,0.005303511999954935,6,1.5060602660000768,,AD/APD/Rand,APD/AD/Rand,"no viable direct method (rand/rand, filters too strict)"
+adaptive,AD/APD/Rand,APD/AD/Rand,1,RELAY,relay,True,0.006030288999681943,6,1.5074773209998966,,AD/APD/Rand,APD/AD/Rand,"no viable direct method (rand/rand, filters too strict)"
+adaptive,AD/APD/Rand,APD/AD/Rand,2,RELAY,relay,True,0.005376941000122315,6,1.5047698329999548,,AD/APD/Rand,APD/AD/Rand,"no viable direct method (rand/rand, filters too strict)"
+adaptive,AD/APD/Rand,APD/AD/Seq,0,PREDICT,direct,True,0.056980451999606885,56,1.5075037719998363,,AD/APD/Rand,APD/AD/Seq,B is lenient and its port is pred
+adaptive,AD/APD/Rand,APD/AD/Seq,1,PREDICT,direct,True,0.05713775200001692,56,1.506340112000089,,AD/APD/Rand,APD/AD/Seq,B is lenient and its port is pred
+adaptive,AD/APD/Rand,APD/AD/Seq,2,PREDICT,direct,True,0.05723761499984903,56,1.5041197450000254,,AD/APD/Rand,APD/AD/Seq,B is lenient and its port is pred
+adaptive,AD/APD/Rand,APD/APD/Fixed,0,RELAY,relay,True,0.005369688999962818,6,1.5058958820000043,,AD/APD/Rand,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+adaptive,AD/APD/Rand,APD/APD/Fixed,1,RELAY,relay,True,0.005495089999840275,6,1.513697331000003,,AD/APD/Rand,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+adaptive,AD/APD/Rand,APD/APD/Fixed,2,RELAY,relay,True,0.0056729970001470065,6,1.5058014279998133,,AD/APD/Rand,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+adaptive,AD/APD/Rand,APD/APD/Rand,0,RELAY,relay,True,0.005714896999961638,6,1.5080556779998915,,AD/APD/Rand,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+adaptive,AD/APD/Rand,APD/APD/Rand,1,RELAY,relay,True,0.00538468600007036,6,1.5864810859998215,,AD/APD/Rand,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+adaptive,AD/APD/Rand,APD/APD/Rand,2,RELAY,relay,True,0.005817137999656552,6,1.5733475830002135,,AD/APD/Rand,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+adaptive,AD/APD/Rand,APD/APD/Seq,0,RELAY,relay,True,0.005503233000126784,6,1.5054949029999989,,AD/APD/Rand,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+adaptive,AD/APD/Rand,APD/APD/Seq,1,RELAY,relay,True,0.005372801999783405,6,1.505222225000125,,AD/APD/Rand,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+adaptive,AD/APD/Rand,APD/APD/Seq,2,RELAY,relay,True,0.005596219000381097,6,1.5056228359999295,,AD/APD/Rand,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+adaptive,AD/APD/Rand,APD/EI/Fixed,0,PREDICT,direct,True,0.05659474899994166,56,1.5058691650001492,,AD/APD/Rand,APD/EI/Fixed,B is lenient and its port is pred
+adaptive,AD/APD/Rand,APD/EI/Fixed,1,PREDICT,direct,True,0.05739773100003731,56,1.5046814879997328,,AD/APD/Rand,APD/EI/Fixed,B is lenient and its port is pred
+adaptive,AD/APD/Rand,APD/EI/Fixed,2,PREDICT,direct,True,0.05823388900034843,56,1.5054959740000413,,AD/APD/Rand,APD/EI/Fixed,B is lenient and its port is pred
+adaptive,AD/APD/Rand,APD/EI/Rand,0,RELAY,relay,True,0.005261236000023928,6,1.5033681899999465,,AD/APD/Rand,APD/EI/Rand,"no viable direct method (rand/rand, filters too strict)"
+adaptive,AD/APD/Rand,APD/EI/Rand,1,RELAY,relay,True,0.005478133999986312,6,1.5031314400002884,,AD/APD/Rand,APD/EI/Rand,"no viable direct method (rand/rand, filters too strict)"
+adaptive,AD/APD/Rand,APD/EI/Rand,2,RELAY,relay,True,0.005401451000125235,6,1.5044045839999853,,AD/APD/Rand,APD/EI/Rand,"no viable direct method (rand/rand, filters too strict)"
+adaptive,AD/APD/Rand,APD/EI/Seq,0,PREDICT,direct,True,0.0574723790000462,56,1.5058849760002886,,AD/APD/Rand,APD/EI/Seq,B is lenient and its port is pred
+adaptive,AD/APD/Rand,APD/EI/Seq,1,PREDICT,direct,True,0.057157643000209646,56,1.5037465830000656,,AD/APD/Rand,APD/EI/Seq,B is lenient and its port is pred
+adaptive,AD/APD/Rand,APD/EI/Seq,2,PREDICT,direct,True,0.057048844000291865,56,1.5062121580003804,,AD/APD/Rand,APD/EI/Seq,B is lenient and its port is pred
+adaptive,AD/APD/Seq,AD/APD/Fixed,0,PREDICT,direct,True,0.056563615999948524,74,1.5088448289998269,,AD/APD/Seq,AD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/APD/Seq,AD/APD/Fixed,1,PREDICT,direct,True,0.05747890599968741,74,1.5062019510000937,,AD/APD/Seq,AD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/APD/Seq,AD/APD/Fixed,2,PREDICT,direct,True,0.056105211000158306,74,1.505085340000278,,AD/APD/Seq,AD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/APD/Seq,AD/APD/Rand,0,RELAY,relay,True,0.005476009999711096,6,1.5058222160000696,,AD/APD/Seq,AD/APD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,AD/APD/Seq,AD/APD/Rand,1,RELAY,relay,True,0.005306782999923598,6,1.5043099370000164,,AD/APD/Seq,AD/APD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,AD/APD/Seq,AD/APD/Rand,2,RELAY,relay,True,0.005418147000000317,6,1.505663793000167,,AD/APD/Seq,AD/APD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,AD/APD/Seq,AD/APD/Seq,0,PREDICT,direct,True,0.05792846799977269,74,1.5073142250003002,,AD/APD/Seq,AD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/APD/Seq,AD/APD/Seq,1,PREDICT,direct,True,0.05709317099990585,74,1.506291954000062,,AD/APD/Seq,AD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/APD/Seq,AD/APD/Seq,2,PREDICT,direct,True,0.05602251000027536,74,1.5060950810002396,,AD/APD/Seq,AD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/APD/Seq,APD/AD/Fixed,0,PREDICT,direct,True,0.058366400999602774,74,1.5065008579999812,,AD/APD/Seq,APD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/APD/Seq,APD/AD/Fixed,1,PREDICT,direct,True,0.05877582499988421,74,1.511511898000208,,AD/APD/Seq,APD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/APD/Seq,APD/AD/Fixed,2,PREDICT,direct,True,0.05735517199991591,74,1.507152326999858,,AD/APD/Seq,APD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/APD/Seq,APD/AD/Rand,0,RELAY,relay,True,0.005560104999858595,6,1.507835851999971,,AD/APD/Seq,APD/AD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,AD/APD/Seq,APD/AD/Rand,1,RELAY,relay,True,0.00570740700004535,6,1.5107279560002098,,AD/APD/Seq,APD/AD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,AD/APD/Seq,APD/AD/Rand,2,RELAY,relay,True,0.005558510999890132,6,1.507081750999987,,AD/APD/Seq,APD/AD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,AD/APD/Seq,APD/AD/Seq,0,PREDICT,direct,True,0.058188304000395874,74,1.5068531819997588,,AD/APD/Seq,APD/AD/Seq,both ports predictable (pred/pred)
+adaptive,AD/APD/Seq,APD/AD/Seq,1,PREDICT,direct,True,0.05726990500033935,74,1.5053971910001565,,AD/APD/Seq,APD/AD/Seq,both ports predictable (pred/pred)
+adaptive,AD/APD/Seq,APD/AD/Seq,2,PREDICT,direct,True,0.05773557400016216,74,1.5061260190000212,,AD/APD/Seq,APD/AD/Seq,both ports predictable (pred/pred)
+adaptive,AD/APD/Seq,APD/APD/Fixed,0,PREDICT,direct,True,0.05746029100009764,74,1.5061804799997844,,AD/APD/Seq,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/APD/Seq,APD/APD/Fixed,1,PREDICT,direct,True,0.06366885099987485,74,1.5053290030000426,,AD/APD/Seq,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/APD/Seq,APD/APD/Fixed,2,PREDICT,direct,True,0.05874697799981732,74,1.5069731739999952,,AD/APD/Seq,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/APD/Seq,APD/APD/Rand,0,RELAY,relay,True,0.00532215199973507,6,1.5056554019997748,,AD/APD/Seq,APD/APD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,AD/APD/Seq,APD/APD/Rand,1,RELAY,relay,True,0.005484426000293752,6,1.5087139570000545,,AD/APD/Seq,APD/APD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,AD/APD/Seq,APD/APD/Rand,2,RELAY,relay,True,0.005506606999915675,6,1.5069520369997917,,AD/APD/Seq,APD/APD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,AD/APD/Seq,APD/APD/Seq,0,PREDICT,direct,True,0.05798213999969448,74,1.5062911109998822,,AD/APD/Seq,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/APD/Seq,APD/APD/Seq,1,PREDICT,direct,True,0.05826367199961169,74,1.5069126529997448,,AD/APD/Seq,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/APD/Seq,APD/APD/Seq,2,PREDICT,direct,True,0.058125141999880725,74,1.5061761719998685,,AD/APD/Seq,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/APD/Seq,APD/EI/Fixed,0,PREDICT,direct,True,0.05921294500012664,74,1.504151524000008,,AD/APD/Seq,APD/EI/Fixed,both ports predictable (pred/pred)
+adaptive,AD/APD/Seq,APD/EI/Fixed,1,PREDICT,direct,True,0.05826749799962272,74,1.5069654649996664,,AD/APD/Seq,APD/EI/Fixed,both ports predictable (pred/pred)
+adaptive,AD/APD/Seq,APD/EI/Fixed,2,PREDICT,direct,True,0.05932652199999211,74,1.5062221140001384,,AD/APD/Seq,APD/EI/Fixed,both ports predictable (pred/pred)
+adaptive,AD/APD/Seq,APD/EI/Rand,0,RELAY,relay,True,0.00531732599984025,6,1.5041575649997867,,AD/APD/Seq,APD/EI/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,AD/APD/Seq,APD/EI/Rand,1,RELAY,relay,True,0.005825504999847908,6,1.505338397000287,,AD/APD/Seq,APD/EI/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,AD/APD/Seq,APD/EI/Rand,2,RELAY,relay,True,0.0053196690000731905,6,1.5048515930002395,,AD/APD/Seq,APD/EI/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,AD/APD/Seq,APD/EI/Seq,0,PREDICT,direct,True,0.05795782199993482,74,1.5044763640003112,,AD/APD/Seq,APD/EI/Seq,both ports predictable (pred/pred)
+adaptive,AD/APD/Seq,APD/EI/Seq,1,PREDICT,direct,True,0.05830476599976464,74,1.5043540050000956,,AD/APD/Seq,APD/EI/Seq,both ports predictable (pred/pred)
+adaptive,AD/APD/Seq,APD/EI/Seq,2,PREDICT,direct,True,0.05797554999981003,74,1.5060589489999074,,AD/APD/Seq,APD/EI/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,AD/AD/Fixed,0,PREDICT,direct,True,0.05615967099993213,74,1.5041081099998337,,AD/EI/Fixed,AD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,AD/AD/Fixed,1,PREDICT,direct,True,0.056620245999965846,74,1.5037150899997869,,AD/EI/Fixed,AD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,AD/AD/Fixed,2,PREDICT,direct,True,0.05689681500007282,74,1.5045318939996832,,AD/EI/Fixed,AD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,AD/AD/Rand,0,PREDICT,direct,True,0.05679521599995496,56,1.504951648000315,,AD/EI/Fixed,AD/AD/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Fixed,AD/AD/Rand,1,PREDICT,direct,True,0.05616393900027106,56,1.5051904470001318,,AD/EI/Fixed,AD/AD/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Fixed,AD/AD/Rand,2,PREDICT,direct,True,0.05595218799999202,56,1.504260985000201,,AD/EI/Fixed,AD/AD/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Fixed,AD/AD/Seq,0,PREDICT,direct,True,0.05746378300000288,74,1.50517667899976,,AD/EI/Fixed,AD/AD/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,AD/AD/Seq,1,PREDICT,direct,True,0.05658942699983527,74,1.5046155390000422,,AD/EI/Fixed,AD/AD/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,AD/AD/Seq,2,PREDICT,direct,True,0.05605862100037484,74,1.5045694370001002,,AD/EI/Fixed,AD/AD/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,AD/APD/Fixed,0,PREDICT,direct,True,0.056344144999911805,74,1.5052720280000358,,AD/EI/Fixed,AD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,AD/APD/Fixed,1,PREDICT,direct,True,0.0561221069997373,74,1.5043264199998703,,AD/EI/Fixed,AD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,AD/APD/Fixed,2,PREDICT,direct,True,0.056739989000107016,74,1.505436648000341,,AD/EI/Fixed,AD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,AD/APD/Rand,0,PREDICT,direct,True,0.055991398000060144,56,1.5038385809998545,,AD/EI/Fixed,AD/APD/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Fixed,AD/APD/Rand,1,PREDICT,direct,True,0.05628805900005318,56,1.507685666999805,,AD/EI/Fixed,AD/APD/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Fixed,AD/APD/Rand,2,PREDICT,direct,True,0.056705805999627046,56,1.5052746410001419,,AD/EI/Fixed,AD/APD/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Fixed,AD/APD/Seq,0,PREDICT,direct,True,0.05703527800005759,74,1.5052290389999143,,AD/EI/Fixed,AD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,AD/APD/Seq,1,PREDICT,direct,True,0.056767304000004515,74,1.5050368079996588,,AD/EI/Fixed,AD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,AD/APD/Seq,2,PREDICT,direct,True,0.056063410000206204,74,1.5047155040001599,,AD/EI/Fixed,AD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,AD/EI/Fixed,0,PREDICT,direct,True,0.056256917999689904,74,0.004819885999950202,,AD/EI/Fixed,AD/EI/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,AD/EI/Fixed,1,PREDICT,direct,True,0.05688982499987105,74,0.006786390999877767,,AD/EI/Fixed,AD/EI/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,AD/EI/Fixed,2,PREDICT,direct,True,0.05619838800021171,74,0.0038151020003169833,,AD/EI/Fixed,AD/EI/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,AD/EI/Rand,0,PREDICT,direct,True,0.0564689749999161,56,0.003759872000046016,,AD/EI/Fixed,AD/EI/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Fixed,AD/EI/Rand,1,PREDICT,direct,True,0.056593240999973204,56,0.004034958999909577,,AD/EI/Fixed,AD/EI/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Fixed,AD/EI/Rand,2,PREDICT,direct,True,0.05656827399980102,56,0.003175117999944632,,AD/EI/Fixed,AD/EI/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Fixed,APD/AD/Fixed,0,PREDICT,direct,True,0.05860194799970486,74,1.5060119160002614,,AD/EI/Fixed,APD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,APD/AD/Fixed,1,PREDICT,direct,True,0.05842575199994826,74,1.5039916919999996,,AD/EI/Fixed,APD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,APD/AD/Fixed,2,PREDICT,direct,True,0.05789246099993761,74,1.504153731000315,,AD/EI/Fixed,APD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,APD/AD/Rand,0,PREDICT,direct,True,0.05878723400019226,56,1.50570860300013,,AD/EI/Fixed,APD/AD/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Fixed,APD/AD/Rand,1,PREDICT,direct,True,0.05761295999991489,56,1.5045848669997213,,AD/EI/Fixed,APD/AD/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Fixed,APD/AD/Rand,2,PREDICT,direct,True,0.0581429260000732,56,1.5055210409996107,,AD/EI/Fixed,APD/AD/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Fixed,APD/AD/Seq,0,PREDICT,direct,True,0.058062646000053064,74,1.504668662000313,,AD/EI/Fixed,APD/AD/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,APD/AD/Seq,1,PREDICT,direct,True,0.059068209000088245,74,1.5042058950002684,,AD/EI/Fixed,APD/AD/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,APD/AD/Seq,2,PREDICT,direct,True,0.05838596600005985,74,1.5063976229998843,,AD/EI/Fixed,APD/AD/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,APD/APD/Fixed,0,PREDICT,direct,True,0.059111498999754986,74,1.5045178410000517,,AD/EI/Fixed,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,APD/APD/Fixed,1,PREDICT,direct,True,0.05766373799997382,74,1.5049253409997618,,AD/EI/Fixed,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,APD/APD/Fixed,2,PREDICT,direct,True,0.058593635999841354,74,1.505974703999982,,AD/EI/Fixed,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,APD/APD/Rand,0,PREDICT,direct,True,0.05722178999985772,56,1.508888167999885,,AD/EI/Fixed,APD/APD/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Fixed,APD/APD/Rand,1,PREDICT,direct,True,0.05763919899982284,56,1.505324709999968,,AD/EI/Fixed,APD/APD/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Fixed,APD/APD/Rand,2,PREDICT,direct,True,0.060783803000049375,56,1.505236153000169,,AD/EI/Fixed,APD/APD/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Fixed,APD/APD/Seq,0,PREDICT,direct,True,0.05921020100004171,74,1.5058575559996825,,AD/EI/Fixed,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,APD/APD/Seq,1,PREDICT,direct,True,0.059101156999986415,74,1.5090873890003422,,AD/EI/Fixed,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,APD/APD/Seq,2,PREDICT,direct,True,0.05813694500011479,74,1.5051123579996784,,AD/EI/Fixed,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,APD/EI/Fixed,0,PREDICT,direct,True,0.05930630200009546,74,0.005284316000143008,,AD/EI/Fixed,APD/EI/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,APD/EI/Fixed,1,PREDICT,direct,True,0.057920497999930376,74,0.0031304230001296673,,AD/EI/Fixed,APD/EI/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,APD/EI/Fixed,2,PREDICT,direct,True,0.05818278199967608,74,0.003412521999962337,,AD/EI/Fixed,APD/EI/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,APD/EI/Rand,0,PREDICT,direct,True,0.05749842600016564,56,0.004191718000129185,,AD/EI/Fixed,APD/EI/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Fixed,APD/EI/Rand,1,PREDICT,direct,True,0.05859376299986252,56,0.003868146000058914,,AD/EI/Fixed,APD/EI/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Fixed,APD/EI/Rand,2,PREDICT,direct,True,0.05861414999981207,56,0.004268114000296919,,AD/EI/Fixed,APD/EI/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Fixed,APD/EI/Seq,0,PREDICT,direct,True,0.0590571610000552,74,0.0059549339998739015,,AD/EI/Fixed,APD/EI/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,APD/EI/Seq,1,PREDICT,direct,True,0.058790940000108094,74,0.0058151530001850915,,AD/EI/Fixed,APD/EI/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Fixed,APD/EI/Seq,2,PREDICT,direct,True,0.05890090399998371,74,0.01259977700010495,,AD/EI/Fixed,APD/EI/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Rand,AD/AD/Fixed,0,PREDICT,direct,True,0.05642342000010103,56,1.504358234999927,,AD/EI/Rand,AD/AD/Fixed,B is lenient and its port is pred
+adaptive,AD/EI/Rand,AD/AD/Fixed,1,PREDICT,direct,True,0.056176921000314906,56,1.504689734999829,,AD/EI/Rand,AD/AD/Fixed,B is lenient and its port is pred
+adaptive,AD/EI/Rand,AD/AD/Fixed,2,PREDICT,direct,True,0.056878710000091814,56,1.5048325450002267,,AD/EI/Rand,AD/AD/Fixed,B is lenient and its port is pred
+adaptive,AD/EI/Rand,AD/AD/Rand,0,SPRAY,direct,True,0.08230063500013785,296,1.5047311920002358,0.9866662960471693,AD/EI/Rand,AD/AD/Rand,"A random, opener=A"
+adaptive,AD/EI/Rand,AD/AD/Rand,1,SPRAY,direct,True,0.08398347199999989,296,1.5050550289997773,0.9866662960471693,AD/EI/Rand,AD/AD/Rand,"A random, opener=A"
+adaptive,AD/EI/Rand,AD/AD/Rand,2,SPRAY,direct,True,0.18754389100013213,424,1.5053407400000651,0.9866662960471693,AD/EI/Rand,AD/AD/Rand,"A random, opener=A"
+adaptive,AD/EI/Rand,AD/AD/Seq,0,PREDICT,direct,True,0.05664166299993667,56,1.5050136679997195,,AD/EI/Rand,AD/AD/Seq,B is lenient and its port is pred
+adaptive,AD/EI/Rand,AD/AD/Seq,1,PREDICT,direct,True,0.05687642099974255,56,1.5049285969998891,,AD/EI/Rand,AD/AD/Seq,B is lenient and its port is pred
+adaptive,AD/EI/Rand,AD/AD/Seq,2,PREDICT,direct,True,0.05652025200015487,56,1.5235828689997106,,AD/EI/Rand,AD/AD/Seq,B is lenient and its port is pred
+adaptive,AD/EI/Rand,AD/APD/Fixed,0,SPRAY,direct,True,0.08300395500009472,296,1.506695708999814,0.9866662960471693,AD/EI/Rand,AD/APD/Fixed,"A random, opener=A"
+adaptive,AD/EI/Rand,AD/APD/Fixed,1,SPRAY,direct,True,0.23660255200002211,489,1.505982179000057,0.9866662960471693,AD/EI/Rand,AD/APD/Fixed,"A random, opener=A"
+adaptive,AD/EI/Rand,AD/APD/Fixed,2,SPRAY,direct,True,0.13380305500004397,360,1.5041527280000082,0.9866662960471693,AD/EI/Rand,AD/APD/Fixed,"A random, opener=A"
+adaptive,AD/EI/Rand,AD/APD/Rand,0,SPRAY,direct,True,0.0825181939999311,296,1.5041777740002544,0.9866662960471693,AD/EI/Rand,AD/APD/Rand,"A random, opener=A"
+adaptive,AD/EI/Rand,AD/APD/Rand,1,SPRAY,direct,True,0.8054095640000014,1449,1.5040268590000778,0.9866662960471693,AD/EI/Rand,AD/APD/Rand,"A random, opener=A"
+adaptive,AD/EI/Rand,AD/APD/Rand,2,SPRAY,direct,True,0.1858722189999753,424,1.5051197440002397,0.9866662960471693,AD/EI/Rand,AD/APD/Rand,"A random, opener=A"
+adaptive,AD/EI/Rand,AD/APD/Seq,0,SPRAY,direct,True,0.26529720999997153,520,1.5066355619997012,0.9866662960471693,AD/EI/Rand,AD/APD/Seq,"A random, opener=A"
+adaptive,AD/EI/Rand,AD/APD/Seq,1,SPRAY,direct,True,0.2891366459998608,553,1.506181444000049,0.9866662960471693,AD/EI/Rand,AD/APD/Seq,"A random, opener=A"
+adaptive,AD/EI/Rand,AD/APD/Seq,2,SPRAY,direct,True,0.2891900780000469,552,1.5057297180001115,0.9866662960471693,AD/EI/Rand,AD/APD/Seq,"A random, opener=A"
+adaptive,AD/EI/Rand,AD/EI/Rand,0,SPRAY,direct,True,0.4482593769998857,1000,0.003383944000233896,0.9866662960471693,AD/EI/Rand,AD/EI/Rand,"A random, opener=A"
+adaptive,AD/EI/Rand,AD/EI/Rand,1,SPRAY,direct,True,0.2896277449999616,552,0.003418186999624595,0.9866662960471693,AD/EI/Rand,AD/EI/Rand,"A random, opener=A"
+adaptive,AD/EI/Rand,AD/EI/Rand,2,SPRAY,direct,True,0.15967956499980573,392,0.003326859000026161,0.9866662960471693,AD/EI/Rand,AD/EI/Rand,"A random, opener=A"
+adaptive,AD/EI/Rand,APD/AD/Fixed,0,PREDICT,direct,True,0.0577776189998076,56,1.5046189390000109,,AD/EI/Rand,APD/AD/Fixed,B is lenient and its port is pred
+adaptive,AD/EI/Rand,APD/AD/Fixed,1,PREDICT,direct,True,0.05703024199965512,56,1.5039217240000653,,AD/EI/Rand,APD/AD/Fixed,B is lenient and its port is pred
+adaptive,AD/EI/Rand,APD/AD/Fixed,2,PREDICT,direct,True,0.06141886600016733,56,1.5046596949996456,,AD/EI/Rand,APD/AD/Fixed,B is lenient and its port is pred
+adaptive,AD/EI/Rand,APD/AD/Rand,0,SPRAY,direct,True,0.11150852299988401,328,1.5057900209999389,0.9866662960471693,AD/EI/Rand,APD/AD/Rand,"A random, opener=A"
+adaptive,AD/EI/Rand,APD/AD/Rand,1,SPRAY,direct,True,0.0846574669999427,296,1.5041283069999736,0.9866662960471693,AD/EI/Rand,APD/AD/Rand,"A random, opener=A"
+adaptive,AD/EI/Rand,APD/AD/Rand,2,SPRAY,direct,True,0.1110571260001052,328,1.503449086999808,0.9866662960471693,AD/EI/Rand,APD/AD/Rand,"A random, opener=A"
+adaptive,AD/EI/Rand,APD/AD/Seq,0,PREDICT,direct,True,0.0566184589997647,56,1.5069685339999523,,AD/EI/Rand,APD/AD/Seq,B is lenient and its port is pred
+adaptive,AD/EI/Rand,APD/AD/Seq,1,PREDICT,direct,True,0.05703911099999459,56,1.5048457970001436,,AD/EI/Rand,APD/AD/Seq,B is lenient and its port is pred
+adaptive,AD/EI/Rand,APD/AD/Seq,2,PREDICT,direct,True,0.05700883100007559,56,1.5030887580001036,,AD/EI/Rand,APD/AD/Seq,B is lenient and its port is pred
+adaptive,AD/EI/Rand,APD/APD/Fixed,0,SPRAY,direct,True,0.8791375089999747,1417,1.5051881490003325,0.9866662960471693,AD/EI/Rand,APD/APD/Fixed,"A random, opener=A"
+adaptive,AD/EI/Rand,APD/APD/Fixed,1,SPRAY,direct,True,0.17044889499993587,392,1.5063048350002646,0.9866662960471693,AD/EI/Rand,APD/APD/Fixed,"A random, opener=A"
+adaptive,AD/EI/Rand,APD/APD/Fixed,2,SPRAY,direct,True,0.11315014999991035,328,1.506794789000196,0.9866662960471693,AD/EI/Rand,APD/APD/Fixed,"A random, opener=A"
+adaptive,AD/EI/Rand,APD/APD/Rand,0,SPRAY,direct,True,0.31914709600005153,552,1.5050188999998682,0.9866662960471693,AD/EI/Rand,APD/APD/Rand,"A random, opener=A"
+adaptive,AD/EI/Rand,APD/APD/Rand,1,SPRAY,direct,True,0.086188502999903,296,1.506068005999623,0.9866662960471693,AD/EI/Rand,APD/APD/Rand,"A random, opener=A"
+adaptive,AD/EI/Rand,APD/APD/Rand,2,SPRAY,direct,True,0.1425236390000464,361,1.5051986869998473,0.9866662960471693,AD/EI/Rand,APD/APD/Rand,"A random, opener=A"
+adaptive,AD/EI/Rand,APD/APD/Seq,0,SPRAY,relay,True,2.5238480409998374,1607,1.505542991999846,0.9866662960471693,AD/EI/Rand,APD/APD/Seq,"A random, opener=A"
+adaptive,AD/EI/Rand,APD/APD/Seq,1,SPRAY,direct,True,0.2295338530002482,456,1.5091238200002408,0.9866662960471693,AD/EI/Rand,APD/APD/Seq,"A random, opener=A"
+adaptive,AD/EI/Rand,APD/APD/Seq,2,SPRAY,direct,True,0.08338070799982233,296,1.5053448960002243,0.9866662960471693,AD/EI/Rand,APD/APD/Seq,"A random, opener=A"
+adaptive,AD/EI/Rand,APD/EI/Fixed,0,PREDICT,direct,True,0.05637802899991584,56,0.0033266049999838287,,AD/EI/Rand,APD/EI/Fixed,B is lenient and its port is pred
+adaptive,AD/EI/Rand,APD/EI/Fixed,1,PREDICT,direct,True,0.0570232439999927,57,0.0033484200002931175,,AD/EI/Rand,APD/EI/Fixed,B is lenient and its port is pred
+adaptive,AD/EI/Rand,APD/EI/Fixed,2,PREDICT,direct,True,0.05736695499990674,56,0.003664461999960622,,AD/EI/Rand,APD/EI/Fixed,B is lenient and its port is pred
+adaptive,AD/EI/Rand,APD/EI/Rand,0,SPRAY,direct,True,0.2490828939999119,488,0.0034951789998558525,0.9866662960471693,AD/EI/Rand,APD/EI/Rand,"A random, opener=A"
+adaptive,AD/EI/Rand,APD/EI/Rand,1,SPRAY,direct,True,0.05666021199976967,264,0.0034063860002788715,0.9866662960471693,AD/EI/Rand,APD/EI/Rand,"A random, opener=A"
+adaptive,AD/EI/Rand,APD/EI/Rand,2,SPRAY,direct,True,0.08327673699977822,296,0.00339158699989639,0.9866662960471693,AD/EI/Rand,APD/EI/Rand,"A random, opener=A"
+adaptive,AD/EI/Rand,APD/EI/Seq,0,PREDICT,direct,True,0.05663950300004217,56,0.0036839110002802045,,AD/EI/Rand,APD/EI/Seq,B is lenient and its port is pred
+adaptive,AD/EI/Rand,APD/EI/Seq,1,PREDICT,direct,True,0.05640582200021527,56,0.003107348999947135,,AD/EI/Rand,APD/EI/Seq,B is lenient and its port is pred
+adaptive,AD/EI/Rand,APD/EI/Seq,2,PREDICT,direct,True,0.05821176599965838,56,0.005939740000030724,,AD/EI/Rand,APD/EI/Seq,B is lenient and its port is pred
+adaptive,AD/EI/Seq,AD/AD/Fixed,0,PREDICT,direct,True,0.05672755599971424,74,1.5059747739996965,,AD/EI/Seq,AD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,AD/AD/Fixed,1,PREDICT,direct,True,0.056379871999979514,74,1.5049174069999935,,AD/EI/Seq,AD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,AD/AD/Fixed,2,PREDICT,direct,True,0.0572294020003028,74,1.5049711970000317,,AD/EI/Seq,AD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,AD/AD/Rand,0,PREDICT,direct,True,0.05653568800016728,56,1.5055789150001146,,AD/EI/Seq,AD/AD/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Seq,AD/AD/Rand,1,PREDICT,direct,True,0.05616657800010216,56,1.5043118089997733,,AD/EI/Seq,AD/AD/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Seq,AD/AD/Rand,2,PREDICT,direct,True,0.0568160570001055,56,1.5044045309996363,,AD/EI/Seq,AD/AD/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Seq,AD/AD/Seq,0,PREDICT,direct,True,0.05672025600006236,74,1.5039248970001609,,AD/EI/Seq,AD/AD/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,AD/AD/Seq,1,PREDICT,direct,True,0.056732670000201324,74,1.505395192999913,,AD/EI/Seq,AD/AD/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,AD/AD/Seq,2,PREDICT,direct,True,0.056056354000247666,74,1.5039824780001254,,AD/EI/Seq,AD/AD/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,AD/APD/Fixed,0,PREDICT,direct,True,0.056500946000141994,74,1.5035112729997309,,AD/EI/Seq,AD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,AD/APD/Fixed,1,PREDICT,direct,True,0.05652028199983761,74,1.504810202999579,,AD/EI/Seq,AD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,AD/APD/Fixed,2,PREDICT,direct,True,0.05764576399997168,74,1.5041621309997026,,AD/EI/Seq,AD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,AD/APD/Rand,0,PREDICT,direct,True,0.05575579899959848,56,1.5042353419999017,,AD/EI/Seq,AD/APD/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Seq,AD/APD/Rand,1,PREDICT,direct,True,0.0570327109999198,56,1.504295748000004,,AD/EI/Seq,AD/APD/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Seq,AD/APD/Rand,2,PREDICT,direct,True,0.05619315700005245,56,1.5046991389999675,,AD/EI/Seq,AD/APD/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Seq,AD/APD/Seq,0,PREDICT,direct,True,0.05625788199995441,74,1.5035348110000086,,AD/EI/Seq,AD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,AD/APD/Seq,1,PREDICT,direct,True,0.05643594499997562,74,1.504892275000202,,AD/EI/Seq,AD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,AD/APD/Seq,2,PREDICT,direct,True,0.05603580300021349,74,1.5059512070001801,,AD/EI/Seq,AD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,AD/EI/Fixed,0,PREDICT,direct,True,0.056285136999576935,74,0.004024839000067004,,AD/EI/Seq,AD/EI/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,AD/EI/Fixed,1,PREDICT,direct,True,0.0566008209998472,74,0.004350614000031783,,AD/EI/Seq,AD/EI/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,AD/EI/Fixed,2,PREDICT,direct,True,0.056633645000147226,74,0.004151696999997512,,AD/EI/Seq,AD/EI/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,AD/EI/Rand,0,PREDICT,direct,True,0.056835878000129014,56,0.004379304999929445,,AD/EI/Seq,AD/EI/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Seq,AD/EI/Rand,1,PREDICT,direct,True,0.055942042999959085,56,0.005004863000067417,,AD/EI/Seq,AD/EI/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Seq,AD/EI/Rand,2,PREDICT,direct,True,0.055951742000161175,56,0.0038949680001678644,,AD/EI/Seq,AD/EI/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Seq,AD/EI/Seq,0,PREDICT,direct,True,0.0559353049998208,74,0.0032200509999711358,,AD/EI/Seq,AD/EI/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,AD/EI/Seq,1,PREDICT,direct,True,0.05692380600021352,74,0.003446875000008731,,AD/EI/Seq,AD/EI/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,AD/EI/Seq,2,PREDICT,direct,True,0.05754501799992795,74,0.003652812000382255,,AD/EI/Seq,AD/EI/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,APD/AD/Fixed,0,PREDICT,direct,True,0.058894581999993534,74,1.5045663070000046,,AD/EI/Seq,APD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,APD/AD/Fixed,1,PREDICT,direct,True,0.05837925100013308,74,1.5045210119997137,,AD/EI/Seq,APD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,APD/AD/Fixed,2,PREDICT,direct,True,0.059876557999814395,74,1.5051016950001213,,AD/EI/Seq,APD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,APD/AD/Rand,0,PREDICT,direct,True,0.0578050870003608,56,1.5059474889999365,,AD/EI/Seq,APD/AD/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Seq,APD/AD/Rand,1,PREDICT,direct,True,0.05726656099977845,56,1.5059654199999386,,AD/EI/Seq,APD/AD/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Seq,APD/AD/Rand,2,PREDICT,direct,True,0.060233588999835774,56,1.5082547570000315,,AD/EI/Seq,APD/AD/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Seq,APD/AD/Seq,0,PREDICT,direct,True,0.05755868999995073,74,1.503662654999971,,AD/EI/Seq,APD/AD/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,APD/AD/Seq,1,PREDICT,direct,True,0.05816750400026649,74,1.5038215099998524,,AD/EI/Seq,APD/AD/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,APD/AD/Seq,2,PREDICT,direct,True,0.059160388999771385,74,1.5056473790000382,,AD/EI/Seq,APD/AD/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,APD/APD/Fixed,0,PREDICT,direct,True,0.05876358900013656,74,1.5057824969999274,,AD/EI/Seq,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,APD/APD/Fixed,1,PREDICT,direct,True,0.059378259999903094,74,1.5051814590001413,,AD/EI/Seq,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,APD/APD/Fixed,2,PREDICT,direct,True,0.058173495000119146,74,1.504943533000187,,AD/EI/Seq,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,APD/APD/Rand,0,PREDICT,direct,True,0.057346070999756193,56,1.5045000960003563,,AD/EI/Seq,APD/APD/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Seq,APD/APD/Rand,1,PREDICT,direct,True,0.05943099199976132,56,1.5074613710003177,,AD/EI/Seq,APD/APD/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Seq,APD/APD/Rand,2,PREDICT,direct,True,0.057275957000001654,56,1.5036762099998668,,AD/EI/Seq,APD/APD/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Seq,APD/APD/Seq,0,PREDICT,direct,True,0.060769032000280276,74,1.5061827300000914,,AD/EI/Seq,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,APD/APD/Seq,1,PREDICT,direct,True,0.06252189500037275,74,1.5047230350000973,,AD/EI/Seq,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,APD/APD/Seq,2,PREDICT,direct,True,0.05801505899989934,74,1.5052066270000068,,AD/EI/Seq,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,APD/EI/Fixed,0,PREDICT,direct,True,0.05790291099992828,74,0.004081089999999676,,AD/EI/Seq,APD/EI/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,APD/EI/Fixed,1,PREDICT,direct,True,0.057924232999994274,74,0.003490840000267781,,AD/EI/Seq,APD/EI/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,APD/EI/Fixed,2,PREDICT,direct,True,0.05749847800007046,74,0.003714959999797429,,AD/EI/Seq,APD/EI/Fixed,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,APD/EI/Rand,0,PREDICT,direct,True,0.05755282600011924,56,0.003190459000052215,,AD/EI/Seq,APD/EI/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Seq,APD/EI/Rand,1,PREDICT,direct,True,0.057532260000243696,56,0.0035276790003990754,,AD/EI/Seq,APD/EI/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Seq,APD/EI/Rand,2,PREDICT,direct,True,0.05742485799964925,56,0.0028982639996684156,,AD/EI/Seq,APD/EI/Rand,A is lenient and its port is pred
+adaptive,AD/EI/Seq,APD/EI/Seq,0,PREDICT,direct,True,0.05713867599979494,74,0.00330444900009752,,AD/EI/Seq,APD/EI/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,APD/EI/Seq,1,PREDICT,direct,True,0.058037918000081845,74,0.0034135060000153317,,AD/EI/Seq,APD/EI/Seq,both ports predictable (pred/pred)
+adaptive,AD/EI/Seq,APD/EI/Seq,2,PREDICT,direct,True,0.05729882700006783,74,0.0028799819997402665,,AD/EI/Seq,APD/EI/Seq,both ports predictable (pred/pred)
+adaptive,APD/AD/Fixed,APD/AD/Fixed,0,PREDICT,direct,True,0.06131071499976315,136,1.507537677000073,,APD/AD/Fixed,APD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,APD/AD/Fixed,APD/AD/Fixed,1,PREDICT,direct,True,0.061135761000059574,136,1.5092674300003637,,APD/AD/Fixed,APD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,APD/AD/Fixed,APD/AD/Fixed,2,PREDICT,direct,True,0.062015082000016264,136,1.5070507959999304,,APD/AD/Fixed,APD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,APD/AD/Fixed,APD/AD/Rand,0,PREDICT,direct,True,0.06438015399999131,87,1.504582995000419,,APD/AD/Fixed,APD/AD/Rand,A is lenient and its port is pred
+adaptive,APD/AD/Fixed,APD/AD/Rand,1,PREDICT,direct,True,0.06278884899984405,87,1.5070577970000159,,APD/AD/Fixed,APD/AD/Rand,A is lenient and its port is pred
+adaptive,APD/AD/Fixed,APD/AD/Rand,2,PREDICT,direct,True,0.0604638560002968,87,1.5057071060000453,,APD/AD/Fixed,APD/AD/Rand,A is lenient and its port is pred
+adaptive,APD/AD/Fixed,APD/APD/Fixed,0,PREDICT,direct,True,0.06271110300031069,136,1.5062979780000205,,APD/AD/Fixed,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,APD/AD/Fixed,APD/APD/Fixed,1,PREDICT,direct,True,0.06159359299999778,136,1.5065007510002033,,APD/AD/Fixed,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,APD/AD/Fixed,APD/APD/Fixed,2,PREDICT,direct,True,0.05931191100034994,136,1.5058842309999818,,APD/AD/Fixed,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,APD/AD/Fixed,APD/APD/Rand,0,RELAY,relay,True,0.005334206999577873,6,1.5076395790001698,,APD/AD/Fixed,APD/APD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,APD/AD/Fixed,APD/APD/Rand,1,RELAY,relay,True,0.005289323999932094,6,1.5057453350000287,,APD/AD/Fixed,APD/APD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,APD/AD/Fixed,APD/APD/Rand,2,RELAY,relay,True,0.005337697000413755,6,1.5064662489999137,,APD/AD/Fixed,APD/APD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,APD/AD/Fixed,APD/APD/Seq,0,PREDICT,direct,True,0.061227321999922424,136,1.5069913460001771,,APD/AD/Fixed,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,APD/AD/Fixed,APD/APD/Seq,1,PREDICT,direct,True,0.06023381800014249,136,1.5058004989996334,,APD/AD/Fixed,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,APD/AD/Fixed,APD/APD/Seq,2,PREDICT,direct,True,0.06132700800026214,136,1.5063245740002458,,APD/AD/Fixed,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,APD/AD/Rand,APD/AD/Rand,0,SPRAY,direct,True,0.8078684830002203,1384,1.5060496319997583,0.9866662960471693,APD/AD/Rand,APD/AD/Rand,"A random, opener=A"
+adaptive,APD/AD/Rand,APD/AD/Rand,1,SPRAY,direct,True,0.14157717499983846,360,1.5059625099997902,0.9866662960471693,APD/AD/Rand,APD/AD/Rand,"A random, opener=A"
+adaptive,APD/AD/Rand,APD/AD/Rand,2,SPRAY,direct,True,0.22122641299984025,456,1.513550896000197,0.9866662960471693,APD/AD/Rand,APD/AD/Rand,"A random, opener=A"
+adaptive,APD/AD/Rand,APD/APD/Fixed,0,RELAY,relay,True,0.005439021999791294,6,1.5105634149999787,,APD/AD/Rand,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+adaptive,APD/AD/Rand,APD/APD/Fixed,1,RELAY,relay,True,0.005734480999763036,6,1.5055497140001535,,APD/AD/Rand,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+adaptive,APD/AD/Rand,APD/APD/Fixed,2,RELAY,relay,True,0.006358429000101751,6,1.5088201590001518,,APD/AD/Rand,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+adaptive,APD/AD/Rand,APD/APD/Rand,0,RELAY,relay,True,0.005636548999973456,6,1.5088921720002872,,APD/AD/Rand,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+adaptive,APD/AD/Rand,APD/APD/Rand,1,RELAY,relay,True,0.005633387000216317,6,1.5102388350001092,,APD/AD/Rand,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+adaptive,APD/AD/Rand,APD/APD/Rand,2,RELAY,relay,True,0.005300682000324741,6,1.5065420490000179,,APD/AD/Rand,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+adaptive,APD/AD/Rand,APD/APD/Seq,0,RELAY,relay,True,0.005317205999745056,6,1.5064381699999103,,APD/AD/Rand,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+adaptive,APD/AD/Rand,APD/APD/Seq,1,RELAY,relay,True,0.0053200329998617235,6,1.507003980999798,,APD/AD/Rand,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+adaptive,APD/AD/Rand,APD/APD/Seq,2,RELAY,relay,True,0.0058503669997662655,6,1.5071951959998842,,APD/AD/Rand,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+adaptive,APD/AD/Seq,APD/AD/Fixed,0,PREDICT,direct,True,0.06588942499956829,136,1.5077895889999127,,APD/AD/Seq,APD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,APD/AD/Seq,APD/AD/Fixed,1,PREDICT,direct,True,0.06091703599986431,136,1.5081021639998653,,APD/AD/Seq,APD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,APD/AD/Seq,APD/AD/Fixed,2,PREDICT,direct,True,0.06310819299960713,136,1.508791382000254,,APD/AD/Seq,APD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,APD/AD/Seq,APD/AD/Rand,0,PREDICT,direct,True,0.06049502799987749,87,1.5051659069999914,,APD/AD/Seq,APD/AD/Rand,A is lenient and its port is pred
+adaptive,APD/AD/Seq,APD/AD/Rand,1,PREDICT,direct,True,0.059965206000015314,87,1.5053358629998002,,APD/AD/Seq,APD/AD/Rand,A is lenient and its port is pred
+adaptive,APD/AD/Seq,APD/AD/Rand,2,PREDICT,direct,True,0.061910746000194194,87,1.5058237540001755,,APD/AD/Seq,APD/AD/Rand,A is lenient and its port is pred
+adaptive,APD/AD/Seq,APD/AD/Seq,0,PREDICT,direct,True,0.06137564899972858,136,1.5044077669999751,,APD/AD/Seq,APD/AD/Seq,both ports predictable (pred/pred)
+adaptive,APD/AD/Seq,APD/AD/Seq,1,PREDICT,direct,True,0.06079712800010384,136,1.509269406000385,,APD/AD/Seq,APD/AD/Seq,both ports predictable (pred/pred)
+adaptive,APD/AD/Seq,APD/AD/Seq,2,PREDICT,direct,True,0.06053391900013594,136,1.5050219390000166,,APD/AD/Seq,APD/AD/Seq,both ports predictable (pred/pred)
+adaptive,APD/AD/Seq,APD/APD/Fixed,0,PREDICT,direct,True,0.06013733800000409,136,1.507956379999996,,APD/AD/Seq,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,APD/AD/Seq,APD/APD/Fixed,1,PREDICT,direct,True,0.060572982000394404,136,1.5068682330002048,,APD/AD/Seq,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,APD/AD/Seq,APD/APD/Fixed,2,PREDICT,direct,True,0.06296259299961093,136,1.508506566000051,,APD/AD/Seq,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,APD/AD/Seq,APD/APD/Rand,0,RELAY,relay,True,0.00529389200028163,6,1.507433864000177,,APD/AD/Seq,APD/APD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,APD/AD/Seq,APD/APD/Rand,1,RELAY,relay,True,0.005263984000066557,6,1.5061900880000394,,APD/AD/Seq,APD/APD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,APD/AD/Seq,APD/APD/Rand,2,RELAY,relay,True,0.005858520999936445,6,1.5073587370002315,,APD/AD/Seq,APD/APD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,APD/AD/Seq,APD/APD/Seq,0,PREDICT,direct,True,0.061244689999966795,136,1.5068135189999339,,APD/AD/Seq,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,APD/AD/Seq,APD/APD/Seq,1,PREDICT,direct,True,0.060053108999909455,136,1.507694722999986,,APD/AD/Seq,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,APD/AD/Seq,APD/APD/Seq,2,PREDICT,direct,True,0.06247325699996509,136,1.5075500990001274,,APD/AD/Seq,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,APD/APD/Fixed,APD/APD/Fixed,0,PREDICT,direct,True,0.06069736300014483,136,1.5082131359999948,,APD/APD/Fixed,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,APD/APD/Fixed,APD/APD/Fixed,1,PREDICT,direct,True,0.061609043999851565,136,1.5052904069998476,,APD/APD/Fixed,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,APD/APD/Fixed,APD/APD/Fixed,2,PREDICT,direct,True,0.06072414999971443,136,1.5066454860002523,,APD/APD/Fixed,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,APD/APD/Fixed,APD/APD/Rand,0,RELAY,relay,True,0.005437299000277562,6,1.5069546110003103,,APD/APD/Fixed,APD/APD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,APD/APD/Fixed,APD/APD/Rand,1,RELAY,relay,True,0.005405969000094046,6,1.506010002000039,,APD/APD/Fixed,APD/APD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,APD/APD/Fixed,APD/APD/Rand,2,RELAY,relay,True,0.0056467569997948885,6,1.5071864219999043,,APD/APD/Fixed,APD/APD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,APD/APD/Rand,APD/APD/Rand,0,RELAY,relay,True,0.0053097280001566105,6,1.5062338070001715,,APD/APD/Rand,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+adaptive,APD/APD/Rand,APD/APD/Rand,1,RELAY,relay,True,0.0053227420003167936,6,1.504261569999926,,APD/APD/Rand,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+adaptive,APD/APD/Rand,APD/APD/Rand,2,RELAY,relay,True,0.00535684999977093,6,1.508133424999869,,APD/APD/Rand,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+adaptive,APD/APD/Seq,APD/APD/Fixed,0,PREDICT,direct,True,0.061083989999588084,136,1.5064429710000695,,APD/APD/Seq,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,APD/APD/Seq,APD/APD/Fixed,1,PREDICT,direct,True,0.0668279699998493,136,1.5115845660002378,,APD/APD/Seq,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,APD/APD/Seq,APD/APD/Fixed,2,PREDICT,direct,True,0.06466205499964417,136,1.512011564000204,,APD/APD/Seq,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,APD/APD/Seq,APD/APD/Rand,0,RELAY,relay,True,0.005624042999897938,6,1.506359219999922,,APD/APD/Seq,APD/APD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,APD/APD/Seq,APD/APD/Rand,1,RELAY,relay,True,0.005337151000276208,6,1.5069715180002277,,APD/APD/Seq,APD/APD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,APD/APD/Seq,APD/APD/Rand,2,RELAY,relay,True,0.005914011000186292,6,1.5081294689998685,,APD/APD/Seq,APD/APD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,APD/APD/Seq,APD/APD/Seq,0,PREDICT,direct,True,0.4032653509998454,136,1.509187693000058,,APD/APD/Seq,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,APD/APD/Seq,APD/APD/Seq,1,PREDICT,direct,True,0.062167381000108435,136,1.5090366949998497,,APD/APD/Seq,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,APD/APD/Seq,APD/APD/Seq,2,PREDICT,direct,True,0.061065402000167524,136,1.5119791009997243,,APD/APD/Seq,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,APD/EI/Fixed,APD/AD/Fixed,0,PREDICT,direct,True,0.05990126999995482,136,1.5055924059997778,,APD/EI/Fixed,APD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,APD/EI/Fixed,APD/AD/Fixed,1,PREDICT,direct,True,0.06202223499985848,136,1.5055972710001697,,APD/EI/Fixed,APD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,APD/EI/Fixed,APD/AD/Fixed,2,PREDICT,direct,True,0.06324909699969794,136,1.5037850819999221,,APD/EI/Fixed,APD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,APD/EI/Fixed,APD/AD/Rand,0,PREDICT,direct,True,0.06360497700006817,87,1.504657368000153,,APD/EI/Fixed,APD/AD/Rand,A is lenient and its port is pred
+adaptive,APD/EI/Fixed,APD/AD/Rand,1,PREDICT,direct,True,0.06016202199998588,87,1.5042725230000542,,APD/EI/Fixed,APD/AD/Rand,A is lenient and its port is pred
+adaptive,APD/EI/Fixed,APD/AD/Rand,2,PREDICT,direct,True,0.06186687199988228,87,1.5073970189996544,,APD/EI/Fixed,APD/AD/Rand,A is lenient and its port is pred
+adaptive,APD/EI/Fixed,APD/AD/Seq,0,PREDICT,direct,True,0.060050719999708235,136,1.505592389999947,,APD/EI/Fixed,APD/AD/Seq,both ports predictable (pred/pred)
+adaptive,APD/EI/Fixed,APD/AD/Seq,1,PREDICT,direct,True,0.06085223399986717,136,1.5054924569999457,,APD/EI/Fixed,APD/AD/Seq,both ports predictable (pred/pred)
+adaptive,APD/EI/Fixed,APD/AD/Seq,2,PREDICT,direct,True,0.065185437999844,136,1.5040812260003804,,APD/EI/Fixed,APD/AD/Seq,both ports predictable (pred/pred)
+adaptive,APD/EI/Fixed,APD/APD/Fixed,0,PREDICT,direct,True,0.06135637900024449,136,1.505455252000047,,APD/EI/Fixed,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,APD/EI/Fixed,APD/APD/Fixed,1,PREDICT,direct,True,0.060509781000291696,136,1.5042359330000181,,APD/EI/Fixed,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,APD/EI/Fixed,APD/APD/Fixed,2,PREDICT,direct,True,0.06013902999984566,136,1.5036720329999298,,APD/EI/Fixed,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,APD/EI/Fixed,APD/APD/Rand,0,RELAY,relay,True,0.005340565000096831,6,1.5089753340002972,,APD/EI/Fixed,APD/APD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,APD/EI/Fixed,APD/APD/Rand,1,RELAY,relay,True,0.005368871999962721,6,1.5052933020001547,,APD/EI/Fixed,APD/APD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,APD/EI/Fixed,APD/APD/Rand,2,RELAY,relay,True,0.005549878999772773,6,1.5043375119998927,,APD/EI/Fixed,APD/APD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,APD/EI/Fixed,APD/APD/Seq,0,PREDICT,direct,True,0.06164665699998295,136,1.504097701000319,,APD/EI/Fixed,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,APD/EI/Fixed,APD/APD/Seq,1,PREDICT,direct,True,0.06105582400005005,136,1.5055867619998935,,APD/EI/Fixed,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,APD/EI/Fixed,APD/APD/Seq,2,PREDICT,direct,True,0.06125603400005275,136,1.5053398280001602,,APD/EI/Fixed,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,APD/EI/Fixed,APD/EI/Fixed,0,PREDICT,direct,True,0.06061896900018837,136,0.005959490000350343,,APD/EI/Fixed,APD/EI/Fixed,both ports predictable (pred/pred)
+adaptive,APD/EI/Fixed,APD/EI/Fixed,1,PREDICT,direct,True,0.06229355299956296,136,0.004205473999718379,,APD/EI/Fixed,APD/EI/Fixed,both ports predictable (pred/pred)
+adaptive,APD/EI/Fixed,APD/EI/Fixed,2,PREDICT,direct,True,0.06003045599982215,136,0.0035303889999340754,,APD/EI/Fixed,APD/EI/Fixed,both ports predictable (pred/pred)
+adaptive,APD/EI/Fixed,APD/EI/Rand,0,PREDICT,direct,True,0.06343213800028025,88,0.006476263999957155,,APD/EI/Fixed,APD/EI/Rand,A is lenient and its port is pred
+adaptive,APD/EI/Fixed,APD/EI/Rand,1,PREDICT,direct,True,0.06255956000040896,87,0.003941236000173376,,APD/EI/Fixed,APD/EI/Rand,A is lenient and its port is pred
+adaptive,APD/EI/Fixed,APD/EI/Rand,2,PREDICT,direct,True,0.06051408600023933,87,0.0043080680002276495,,APD/EI/Fixed,APD/EI/Rand,A is lenient and its port is pred
+adaptive,APD/EI/Rand,APD/AD/Fixed,0,PREDICT,direct,True,0.061272432999885496,87,1.5056396869999844,,APD/EI/Rand,APD/AD/Fixed,B is lenient and its port is pred
+adaptive,APD/EI/Rand,APD/AD/Fixed,1,PREDICT,direct,True,0.062145762000000104,87,1.5061989959999664,,APD/EI/Rand,APD/AD/Fixed,B is lenient and its port is pred
+adaptive,APD/EI/Rand,APD/AD/Fixed,2,PREDICT,direct,True,0.06045721600003162,87,1.5036765049999303,,APD/EI/Rand,APD/AD/Fixed,B is lenient and its port is pred
+adaptive,APD/EI/Rand,APD/AD/Rand,0,SPRAY,direct,True,0.33409309099988604,584,1.5056935299999168,0.9866662960471693,APD/EI/Rand,APD/AD/Rand,"A random, opener=A"
+adaptive,APD/EI/Rand,APD/AD/Rand,1,SPRAY,direct,True,0.1404900459997407,360,1.5028839090000474,0.9866662960471693,APD/EI/Rand,APD/AD/Rand,"A random, opener=A"
+adaptive,APD/EI/Rand,APD/AD/Rand,2,SPRAY,direct,True,0.08339350699998249,296,1.5087757969999984,0.9866662960471693,APD/EI/Rand,APD/AD/Rand,"A random, opener=A"
+adaptive,APD/EI/Rand,APD/AD/Seq,0,PREDICT,direct,True,0.06002338799999052,87,1.5057481789999656,,APD/EI/Rand,APD/AD/Seq,B is lenient and its port is pred
+adaptive,APD/EI/Rand,APD/AD/Seq,1,PREDICT,direct,True,0.07235859000002165,87,1.5053247939999892,,APD/EI/Rand,APD/AD/Seq,B is lenient and its port is pred
+adaptive,APD/EI/Rand,APD/AD/Seq,2,PREDICT,direct,True,0.061746544000016,87,1.505235219000042,,APD/EI/Rand,APD/AD/Seq,B is lenient and its port is pred
+adaptive,APD/EI/Rand,APD/APD/Fixed,0,RELAY,relay,True,0.005385945999933028,6,1.5046131300000525,,APD/EI/Rand,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+adaptive,APD/EI/Rand,APD/APD/Fixed,1,RELAY,relay,True,0.0053450420000444865,6,1.5036156129999654,,APD/EI/Rand,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+adaptive,APD/EI/Rand,APD/APD/Fixed,2,RELAY,relay,True,0.005321657999957097,6,1.5059038579997832,,APD/EI/Rand,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+adaptive,APD/EI/Rand,APD/APD/Rand,0,RELAY,relay,True,0.005533412999739085,6,1.5060668549999718,,APD/EI/Rand,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+adaptive,APD/EI/Rand,APD/APD/Rand,1,RELAY,relay,True,0.005349243999717146,6,1.5040634259999024,,APD/EI/Rand,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+adaptive,APD/EI/Rand,APD/APD/Rand,2,RELAY,relay,True,0.005359542999940459,6,1.5062971659999675,,APD/EI/Rand,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+adaptive,APD/EI/Rand,APD/APD/Seq,0,RELAY,relay,True,0.005386628999985987,6,1.5057555849998607,,APD/EI/Rand,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+adaptive,APD/EI/Rand,APD/APD/Seq,1,RELAY,relay,True,0.005302102000314335,6,1.5071075910000218,,APD/EI/Rand,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+adaptive,APD/EI/Rand,APD/APD/Seq,2,RELAY,relay,True,0.005323333999967872,6,1.505114955999943,,APD/EI/Rand,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+adaptive,APD/EI/Rand,APD/EI/Rand,0,SPRAY,direct,True,0.08534623800005647,296,0.004319021999890538,0.9866662960471693,APD/EI/Rand,APD/EI/Rand,"A random, opener=A"
+adaptive,APD/EI/Rand,APD/EI/Rand,1,SPRAY,direct,True,0.057630411999980424,264,0.003561188000276161,0.9866662960471693,APD/EI/Rand,APD/EI/Rand,"A random, opener=A"
+adaptive,APD/EI/Rand,APD/EI/Rand,2,SPRAY,direct,True,0.25091195599998173,488,0.0030441809999501857,0.9866662960471693,APD/EI/Rand,APD/EI/Rand,"A random, opener=A"
+adaptive,APD/EI/Seq,APD/AD/Fixed,0,PREDICT,direct,True,0.060245441000006394,136,1.5044116890003352,,APD/EI/Seq,APD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,APD/EI/Seq,APD/AD/Fixed,1,PREDICT,direct,True,0.06050848999984737,136,1.504636408999886,,APD/EI/Seq,APD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,APD/EI/Seq,APD/AD/Fixed,2,PREDICT,direct,True,0.06008551799959605,136,1.5048876490000112,,APD/EI/Seq,APD/AD/Fixed,both ports predictable (pred/pred)
+adaptive,APD/EI/Seq,APD/AD/Rand,0,PREDICT,direct,True,0.06006779200015444,87,1.5080717390001155,,APD/EI/Seq,APD/AD/Rand,A is lenient and its port is pred
+adaptive,APD/EI/Seq,APD/AD/Rand,1,PREDICT,direct,True,0.06007562800004962,87,1.5049845049998112,,APD/EI/Seq,APD/AD/Rand,A is lenient and its port is pred
+adaptive,APD/EI/Seq,APD/AD/Rand,2,PREDICT,direct,True,0.06085426700019525,87,1.5032770930001789,,APD/EI/Seq,APD/AD/Rand,A is lenient and its port is pred
+adaptive,APD/EI/Seq,APD/AD/Seq,0,PREDICT,direct,True,0.06366583399994852,136,1.5148905999999442,,APD/EI/Seq,APD/AD/Seq,both ports predictable (pred/pred)
+adaptive,APD/EI/Seq,APD/AD/Seq,1,PREDICT,direct,True,0.06076479400007884,136,1.504101016000277,,APD/EI/Seq,APD/AD/Seq,both ports predictable (pred/pred)
+adaptive,APD/EI/Seq,APD/AD/Seq,2,PREDICT,direct,True,0.06298705700010032,136,1.5056829559998732,,APD/EI/Seq,APD/AD/Seq,both ports predictable (pred/pred)
+adaptive,APD/EI/Seq,APD/APD/Fixed,0,PREDICT,direct,True,0.06160090299999865,136,1.5056349679998675,,APD/EI/Seq,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,APD/EI/Seq,APD/APD/Fixed,1,PREDICT,direct,True,0.06049813700019513,136,1.5045933650003462,,APD/EI/Seq,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,APD/EI/Seq,APD/APD/Fixed,2,PREDICT,direct,True,0.06067945199993119,136,1.5051185820002502,,APD/EI/Seq,APD/APD/Fixed,both ports predictable (pred/pred)
+adaptive,APD/EI/Seq,APD/APD/Rand,0,RELAY,relay,True,0.005449855999813735,6,1.5052214050001567,,APD/EI/Seq,APD/APD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,APD/EI/Seq,APD/APD/Rand,1,RELAY,relay,True,0.005585111000073084,6,1.5074528009999995,,APD/EI/Seq,APD/APD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,APD/EI/Seq,APD/APD/Rand,2,RELAY,relay,True,0.005490295000072365,6,1.5066171910002595,,APD/EI/Seq,APD/APD/Rand,"no viable direct method (pred/rand, filters too strict)"
+adaptive,APD/EI/Seq,APD/APD/Seq,0,PREDICT,direct,True,0.060202460999789764,136,1.5044717699997818,,APD/EI/Seq,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,APD/EI/Seq,APD/APD/Seq,1,PREDICT,direct,True,0.06516125600001033,136,1.507363999000063,,APD/EI/Seq,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,APD/EI/Seq,APD/APD/Seq,2,PREDICT,direct,True,0.06164078900019376,136,1.5051737740000135,,APD/EI/Seq,APD/APD/Seq,both ports predictable (pred/pred)
+adaptive,APD/EI/Seq,APD/EI/Fixed,0,PREDICT,direct,True,0.06321177000017997,136,0.004548164999960136,,APD/EI/Seq,APD/EI/Fixed,both ports predictable (pred/pred)
+adaptive,APD/EI/Seq,APD/EI/Fixed,1,PREDICT,direct,True,0.06157553499997448,136,0.0032898290000957786,,APD/EI/Seq,APD/EI/Fixed,both ports predictable (pred/pred)
+adaptive,APD/EI/Seq,APD/EI/Fixed,2,PREDICT,direct,True,0.06014598699994167,136,0.002915574999860837,,APD/EI/Seq,APD/EI/Fixed,both ports predictable (pred/pred)
+adaptive,APD/EI/Seq,APD/EI/Rand,0,PREDICT,direct,True,0.0609183009996741,87,0.009335220000139088,,APD/EI/Seq,APD/EI/Rand,A is lenient and its port is pred
+adaptive,APD/EI/Seq,APD/EI/Rand,1,PREDICT,direct,True,0.06521890900012295,87,0.0029473489998963487,,APD/EI/Seq,APD/EI/Rand,A is lenient and its port is pred
+adaptive,APD/EI/Seq,APD/EI/Rand,2,PREDICT,direct,True,0.059732658000029915,87,0.0034431630001563462,,APD/EI/Seq,APD/EI/Rand,A is lenient and its port is pred
+adaptive,APD/EI/Seq,APD/EI/Seq,0,PREDICT,direct,True,0.2388331490001292,136,0.005148260000169103,,APD/EI/Seq,APD/EI/Seq,both ports predictable (pred/pred)
+adaptive,APD/EI/Seq,APD/EI/Seq,1,PREDICT,direct,True,0.06001881400015918,136,0.0033084890001191525,,APD/EI/Seq,APD/EI/Seq,both ports predictable (pred/pred)
+adaptive,APD/EI/Seq,APD/EI/Seq,2,PREDICT,direct,True,0.06175607500017577,136,0.003038624000055279,,APD/EI/Seq,APD/EI/Seq,both ports predictable (pred/pred)
+adaptive,EI/AD/-,AD/AD/Fixed,0,PREDICT,direct,True,0.055962677000024996,41,1.504622412000117,,EI/AD/-,AD/AD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,AD/AD/Fixed,1,PREDICT,direct,True,0.05640777300004629,41,1.5062223609998,,EI/AD/-,AD/AD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,AD/AD/Fixed,2,PREDICT,direct,True,0.0560455190002358,41,1.505192452999836,,EI/AD/-,AD/AD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,AD/AD/Rand,0,PREDICT,direct,True,0.055815727000208426,10,1.5049675380000735,,EI/AD/-,AD/AD/Rand,A is lenient and its port is fixed
+adaptive,EI/AD/-,AD/AD/Rand,1,PREDICT,direct,True,0.0562010530002226,10,1.5048299249997399,,EI/AD/-,AD/AD/Rand,A is lenient and its port is fixed
+adaptive,EI/AD/-,AD/AD/Rand,2,PREDICT,direct,True,0.05564802399976543,10,1.5051119089998792,,EI/AD/-,AD/AD/Rand,A is lenient and its port is fixed
+adaptive,EI/AD/-,AD/AD/Seq,0,PREDICT,direct,True,0.05564909799977613,41,1.5040293789998032,,EI/AD/-,AD/AD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,AD/AD/Seq,1,PREDICT,direct,True,0.05593053900020095,41,1.5036221000000296,,EI/AD/-,AD/AD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,AD/AD/Seq,2,PREDICT,direct,True,0.05602081699998962,41,1.5034404560001349,,EI/AD/-,AD/AD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,AD/APD/Fixed,0,PREDICT,direct,True,0.05695017099969846,41,1.5047673779999968,,EI/AD/-,AD/APD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,AD/APD/Fixed,1,PREDICT,direct,True,0.05622482000035234,41,1.504408438000155,,EI/AD/-,AD/APD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,AD/APD/Fixed,2,PREDICT,direct,True,0.055824125000071945,41,1.5055499089999103,,EI/AD/-,AD/APD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,AD/APD/Rand,0,PREDICT,direct,True,0.05564424600015627,10,1.5044158129999232,,EI/AD/-,AD/APD/Rand,A is lenient and its port is fixed
+adaptive,EI/AD/-,AD/APD/Rand,1,PREDICT,direct,True,0.05582591699976547,10,1.5040664799998922,,EI/AD/-,AD/APD/Rand,A is lenient and its port is fixed
+adaptive,EI/AD/-,AD/APD/Rand,2,PREDICT,direct,True,0.05647406900015994,10,1.5052418000000216,,EI/AD/-,AD/APD/Rand,A is lenient and its port is fixed
+adaptive,EI/AD/-,AD/APD/Seq,0,PREDICT,direct,True,0.05622013700030948,41,1.505851953000274,,EI/AD/-,AD/APD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,AD/APD/Seq,1,PREDICT,direct,True,0.05699995699978899,41,1.5056435999999849,,EI/AD/-,AD/APD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,AD/APD/Seq,2,PREDICT,direct,True,0.05626334299995506,41,1.5066735720001816,,EI/AD/-,AD/APD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,AD/EI/Fixed,0,PREDICT,direct,True,0.056966003000070486,41,1.5049177850000888,,EI/AD/-,AD/EI/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,AD/EI/Fixed,1,PREDICT,direct,True,0.056041531000118994,41,1.5025574070000403,,EI/AD/-,AD/EI/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,AD/EI/Fixed,2,PREDICT,direct,True,0.0559008029999859,41,1.5079588120001972,,EI/AD/-,AD/EI/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,AD/EI/Rand,0,PREDICT,direct,True,0.05585170399990602,12,1.5030903639999451,,EI/AD/-,AD/EI/Rand,A is lenient and its port is fixed
+adaptive,EI/AD/-,AD/EI/Rand,1,PREDICT,direct,True,0.05612871399989672,12,1.502163883999856,,EI/AD/-,AD/EI/Rand,A is lenient and its port is fixed
+adaptive,EI/AD/-,AD/EI/Rand,2,PREDICT,direct,True,0.056580574000236084,12,1.5022013660000084,,EI/AD/-,AD/EI/Rand,A is lenient and its port is fixed
+adaptive,EI/AD/-,AD/EI/Seq,0,PREDICT,direct,True,0.056149886999719456,41,1.502706370999931,,EI/AD/-,AD/EI/Seq,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,AD/EI/Seq,1,PREDICT,direct,True,0.056244353000238334,41,1.5025833630002126,,EI/AD/-,AD/EI/Seq,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,AD/EI/Seq,2,PREDICT,direct,True,0.0562972699999591,41,1.5037756200003969,,EI/AD/-,AD/EI/Seq,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,APD/AD/Fixed,0,PREDICT,direct,True,0.05712364900000466,41,1.5052373009998519,,EI/AD/-,APD/AD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,APD/AD/Fixed,1,PREDICT,direct,True,0.05636173699986102,41,1.50578844499978,,EI/AD/-,APD/AD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,APD/AD/Fixed,2,PREDICT,direct,True,0.05610880999984147,41,1.5052849670000796,,EI/AD/-,APD/AD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,APD/AD/Rand,0,PREDICT,direct,True,0.0557173629999852,10,1.5040319879999515,,EI/AD/-,APD/AD/Rand,A is lenient and its port is fixed
+adaptive,EI/AD/-,APD/AD/Rand,1,PREDICT,direct,True,0.05667542699984551,10,1.5046932140003264,,EI/AD/-,APD/AD/Rand,A is lenient and its port is fixed
+adaptive,EI/AD/-,APD/AD/Rand,2,PREDICT,direct,True,0.05576206500018088,10,1.5058211069999743,,EI/AD/-,APD/AD/Rand,A is lenient and its port is fixed
+adaptive,EI/AD/-,APD/AD/Seq,0,PREDICT,direct,True,0.05605291899973963,41,1.50507560799997,,EI/AD/-,APD/AD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,APD/AD/Seq,1,PREDICT,direct,True,0.05607598599999619,41,1.504762923999806,,EI/AD/-,APD/AD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,APD/AD/Seq,2,PREDICT,direct,True,0.05612970799984396,41,1.5058734690001074,,EI/AD/-,APD/AD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,APD/APD/Fixed,0,PREDICT,direct,True,0.055868848000045546,41,1.504441831999884,,EI/AD/-,APD/APD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,APD/APD/Fixed,1,PREDICT,direct,True,0.05709665899985339,41,1.504337919000136,,EI/AD/-,APD/APD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,APD/APD/Fixed,2,PREDICT,direct,True,0.05590661499991256,41,1.5044693619997815,,EI/AD/-,APD/APD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,APD/APD/Rand,0,PREDICT,direct,True,0.05580797899983736,10,1.5069982049999453,,EI/AD/-,APD/APD/Rand,A is lenient and its port is fixed
+adaptive,EI/AD/-,APD/APD/Rand,1,PREDICT,direct,True,0.055739142000220454,10,1.5052886230000695,,EI/AD/-,APD/APD/Rand,A is lenient and its port is fixed
+adaptive,EI/AD/-,APD/APD/Rand,2,PREDICT,direct,True,0.05627312200022061,10,1.5056200159997388,,EI/AD/-,APD/APD/Rand,A is lenient and its port is fixed
+adaptive,EI/AD/-,APD/APD/Seq,0,PREDICT,direct,True,0.05682062100004259,41,1.5048306670000784,,EI/AD/-,APD/APD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,APD/APD/Seq,1,PREDICT,direct,True,0.056902667000031215,41,1.5058636960002332,,EI/AD/-,APD/APD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,APD/APD/Seq,2,PREDICT,direct,True,0.05611148600019078,41,1.5046699310000804,,EI/AD/-,APD/APD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,APD/EI/Fixed,0,PREDICT,direct,True,0.05605064200017296,41,1.5025226120001207,,EI/AD/-,APD/EI/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,APD/EI/Fixed,1,PREDICT,direct,True,0.05610059800028466,41,1.5027977209997516,,EI/AD/-,APD/EI/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,APD/EI/Fixed,2,PREDICT,direct,True,0.056065400000079535,41,1.5026018190001196,,EI/AD/-,APD/EI/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,APD/EI/Rand,0,PREDICT,direct,True,0.056748745999811945,12,1.5028030379999109,,EI/AD/-,APD/EI/Rand,A is lenient and its port is fixed
+adaptive,EI/AD/-,APD/EI/Rand,1,PREDICT,direct,True,0.05591191300027276,12,1.5036300470001152,,EI/AD/-,APD/EI/Rand,A is lenient and its port is fixed
+adaptive,EI/AD/-,APD/EI/Rand,2,PREDICT,direct,True,0.056725531999745726,12,1.5044875369999318,,EI/AD/-,APD/EI/Rand,A is lenient and its port is fixed
+adaptive,EI/AD/-,APD/EI/Seq,0,PREDICT,direct,True,0.05671186300014597,41,1.5030463459997918,,EI/AD/-,APD/EI/Seq,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,APD/EI/Seq,1,PREDICT,direct,True,0.056055352999919705,41,1.5031146420001278,,EI/AD/-,APD/EI/Seq,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,APD/EI/Seq,2,PREDICT,direct,True,0.0558706660003736,41,1.5044368540002324,,EI/AD/-,APD/EI/Seq,both ports predictable (fixed/pred)
+adaptive,EI/AD/-,EI/AD/-,0,DIRECT,direct,True,0.05793757199990068,12,1.5048429650000799,,EI/AD/-,EI/AD/-,both endpoint-independent mapping
+adaptive,EI/AD/-,EI/AD/-,1,DIRECT,direct,True,0.05555559699996593,12,1.5033557900001142,,EI/AD/-,EI/AD/-,both endpoint-independent mapping
+adaptive,EI/AD/-,EI/AD/-,2,DIRECT,direct,True,0.055993193999711366,12,1.5028607740000552,,EI/AD/-,EI/AD/-,both endpoint-independent mapping
+adaptive,EI/AD/-,EI/APD/-,0,DIRECT,direct,True,0.056998399999883986,12,1.5022705169999426,,EI/AD/-,EI/APD/-,both endpoint-independent mapping
+adaptive,EI/AD/-,EI/APD/-,1,DIRECT,direct,True,0.05579430199986746,12,1.503819085000032,,EI/AD/-,EI/APD/-,both endpoint-independent mapping
+adaptive,EI/AD/-,EI/APD/-,2,DIRECT,direct,True,0.05753651000031823,12,1.5032857820001482,,EI/AD/-,EI/APD/-,both endpoint-independent mapping
+adaptive,EI/APD/-,AD/AD/Fixed,0,PREDICT,direct,True,0.056607734999943204,41,1.5056108969997695,,EI/APD/-,AD/AD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,AD/AD/Fixed,1,PREDICT,direct,True,0.05631986300022618,41,1.5034550969999145,,EI/APD/-,AD/AD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,AD/AD/Fixed,2,PREDICT,direct,True,0.05607314899998528,41,1.505751077000241,,EI/APD/-,AD/AD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,AD/AD/Rand,0,SPRAY,direct,True,0.2113277029998244,456,1.5050126969999837,0.9866662960471693,EI/APD/-,AD/AD/Rand,"B random, opener=B"
+adaptive,EI/APD/-,AD/AD/Rand,1,SPRAY,direct,True,0.18462063100014348,424,1.5044020959999216,0.9866662960471693,EI/APD/-,AD/AD/Rand,"B random, opener=B"
+adaptive,EI/APD/-,AD/AD/Rand,2,SPRAY,direct,True,0.36672668100027295,904,1.5058354440002404,0.9866662960471693,EI/APD/-,AD/AD/Rand,"B random, opener=B"
+adaptive,EI/APD/-,AD/AD/Seq,0,PREDICT,direct,True,0.05636832800018965,41,1.5043075459998363,,EI/APD/-,AD/AD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,AD/AD/Seq,1,PREDICT,direct,True,0.056020603999968444,41,1.5066262099999221,,EI/APD/-,AD/AD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,AD/AD/Seq,2,PREDICT,direct,True,0.05615263200024856,41,1.503752233999876,,EI/APD/-,AD/AD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,AD/APD/Fixed,0,PREDICT,direct,True,0.05656107899994822,41,1.5062682749999112,,EI/APD/-,AD/APD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,AD/APD/Fixed,1,PREDICT,direct,True,0.056667808999918634,41,1.5040216209999926,,EI/APD/-,AD/APD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,AD/APD/Fixed,2,PREDICT,direct,True,0.05591889800007266,41,1.5053987159999451,,EI/APD/-,AD/APD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,AD/APD/Rand,0,SPRAY,direct,True,0.28779797700008203,552,1.5042586670001583,0.9866662960471693,EI/APD/-,AD/APD/Rand,"B random, opener=B"
+adaptive,EI/APD/-,AD/APD/Rand,1,SPRAY,direct,True,0.08267705500020384,296,1.5069673880002483,0.9866662960471693,EI/APD/-,AD/APD/Rand,"B random, opener=B"
+adaptive,EI/APD/-,AD/APD/Rand,2,SPRAY,direct,True,0.47128728600000613,1032,1.504248433000157,0.9866662960471693,EI/APD/-,AD/APD/Rand,"B random, opener=B"
+adaptive,EI/APD/-,AD/APD/Seq,0,PREDICT,direct,True,0.05671067499997662,41,1.5049333000001752,,EI/APD/-,AD/APD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,AD/APD/Seq,1,PREDICT,direct,True,0.05576504300006491,41,1.504342928999904,,EI/APD/-,AD/APD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,AD/APD/Seq,2,PREDICT,direct,True,0.056027871999958734,41,1.5051269259997753,,EI/APD/-,AD/APD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,AD/EI/Fixed,0,PREDICT,direct,True,0.05579254399981437,41,1.5028676980000455,,EI/APD/-,AD/EI/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,AD/EI/Fixed,1,PREDICT,direct,True,0.055857828999705816,41,1.5032295679998242,,EI/APD/-,AD/EI/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,AD/EI/Fixed,2,PREDICT,direct,True,0.05643379000002824,41,1.5035740119997172,,EI/APD/-,AD/EI/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,AD/EI/Rand,0,SPRAY,direct,True,0.658721628999956,1225,1.5035879619999832,0.9866662960471693,EI/APD/-,AD/EI/Rand,"B random, opener=B"
+adaptive,EI/APD/-,AD/EI/Rand,1,SPRAY,direct,True,0.23900624599991716,488,1.5037940239999443,0.9866662960471693,EI/APD/-,AD/EI/Rand,"B random, opener=B"
+adaptive,EI/APD/-,AD/EI/Rand,2,SPRAY,direct,True,0.13490037900010066,360,1.5042399359999763,0.9866662960471693,EI/APD/-,AD/EI/Rand,"B random, opener=B"
+adaptive,EI/APD/-,AD/EI/Seq,0,PREDICT,direct,True,0.05566108200036979,41,1.5032371689999309,,EI/APD/-,AD/EI/Seq,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,AD/EI/Seq,1,PREDICT,direct,True,0.055805134999900474,41,1.5037549230000877,,EI/APD/-,AD/EI/Seq,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,AD/EI/Seq,2,PREDICT,direct,True,0.056584717000077944,41,1.5028645920001509,,EI/APD/-,AD/EI/Seq,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,APD/AD/Fixed,0,PREDICT,direct,True,0.05676516400035325,41,1.5065641920000417,,EI/APD/-,APD/AD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,APD/AD/Fixed,1,PREDICT,direct,True,0.05609566600014659,41,1.5049019600000975,,EI/APD/-,APD/AD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,APD/AD/Fixed,2,PREDICT,direct,True,0.056607439999879716,41,1.5040711770002417,,EI/APD/-,APD/AD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,APD/AD/Rand,0,SPRAY,direct,True,0.3676627039999403,904,1.5041792819997681,0.9866662960471693,EI/APD/-,APD/AD/Rand,"B random, opener=B"
+adaptive,EI/APD/-,APD/AD/Rand,1,SPRAY,direct,True,0.44408102499983215,1000,1.5041493569997328,0.9866662960471693,EI/APD/-,APD/AD/Rand,"B random, opener=B"
+adaptive,EI/APD/-,APD/AD/Rand,2,SPRAY,direct,True,0.36704532699968695,904,1.5044192529999236,0.9866662960471693,EI/APD/-,APD/AD/Rand,"B random, opener=B"
+adaptive,EI/APD/-,APD/AD/Seq,0,PREDICT,direct,True,0.056745228999716346,41,1.5047034760000315,,EI/APD/-,APD/AD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,APD/AD/Seq,1,PREDICT,direct,True,0.05653255600009288,41,1.5058292899998378,,EI/APD/-,APD/AD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,APD/AD/Seq,2,PREDICT,direct,True,0.05640902000004644,41,1.503969533000145,,EI/APD/-,APD/AD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,APD/APD/Fixed,0,PREDICT,direct,True,0.056196669999735605,41,1.5054229659999692,,EI/APD/-,APD/APD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,APD/APD/Fixed,1,PREDICT,direct,True,0.056582155999876704,41,1.504061049000029,,EI/APD/-,APD/APD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,APD/APD/Fixed,2,PREDICT,direct,True,0.0579461839997748,41,1.5044921659996362,,EI/APD/-,APD/APD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,APD/APD/Rand,0,SPRAY,direct,True,0.0831816089998938,296,1.5053005830000075,0.9866662960471693,EI/APD/-,APD/APD/Rand,"B random, opener=B"
+adaptive,EI/APD/-,APD/APD/Rand,1,SPRAY,direct,True,0.1332623399998738,360,1.5046244259997366,0.9866662960471693,EI/APD/-,APD/APD/Rand,"B random, opener=B"
+adaptive,EI/APD/-,APD/APD/Rand,2,SPRAY,direct,True,0.08230158900005335,296,1.5059579609996945,0.9866662960471693,EI/APD/-,APD/APD/Rand,"B random, opener=B"
+adaptive,EI/APD/-,APD/APD/Seq,0,PREDICT,direct,True,0.05633992599996418,41,1.504859163999754,,EI/APD/-,APD/APD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,APD/APD/Seq,1,PREDICT,direct,True,0.05604231000006621,41,1.5043361070001993,,EI/APD/-,APD/APD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,APD/APD/Seq,2,PREDICT,direct,True,0.05599232900021889,41,1.5035815629998979,,EI/APD/-,APD/APD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,APD/EI/Fixed,0,PREDICT,direct,True,0.05614921899996261,41,1.502911997999945,,EI/APD/-,APD/EI/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,APD/EI/Fixed,1,PREDICT,direct,True,0.055907084999944345,41,1.502707872999963,,EI/APD/-,APD/EI/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,APD/EI/Fixed,2,PREDICT,direct,True,0.05679008300012356,41,1.5038811270001133,,EI/APD/-,APD/EI/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,APD/EI/Rand,0,SPRAY,direct,True,0.3397293110001556,616,1.5029089690001456,0.9866662960471693,EI/APD/-,APD/EI/Rand,"B random, opener=B"
+adaptive,EI/APD/-,APD/EI/Rand,1,SPRAY,direct,True,0.44474371000023893,1000,1.5030565359998036,0.9866662960471693,EI/APD/-,APD/EI/Rand,"B random, opener=B"
+adaptive,EI/APD/-,APD/EI/Rand,2,SPRAY,direct,True,0.2905274360000476,552,1.502183289000186,0.9866662960471693,EI/APD/-,APD/EI/Rand,"B random, opener=B"
+adaptive,EI/APD/-,APD/EI/Seq,0,PREDICT,direct,True,0.05746300999999221,41,1.5037672359999306,,EI/APD/-,APD/EI/Seq,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,APD/EI/Seq,1,PREDICT,direct,True,0.055780425000193645,41,1.5040241860001515,,EI/APD/-,APD/EI/Seq,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,APD/EI/Seq,2,PREDICT,direct,True,0.05592631800027448,41,1.5028004939999846,,EI/APD/-,APD/EI/Seq,both ports predictable (fixed/pred)
+adaptive,EI/APD/-,EI/APD/-,0,DIRECT,direct,True,0.05598102700014351,12,1.5041959599998336,,EI/APD/-,EI/APD/-,both endpoint-independent mapping
+adaptive,EI/APD/-,EI/APD/-,1,DIRECT,direct,True,0.05611185799989471,12,1.5033303309996882,,EI/APD/-,EI/APD/-,both endpoint-independent mapping
+adaptive,EI/APD/-,EI/APD/-,2,DIRECT,direct,True,0.0563355539998156,12,1.5039163499995993,,EI/APD/-,EI/APD/-,both endpoint-independent mapping
+adaptive,EI/EI/-,AD/AD/Fixed,0,PREDICT,direct,True,0.056258816000081424,41,1.5040741759999037,,EI/EI/-,AD/AD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,AD/AD/Fixed,1,PREDICT,direct,True,0.05646133199979886,41,1.504312535000281,,EI/EI/-,AD/AD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,AD/AD/Fixed,2,PREDICT,direct,True,0.05590069100026085,41,1.5038892880002095,,EI/EI/-,AD/AD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,AD/AD/Rand,0,PREDICT,direct,True,0.05644482599973344,10,1.5046576239997194,,EI/EI/-,AD/AD/Rand,A is lenient and its port is fixed
+adaptive,EI/EI/-,AD/AD/Rand,1,PREDICT,direct,True,0.0561138180000853,10,1.5051824770002895,,EI/EI/-,AD/AD/Rand,A is lenient and its port is fixed
+adaptive,EI/EI/-,AD/AD/Rand,2,PREDICT,direct,True,0.0565280820001135,10,1.5046625289996882,,EI/EI/-,AD/AD/Rand,A is lenient and its port is fixed
+adaptive,EI/EI/-,AD/AD/Seq,0,PREDICT,direct,True,0.05617622499994468,41,1.5052523099998325,,EI/EI/-,AD/AD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,AD/AD/Seq,1,PREDICT,direct,True,0.05656823500021346,41,1.504983404000086,,EI/EI/-,AD/AD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,AD/AD/Seq,2,PREDICT,direct,True,0.05652524200013431,41,1.5040006720000747,,EI/EI/-,AD/AD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,AD/APD/Fixed,0,PREDICT,direct,True,0.05615558500039697,41,1.5043954500001746,,EI/EI/-,AD/APD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,AD/APD/Fixed,1,PREDICT,direct,True,0.056172375999722135,41,1.5048526950004089,,EI/EI/-,AD/APD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,AD/APD/Fixed,2,PREDICT,direct,True,0.056381400999725884,41,1.506029504000253,,EI/EI/-,AD/APD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,AD/APD/Rand,0,PREDICT,direct,True,0.05593869799986351,10,1.5041893069997059,,EI/EI/-,AD/APD/Rand,A is lenient and its port is fixed
+adaptive,EI/EI/-,AD/APD/Rand,1,PREDICT,direct,True,0.0564498899998398,10,1.5043830469999193,,EI/EI/-,AD/APD/Rand,A is lenient and its port is fixed
+adaptive,EI/EI/-,AD/APD/Rand,2,PREDICT,direct,True,0.05651380400013295,10,1.5054502230000253,,EI/EI/-,AD/APD/Rand,A is lenient and its port is fixed
+adaptive,EI/EI/-,AD/APD/Seq,0,PREDICT,direct,True,0.055780136000066705,41,1.5050161300000582,,EI/EI/-,AD/APD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,AD/APD/Seq,1,PREDICT,direct,True,0.057435972999883234,41,1.5039215209999384,,EI/EI/-,AD/APD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,AD/APD/Seq,2,PREDICT,direct,True,0.05655965699997978,41,1.5056350820000262,,EI/EI/-,AD/APD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,AD/EI/Fixed,0,PREDICT,direct,True,0.05645903899994664,41,0.0056731059999037825,,EI/EI/-,AD/EI/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,AD/EI/Fixed,1,PREDICT,direct,True,0.05572436000011294,41,0.002587518999916938,,EI/EI/-,AD/EI/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,AD/EI/Fixed,2,PREDICT,direct,True,0.05659728399996311,41,0.00434703399969294,,EI/EI/-,AD/EI/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,AD/EI/Rand,0,PREDICT,direct,True,0.055833900999914476,12,0.0035402640000938845,,EI/EI/-,AD/EI/Rand,A is lenient and its port is fixed
+adaptive,EI/EI/-,AD/EI/Rand,1,PREDICT,direct,True,0.05636240000012549,12,0.0023364789999504865,,EI/EI/-,AD/EI/Rand,A is lenient and its port is fixed
+adaptive,EI/EI/-,AD/EI/Rand,2,PREDICT,direct,True,0.05639475300040431,12,0.0030515010003000498,,EI/EI/-,AD/EI/Rand,A is lenient and its port is fixed
+adaptive,EI/EI/-,AD/EI/Seq,0,PREDICT,direct,True,0.05643723899993347,41,0.003654703999927733,,EI/EI/-,AD/EI/Seq,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,AD/EI/Seq,1,PREDICT,direct,True,0.05626801400012482,41,0.005043364000357542,,EI/EI/-,AD/EI/Seq,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,AD/EI/Seq,2,PREDICT,direct,True,0.056060312000226986,41,0.004865019000135362,,EI/EI/-,AD/EI/Seq,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,APD/AD/Fixed,0,PREDICT,direct,True,0.056301878000340366,41,1.5045742209999844,,EI/EI/-,APD/AD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,APD/AD/Fixed,1,PREDICT,direct,True,0.05718493699987448,41,1.504168178999862,,EI/EI/-,APD/AD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,APD/AD/Fixed,2,PREDICT,direct,True,0.05716961099960827,41,1.5068847040001856,,EI/EI/-,APD/AD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,APD/AD/Rand,0,PREDICT,direct,True,0.05576134200009619,10,1.5073982179997074,,EI/EI/-,APD/AD/Rand,A is lenient and its port is fixed
+adaptive,EI/EI/-,APD/AD/Rand,1,PREDICT,direct,True,0.05603056900008596,10,1.5040825089999998,,EI/EI/-,APD/AD/Rand,A is lenient and its port is fixed
+adaptive,EI/EI/-,APD/AD/Rand,2,PREDICT,direct,True,0.05620356999997966,10,1.504370416999791,,EI/EI/-,APD/AD/Rand,A is lenient and its port is fixed
+adaptive,EI/EI/-,APD/AD/Seq,0,PREDICT,direct,True,0.05764847899990855,41,1.50474152400011,,EI/EI/-,APD/AD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,APD/AD/Seq,1,PREDICT,direct,True,0.05635117600013473,41,1.5045576239999718,,EI/EI/-,APD/AD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,APD/AD/Seq,2,PREDICT,direct,True,0.05648080699984348,41,1.5047363260000566,,EI/EI/-,APD/AD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,APD/APD/Fixed,0,PREDICT,direct,True,0.05615696700033368,41,1.5054830610001773,,EI/EI/-,APD/APD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,APD/APD/Fixed,1,PREDICT,direct,True,0.05667919899997287,41,1.5063757900002201,,EI/EI/-,APD/APD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,APD/APD/Fixed,2,PREDICT,direct,True,0.05751737399987178,41,1.5040327349997824,,EI/EI/-,APD/APD/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,APD/APD/Rand,0,PREDICT,direct,True,0.05649169699972845,10,1.5038939089999985,,EI/EI/-,APD/APD/Rand,A is lenient and its port is fixed
+adaptive,EI/EI/-,APD/APD/Rand,1,PREDICT,direct,True,0.05565265099994576,10,1.5037132780003049,,EI/EI/-,APD/APD/Rand,A is lenient and its port is fixed
+adaptive,EI/EI/-,APD/APD/Rand,2,PREDICT,direct,True,0.05562089199975162,10,1.5047649079997427,,EI/EI/-,APD/APD/Rand,A is lenient and its port is fixed
+adaptive,EI/EI/-,APD/APD/Seq,0,PREDICT,direct,True,0.05673547600008533,41,1.5060596690000239,,EI/EI/-,APD/APD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,APD/APD/Seq,1,PREDICT,direct,True,0.056182419000379014,41,1.5041914629996427,,EI/EI/-,APD/APD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,APD/APD/Seq,2,PREDICT,direct,True,0.056083011999817245,41,1.506495606000044,,EI/EI/-,APD/APD/Seq,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,APD/EI/Fixed,0,PREDICT,direct,True,0.056270818000029976,41,0.0027322849996380683,,EI/EI/-,APD/EI/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,APD/EI/Fixed,1,PREDICT,direct,True,0.05654992699965078,41,0.0019072539998887805,,EI/EI/-,APD/EI/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,APD/EI/Fixed,2,PREDICT,direct,True,0.05621524199978012,41,0.0020568879999700584,,EI/EI/-,APD/EI/Fixed,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,APD/EI/Rand,0,PREDICT,direct,True,0.05587945200022659,12,0.0019703409998328425,,EI/EI/-,APD/EI/Rand,A is lenient and its port is fixed
+adaptive,EI/EI/-,APD/EI/Rand,1,PREDICT,direct,True,0.05550950199994986,12,0.002464173000134906,,EI/EI/-,APD/EI/Rand,A is lenient and its port is fixed
+adaptive,EI/EI/-,APD/EI/Rand,2,PREDICT,direct,True,0.05655640000031781,12,0.0021214619996499096,,EI/EI/-,APD/EI/Rand,A is lenient and its port is fixed
+adaptive,EI/EI/-,APD/EI/Seq,0,PREDICT,direct,True,0.05652926099992328,41,0.0025798220003707684,,EI/EI/-,APD/EI/Seq,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,APD/EI/Seq,1,PREDICT,direct,True,0.05634039699998539,41,0.002643108000029315,,EI/EI/-,APD/EI/Seq,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,APD/EI/Seq,2,PREDICT,direct,True,0.056114714999694115,41,0.0023735900003885035,,EI/EI/-,APD/EI/Seq,both ports predictable (fixed/pred)
+adaptive,EI/EI/-,EI/AD/-,0,DIRECT,direct,True,0.056325282999750925,12,1.5047966450001695,,EI/EI/-,EI/AD/-,both endpoint-independent mapping
+adaptive,EI/EI/-,EI/AD/-,1,DIRECT,direct,True,0.05630473700011862,12,1.5046992479997243,,EI/EI/-,EI/AD/-,both endpoint-independent mapping
+adaptive,EI/EI/-,EI/AD/-,2,DIRECT,direct,True,0.05627158200013582,12,1.503083162999701,,EI/EI/-,EI/AD/-,both endpoint-independent mapping
+adaptive,EI/EI/-,EI/APD/-,0,DIRECT,direct,True,0.05665739999994912,12,1.5051122820000273,,EI/EI/-,EI/APD/-,both endpoint-independent mapping
+adaptive,EI/EI/-,EI/APD/-,1,DIRECT,direct,True,0.0565922710002269,12,1.5036802790000365,,EI/EI/-,EI/APD/-,both endpoint-independent mapping
+adaptive,EI/EI/-,EI/APD/-,2,DIRECT,direct,True,0.055907885000124224,12,1.5039651199999753,,EI/EI/-,EI/APD/-,both endpoint-independent mapping
+adaptive,EI/EI/-,EI/EI/-,0,DIRECT,direct,True,0.05621506500028772,12,0.0033645899998191453,,EI/EI/-,EI/EI/-,both endpoint-independent mapping
+adaptive,EI/EI/-,EI/EI/-,1,DIRECT,direct,True,0.05621923600028822,12,0.003359082999850216,,EI/EI/-,EI/EI/-,both endpoint-independent mapping
+adaptive,EI/EI/-,EI/EI/-,2,DIRECT,direct,True,0.05625814299992271,12,0.003581089999897813,,EI/EI/-,EI/EI/-,both endpoint-independent mapping
+ice,AD/AD/Fixed,AD/AD/Fixed,0,ICE,relay,True,2.548587034999855,106,0.0006546260001414339,,,,
+ice,AD/AD/Fixed,AD/AD/Fixed,1,ICE,relay,True,2.548839794000287,106,0.0009810020001168596,,,,
+ice,AD/AD/Fixed,AD/AD/Fixed,2,ICE,relay,True,2.5437311059999956,106,0.0005014409998693736,,,,
+ice,AD/AD/Fixed,AD/AD/Rand,0,ICE,relay,True,2.540288448999945,106,0.0005297689999679278,,,,
+ice,AD/AD/Fixed,AD/AD/Rand,1,ICE,relay,True,2.5407187290002184,106,0.00045805899981132825,,,,
+ice,AD/AD/Fixed,AD/AD/Rand,2,ICE,relay,True,2.5424886230002812,106,0.0005971969999336579,,,,
+ice,AD/AD/Fixed,AD/APD/Fixed,0,ICE,relay,True,2.544309522000276,106,0.0005274000000099477,,,,
+ice,AD/AD/Fixed,AD/APD/Fixed,1,ICE,relay,True,2.551313134999873,106,0.0006027969998285698,,,,
+ice,AD/AD/Fixed,AD/APD/Fixed,2,ICE,relay,True,2.547254977999728,106,0.0005416970002443122,,,,
+ice,AD/AD/Fixed,AD/APD/Rand,0,ICE,relay,True,2.550069996000275,106,0.000606913999945391,,,,
+ice,AD/AD/Fixed,AD/APD/Rand,1,ICE,relay,True,2.5501977449998776,106,0.0007525779997195059,,,,
+ice,AD/AD/Fixed,AD/APD/Rand,2,ICE,relay,True,2.542832365999857,106,0.0005514629997378506,,,,
+ice,AD/AD/Fixed,AD/APD/Seq,0,ICE,relay,True,2.548638364999988,106,0.0005753130003540718,,,,
+ice,AD/AD/Fixed,AD/APD/Seq,1,ICE,relay,True,2.5495646859999397,106,0.00044067999988328665,,,,
+ice,AD/AD/Fixed,AD/APD/Seq,2,ICE,relay,True,2.5452867760000117,106,0.0009374940000270726,,,,
+ice,AD/AD/Fixed,APD/AD/Fixed,0,ICE,relay,True,2.553086199000063,106,0.0005810229999951844,,,,
+ice,AD/AD/Fixed,APD/AD/Fixed,1,ICE,relay,True,2.552888033000272,106,0.00043933699998888187,,,,
+ice,AD/AD/Fixed,APD/AD/Fixed,2,ICE,relay,True,2.5498937639999895,106,0.00047805600024730666,,,,
+ice,AD/AD/Fixed,APD/AD/Rand,0,ICE,relay,True,2.5477595870002006,106,0.0005959699997220014,,,,
+ice,AD/AD/Fixed,APD/AD/Rand,1,ICE,relay,True,2.5459080040000117,106,0.0005612719996861415,,,,
+ice,AD/AD/Fixed,APD/AD/Rand,2,ICE,relay,True,2.556300147999991,106,0.0009598560000085854,,,,
+ice,AD/AD/Fixed,APD/AD/Seq,0,ICE,relay,True,2.5534561859999485,106,0.00097056499998871,,,,
+ice,AD/AD/Fixed,APD/AD/Seq,1,ICE,relay,True,2.556404867999845,105,0.0012320200003159698,,,,
+ice,AD/AD/Fixed,APD/AD/Seq,2,ICE,relay,True,2.549781447999976,106,0.00045604200022353325,,,,
+ice,AD/AD/Fixed,APD/APD/Fixed,0,ICE,relay,True,2.5382561900000837,102,0.0007154420000006212,,,,
+ice,AD/AD/Fixed,APD/APD/Fixed,1,ICE,relay,True,2.5487257790000513,106,0.0005772620002062467,,,,
+ice,AD/AD/Fixed,APD/APD/Fixed,2,ICE,relay,True,2.545005052000306,106,0.0004531950003183738,,,,
+ice,AD/AD/Fixed,APD/APD/Rand,0,ICE,relay,True,2.5442385880000984,106,0.0005469919997267425,,,,
+ice,AD/AD/Fixed,APD/APD/Rand,1,ICE,relay,True,2.5452583250003045,106,0.00048575800019534654,,,,
+ice,AD/AD/Fixed,APD/APD/Rand,2,ICE,relay,True,2.549494918000164,106,0.000535410000338743,,,,
+ice,AD/AD/Fixed,APD/APD/Seq,0,ICE,relay,True,2.508741727999677,104,0.0005291909997140465,,,,
+ice,AD/AD/Fixed,APD/APD/Seq,1,ICE,relay,True,2.550125902000218,104,0.0013552850000451144,,,,
+ice,AD/AD/Fixed,APD/APD/Seq,2,ICE,relay,True,2.5382342529997004,102,0.0006108590000621916,,,,
+ice,AD/AD/Fixed,APD/EI/Fixed,0,ICE,direct,True,0.15770487600002525,21,0.0005215109999880951,,,,
+ice,AD/AD/Fixed,APD/EI/Fixed,1,ICE,direct,True,0.1586619609997797,21,0.0008670110000821296,,,,
+ice,AD/AD/Fixed,APD/EI/Fixed,2,ICE,direct,True,0.15805187399973875,21,0.001194869999835646,,,,
+ice,AD/AD/Fixed,APD/EI/Rand,0,ICE,direct,True,0.1577453750001041,21,0.0009288230003221543,,,,
+ice,AD/AD/Fixed,APD/EI/Rand,1,ICE,direct,True,0.1585558189999574,21,0.0007630250001966488,,,,
+ice,AD/AD/Fixed,APD/EI/Rand,2,ICE,direct,True,0.15783312699977614,21,0.0004985440000382368,,,,
+ice,AD/AD/Fixed,APD/EI/Seq,0,ICE,direct,True,0.15786678700033008,21,0.00047147700024652295,,,,
+ice,AD/AD/Fixed,APD/EI/Seq,1,ICE,direct,True,0.15733087099988552,21,0.0010165699995923205,,,,
+ice,AD/AD/Fixed,APD/EI/Seq,2,ICE,direct,True,0.15947786700007782,21,0.0005766280000898405,,,,
+ice,AD/AD/Rand,AD/AD/Rand,0,ICE,relay,True,2.5518234429996483,106,0.0005883230001018092,,,,
+ice,AD/AD/Rand,AD/AD/Rand,1,ICE,relay,True,2.5564577899999676,106,0.0004964680001648958,,,,
+ice,AD/AD/Rand,AD/AD/Rand,2,ICE,relay,True,2.5411596539997845,106,0.0012161019999439304,,,,
+ice,AD/AD/Rand,AD/APD/Fixed,0,ICE,relay,True,2.543524778000119,106,0.0005696620000890107,,,,
+ice,AD/AD/Rand,AD/APD/Fixed,1,ICE,relay,True,2.552580596000098,106,0.000682358000176464,,,,
+ice,AD/AD/Rand,AD/APD/Fixed,2,ICE,relay,True,2.5508049550003307,106,0.0004759509997711575,,,,
+ice,AD/AD/Rand,AD/APD/Rand,0,ICE,relay,True,2.5520232950002537,106,0.0004854800004068238,,,,
+ice,AD/AD/Rand,AD/APD/Rand,1,ICE,relay,True,2.5510610769997584,106,0.0007684269999117532,,,,
+ice,AD/AD/Rand,AD/APD/Rand,2,ICE,relay,True,2.5423558319998847,106,0.0009060279999175691,,,,
+ice,AD/AD/Rand,AD/APD/Seq,0,ICE,relay,True,2.5457465079998656,106,0.0006777450003028207,,,,
+ice,AD/AD/Rand,AD/APD/Seq,1,ICE,relay,True,2.5508698090002326,106,0.0006264970002121117,,,,
+ice,AD/AD/Rand,AD/APD/Seq,2,ICE,relay,True,2.546271544999854,106,0.0005748809999204241,,,,
+ice,AD/AD/Rand,APD/AD/Fixed,0,ICE,relay,True,2.5076526679999915,104,0.0005226170001151331,,,,
+ice,AD/AD/Rand,APD/AD/Fixed,1,ICE,relay,True,2.5079315719999613,104,0.0006511209999189305,,,,
+ice,AD/AD/Rand,APD/AD/Fixed,2,ICE,relay,True,2.5545684919998166,106,0.0009714450002320518,,,,
+ice,AD/AD/Rand,APD/AD/Rand,0,ICE,relay,True,2.5478642859998217,106,0.0006168750001052103,,,,
+ice,AD/AD/Rand,APD/AD/Rand,1,ICE,relay,True,2.546249268000338,106,0.00046889599980204366,,,,
+ice,AD/AD/Rand,APD/AD/Rand,2,ICE,relay,True,2.5488859229999434,106,0.0009000970003398834,,,,
+ice,AD/AD/Rand,APD/AD/Seq,0,ICE,relay,True,2.5486042239999733,106,0.00039178299994091503,,,,
+ice,AD/AD/Rand,APD/AD/Seq,1,ICE,relay,True,2.5066623509997044,104,0.0005471429999488464,,,,
+ice,AD/AD/Rand,APD/AD/Seq,2,ICE,relay,True,2.555981768000038,106,0.0006175449998409022,,,,
+ice,AD/AD/Rand,APD/APD/Fixed,0,ICE,relay,True,2.5475397729996985,106,0.0004924859999846376,,,,
+ice,AD/AD/Rand,APD/APD/Fixed,1,ICE,relay,True,2.5507051360000332,106,0.0009151419999398058,,,,
+ice,AD/AD/Rand,APD/APD/Fixed,2,ICE,relay,True,2.5057382149998375,104,0.0007756489999337646,,,,
+ice,AD/AD/Rand,APD/APD/Rand,0,ICE,relay,True,2.555160927000088,106,0.0010920800000349118,,,,
+ice,AD/AD/Rand,APD/APD/Rand,1,ICE,relay,True,2.5539612060001673,106,0.000626343000021734,,,,
+ice,AD/AD/Rand,APD/APD/Rand,2,ICE,relay,True,2.551975468999899,106,0.0008016570000108914,,,,
+ice,AD/AD/Rand,APD/APD/Seq,0,ICE,relay,True,2.542748489999667,106,0.0006234150000636873,,,,
+ice,AD/AD/Rand,APD/APD/Seq,1,ICE,relay,True,2.5479104860000916,106,0.0005175800001779862,,,,
+ice,AD/AD/Rand,APD/APD/Seq,2,ICE,relay,True,2.55203405400016,106,0.000592987999880279,,,,
+ice,AD/AD/Rand,APD/EI/Fixed,0,ICE,direct,True,0.1599627190003048,21,0.00047557500010952936,,,,
+ice,AD/AD/Rand,APD/EI/Fixed,1,ICE,direct,True,0.1571995419999439,21,0.000646277000214468,,,,
+ice,AD/AD/Rand,APD/EI/Fixed,2,ICE,direct,True,0.1584199560002162,21,0.0006693650002489449,,,,
+ice,AD/AD/Rand,APD/EI/Rand,0,ICE,direct,True,0.15729099800000768,21,0.0005553470000450034,,,,
+ice,AD/AD/Rand,APD/EI/Rand,1,ICE,direct,True,0.15723889900027643,21,0.0005725179998989915,,,,
+ice,AD/AD/Rand,APD/EI/Rand,2,ICE,direct,True,0.15764699499959534,21,0.0005071820000921434,,,,
+ice,AD/AD/Rand,APD/EI/Seq,0,ICE,direct,True,0.15703612900006192,21,0.0005708499998036132,,,,
+ice,AD/AD/Rand,APD/EI/Seq,1,ICE,direct,True,0.15925294199996642,21,0.0005144289998497698,,,,
+ice,AD/AD/Rand,APD/EI/Seq,2,ICE,direct,True,0.15938393599981282,21,0.0007008679999671585,,,,
+ice,AD/AD/Seq,AD/AD/Fixed,0,ICE,relay,True,2.54720009499988,106,0.0004490360001909721,,,,
+ice,AD/AD/Seq,AD/AD/Fixed,1,ICE,relay,True,2.5442385189999186,106,0.0005958609999652253,,,,
+ice,AD/AD/Seq,AD/AD/Fixed,2,ICE,relay,True,2.5470925690001422,106,0.0005836459999954968,,,,
+ice,AD/AD/Seq,AD/AD/Rand,0,ICE,relay,True,2.551238628000192,106,0.0005789839997305535,,,,
+ice,AD/AD/Seq,AD/AD/Rand,1,ICE,relay,True,2.5510892249999415,106,0.0004818550000891264,,,,
+ice,AD/AD/Seq,AD/AD/Rand,2,ICE,relay,True,2.5463025859999107,106,0.00047499599986622343,,,,
+ice,AD/AD/Seq,AD/AD/Seq,0,ICE,relay,True,2.553022904000045,106,0.000604453000050853,,,,
+ice,AD/AD/Seq,AD/AD/Seq,1,ICE,relay,True,2.5504739030002384,106,0.000526328999967518,,,,
+ice,AD/AD/Seq,AD/AD/Seq,2,ICE,relay,True,2.553320913999869,106,0.0005191590003050806,,,,
+ice,AD/AD/Seq,AD/APD/Fixed,0,ICE,relay,True,2.5487876850002067,106,0.0005640099998345249,,,,
+ice,AD/AD/Seq,AD/APD/Fixed,1,ICE,relay,True,2.552242087000195,106,0.0005622820003736706,,,,
+ice,AD/AD/Seq,AD/APD/Fixed,2,ICE,relay,True,2.5528265369998735,106,0.0005779519997304305,,,,
+ice,AD/AD/Seq,AD/APD/Rand,0,ICE,relay,True,2.5487521720001496,106,0.000600499000029231,,,,
+ice,AD/AD/Seq,AD/APD/Rand,1,ICE,relay,True,2.5423928200002592,106,0.0005131240000082471,,,,
+ice,AD/AD/Seq,AD/APD/Rand,2,ICE,relay,True,2.5419478149997303,106,0.0004803520000677963,,,,
+ice,AD/AD/Seq,AD/APD/Seq,0,ICE,relay,True,2.5473642650003967,106,0.000432630999966932,,,,
+ice,AD/AD/Seq,AD/APD/Seq,1,ICE,relay,True,2.543763202000264,106,0.00046028300039324677,,,,
+ice,AD/AD/Seq,AD/APD/Seq,2,ICE,relay,True,2.547417394000149,106,0.00046033199987505213,,,,
+ice,AD/AD/Seq,APD/AD/Fixed,0,ICE,relay,True,2.5448004650002076,106,0.0007258870000441675,,,,
+ice,AD/AD/Seq,APD/AD/Fixed,1,ICE,relay,True,2.551853353000297,106,0.0005919140003243228,,,,
+ice,AD/AD/Seq,APD/AD/Fixed,2,ICE,relay,True,2.5469365210001342,106,0.000579570000354579,,,,
+ice,AD/AD/Seq,APD/AD/Rand,0,ICE,relay,True,2.548283072000231,106,0.0004842299999836541,,,,
+ice,AD/AD/Seq,APD/AD/Rand,1,ICE,relay,True,2.5555382929996995,105,0.0007509239999308193,,,,
+ice,AD/AD/Seq,APD/AD/Rand,2,ICE,relay,True,2.5473010579999027,106,0.0005174499997337989,,,,
+ice,AD/AD/Seq,APD/AD/Seq,0,ICE,relay,True,2.5451283520001198,106,0.00048332799997297116,,,,
+ice,AD/AD/Seq,APD/AD/Seq,1,ICE,relay,True,2.5441685880000477,106,0.0006117249999988417,,,,
+ice,AD/AD/Seq,APD/AD/Seq,2,ICE,relay,True,2.5470636470004138,106,0.0006881949998387427,,,,
+ice,AD/AD/Seq,APD/APD/Fixed,0,ICE,relay,True,2.5434276669998326,106,0.0005582219996540516,,,,
+ice,AD/AD/Seq,APD/APD/Fixed,1,ICE,relay,True,2.5436297810001633,106,0.0004922459997942497,,,,
+ice,AD/AD/Seq,APD/APD/Fixed,2,ICE,relay,True,2.5461806700000125,106,0.0007575440004075062,,,,
+ice,AD/AD/Seq,APD/APD/Rand,0,ICE,relay,True,2.5452569750000293,106,0.001100211999983003,,,,
+ice,AD/AD/Seq,APD/APD/Rand,1,ICE,relay,True,2.549392180999803,106,0.0010238960003334796,,,,
+ice,AD/AD/Seq,APD/APD/Rand,2,ICE,relay,True,2.547872042000108,106,0.0008215400002882234,,,,
+ice,AD/AD/Seq,APD/APD/Seq,0,ICE,relay,True,2.5501496869997027,106,0.0005521160001080716,,,,
+ice,AD/AD/Seq,APD/APD/Seq,1,ICE,relay,True,2.5486361419998502,106,0.0005652259997077635,,,,
+ice,AD/AD/Seq,APD/APD/Seq,2,ICE,relay,True,2.545361436999883,106,0.0005045869997957197,,,,
+ice,AD/AD/Seq,APD/EI/Fixed,0,ICE,direct,True,0.15745022700002664,21,0.0005434169997897698,,,,
+ice,AD/AD/Seq,APD/EI/Fixed,1,ICE,direct,True,0.15749349099996834,21,0.0004388499996821338,,,,
+ice,AD/AD/Seq,APD/EI/Fixed,2,ICE,direct,True,0.15773987100010345,21,0.0005084729996269743,,,,
+ice,AD/AD/Seq,APD/EI/Rand,0,ICE,direct,True,0.1586918279999736,21,0.0007333070002459863,,,,
+ice,AD/AD/Seq,APD/EI/Rand,1,ICE,direct,True,0.15694999600009396,21,0.0006107079998400877,,,,
+ice,AD/AD/Seq,APD/EI/Rand,2,ICE,direct,True,0.1567360229996666,21,0.0005427440000858041,,,,
+ice,AD/AD/Seq,APD/EI/Seq,0,ICE,direct,True,0.15824958300026992,21,0.0006361780001498119,,,,
+ice,AD/AD/Seq,APD/EI/Seq,1,ICE,direct,True,0.1575377330000265,21,0.0005284859998937463,,,,
+ice,AD/AD/Seq,APD/EI/Seq,2,ICE,direct,True,0.15824850700028037,21,0.0005840189996888512,,,,
+ice,AD/APD/Fixed,AD/APD/Fixed,0,ICE,relay,True,2.5545455080000465,106,0.0007172480000008363,,,,
+ice,AD/APD/Fixed,AD/APD/Fixed,1,ICE,relay,True,2.550280806999581,106,0.0005096480003885517,,,,
+ice,AD/APD/Fixed,AD/APD/Fixed,2,ICE,relay,True,2.5063714650000293,104,0.00045547100035037147,,,,
+ice,AD/APD/Fixed,AD/APD/Rand,0,ICE,relay,True,2.5496448239996425,106,0.0004513320000114618,,,,
+ice,AD/APD/Fixed,AD/APD/Rand,1,ICE,relay,True,2.549859926999943,104,0.0008621450001555786,,,,
+ice,AD/APD/Fixed,AD/APD/Rand,2,ICE,relay,True,2.5128011799997694,102,0.0007936040001368383,,,,
+ice,AD/APD/Fixed,APD/AD/Fixed,0,ICE,relay,True,2.5470166529999005,106,0.0007447200000569865,,,,
+ice,AD/APD/Fixed,APD/AD/Fixed,1,ICE,relay,True,2.546428191999894,106,0.0005492020000019693,,,,
+ice,AD/APD/Fixed,APD/AD/Fixed,2,ICE,relay,True,2.553697322000062,106,0.0004910020002171223,,,,
+ice,AD/APD/Fixed,APD/AD/Rand,0,ICE,relay,True,2.544699792999836,106,0.0004996890002075816,,,,
+ice,AD/APD/Fixed,APD/AD/Rand,1,ICE,relay,True,2.5464259719997244,106,0.0005914919997849211,,,,
+ice,AD/APD/Fixed,APD/AD/Rand,2,ICE,relay,True,2.546213670999805,106,0.00047750600015206146,,,,
+ice,AD/APD/Fixed,APD/AD/Seq,0,ICE,relay,True,2.5492133709999507,106,0.0006978659998821968,,,,
+ice,AD/APD/Fixed,APD/AD/Seq,1,ICE,relay,True,2.5419566119999217,106,0.0007733339998594602,,,,
+ice,AD/APD/Fixed,APD/AD/Seq,2,ICE,relay,True,2.5474459239999305,106,0.0006635070003540022,,,,
+ice,AD/APD/Fixed,APD/APD/Fixed,0,ICE,relay,True,2.545962253000198,106,0.00047426599985556095,,,,
+ice,AD/APD/Fixed,APD/APD/Fixed,1,ICE,relay,True,2.5466350259998762,106,0.0004794770002263249,,,,
+ice,AD/APD/Fixed,APD/APD/Fixed,2,ICE,relay,True,2.5474915669997245,106,0.0005125879997649463,,,,
+ice,AD/APD/Fixed,APD/APD/Rand,0,ICE,relay,True,2.5478459330001897,106,0.0004570009996314184,,,,
+ice,AD/APD/Fixed,APD/APD/Rand,1,ICE,relay,True,2.5498462529999415,106,0.0005823859996780811,,,,
+ice,AD/APD/Fixed,APD/APD/Rand,2,ICE,relay,True,2.553070478999871,106,0.0007025029999567778,,,,
+ice,AD/APD/Fixed,APD/APD/Seq,0,ICE,relay,True,2.544655968999905,106,0.00041318500007037073,,,,
+ice,AD/APD/Fixed,APD/APD/Seq,1,ICE,relay,True,2.5496392449999803,106,0.0004991740001969447,,,,
+ice,AD/APD/Fixed,APD/APD/Seq,2,ICE,relay,True,2.550197209000089,106,0.0006177840000418655,,,,
+ice,AD/APD/Fixed,APD/EI/Fixed,0,ICE,relay,True,2.5456568089998655,205,0.0007724580000285641,,,,
+ice,AD/APD/Fixed,APD/EI/Fixed,1,ICE,relay,True,2.547118196000156,205,0.0006602170001315244,,,,
+ice,AD/APD/Fixed,APD/EI/Fixed,2,ICE,relay,True,2.549127597000279,205,0.0004997419996470853,,,,
+ice,AD/APD/Fixed,APD/EI/Rand,0,ICE,relay,True,2.550488435999796,205,0.000668629999836412,,,,
+ice,AD/APD/Fixed,APD/EI/Rand,1,ICE,relay,True,2.5494258519997857,205,0.0013543539998863707,,,,
+ice,AD/APD/Fixed,APD/EI/Rand,2,ICE,relay,True,2.549141496000175,205,0.00048006999986682786,,,,
+ice,AD/APD/Fixed,APD/EI/Seq,0,ICE,relay,True,2.5460344299999633,201,0.00048499600006834953,,,,
+ice,AD/APD/Fixed,APD/EI/Seq,1,ICE,relay,True,2.51798675200007,197,0.00048137100020539947,,,,
+ice,AD/APD/Fixed,APD/EI/Seq,2,ICE,relay,True,2.5470834339998873,205,0.0007313930000236724,,,,
+ice,AD/APD/Rand,AD/APD/Rand,0,ICE,relay,True,2.5522003330002008,106,0.0005361939997783338,,,,
+ice,AD/APD/Rand,AD/APD/Rand,1,ICE,relay,True,2.551734477000082,106,0.0005149270000401884,,,,
+ice,AD/APD/Rand,AD/APD/Rand,2,ICE,relay,True,2.5517935249999937,106,0.0005893560000913567,,,,
+ice,AD/APD/Rand,APD/AD/Fixed,0,ICE,relay,True,2.5500146389999827,106,0.0004535760003818723,,,,
+ice,AD/APD/Rand,APD/AD/Fixed,1,ICE,relay,True,2.5470341850000295,106,0.0004880749997937528,,,,
+ice,AD/APD/Rand,APD/AD/Fixed,2,ICE,relay,True,2.5477650909997465,106,0.0005789829997411289,,,,
+ice,AD/APD/Rand,APD/AD/Rand,0,ICE,relay,True,2.5493304690003242,106,0.0005067790002613037,,,,
+ice,AD/APD/Rand,APD/AD/Rand,1,ICE,relay,True,2.5502065499999844,106,0.0006651950002378726,,,,
+ice,AD/APD/Rand,APD/AD/Rand,2,ICE,relay,True,2.549109237999801,106,0.0004860490003011364,,,,
+ice,AD/APD/Rand,APD/AD/Seq,0,ICE,relay,True,2.5499820199997885,106,0.0005072809999546735,,,,
+ice,AD/APD/Rand,APD/AD/Seq,1,ICE,relay,True,2.54905381799972,106,0.0006817089997639414,,,,
+ice,AD/APD/Rand,APD/AD/Seq,2,ICE,relay,True,2.547022925999954,106,0.0006310789999588451,,,,
+ice,AD/APD/Rand,APD/APD/Fixed,0,ICE,relay,True,2.553353883999989,106,0.0005543500001294888,,,,
+ice,AD/APD/Rand,APD/APD/Fixed,1,ICE,relay,True,2.551085302000047,106,0.0008390139996663493,,,,
+ice,AD/APD/Rand,APD/APD/Fixed,2,ICE,relay,True,2.553160384000421,106,0.0007189500001913984,,,,
+ice,AD/APD/Rand,APD/APD/Rand,0,ICE,relay,True,2.534914259999823,100,0.0006345560000227124,,,,
+ice,AD/APD/Rand,APD/APD/Rand,1,ICE,relay,True,2.5304043099999944,100,0.00045286499971552985,,,,
+ice,AD/APD/Rand,APD/APD/Rand,2,ICE,relay,True,2.5249641059999703,100,0.0004252700000506593,,,,
+ice,AD/APD/Rand,APD/APD/Seq,0,ICE,relay,True,2.548162181999942,106,0.0005232250000517524,,,,
+ice,AD/APD/Rand,APD/APD/Seq,1,ICE,relay,True,2.5522929160001695,106,0.0005847570000696578,,,,
+ice,AD/APD/Rand,APD/APD/Seq,2,ICE,relay,True,2.5505678599997736,106,0.00045069499992678175,,,,
+ice,AD/APD/Rand,APD/EI/Fixed,0,ICE,relay,True,2.540562181000041,205,0.0010430620000079216,,,,
+ice,AD/APD/Rand,APD/EI/Fixed,1,ICE,relay,True,2.54925817000003,205,0.0005783530000371684,,,,
+ice,AD/APD/Rand,APD/EI/Fixed,2,ICE,relay,True,2.551303205000295,205,0.0006007330002830713,,,,
+ice,AD/APD/Rand,APD/EI/Rand,0,ICE,relay,True,2.550864599000306,205,0.0006667910001851851,,,,
+ice,AD/APD/Rand,APD/EI/Rand,1,ICE,relay,True,2.5477427969999553,205,0.0004885299999841664,,,,
+ice,AD/APD/Rand,APD/EI/Rand,2,ICE,relay,True,2.5547170509998978,205,0.0008216420001190272,,,,
+ice,AD/APD/Rand,APD/EI/Seq,0,ICE,relay,True,2.5520717470003547,205,0.00046590800002377364,,,,
+ice,AD/APD/Rand,APD/EI/Seq,1,ICE,relay,True,2.5489869319999343,205,0.000536291000116762,,,,
+ice,AD/APD/Rand,APD/EI/Seq,2,ICE,relay,True,2.547543350000069,205,0.0005251060001683072,,,,
+ice,AD/APD/Seq,AD/APD/Fixed,0,ICE,relay,True,2.5472570120000455,106,0.0006418380003196944,,,,
+ice,AD/APD/Seq,AD/APD/Fixed,1,ICE,relay,True,2.5503101069998593,106,0.0005191820000618463,,,,
+ice,AD/APD/Seq,AD/APD/Fixed,2,ICE,relay,True,2.553163080000104,106,0.0005497510001077899,,,,
+ice,AD/APD/Seq,AD/APD/Rand,0,ICE,relay,True,2.5493674850004027,106,0.0006528480002998549,,,,
+ice,AD/APD/Seq,AD/APD/Rand,1,ICE,relay,True,2.547776605999843,106,0.0005594650001512491,,,,
+ice,AD/APD/Seq,AD/APD/Rand,2,ICE,relay,True,2.549469362000309,106,0.0005111360001137655,,,,
+ice,AD/APD/Seq,AD/APD/Seq,0,ICE,relay,True,2.549110507000023,106,0.0006395039999915753,,,,
+ice,AD/APD/Seq,AD/APD/Seq,1,ICE,relay,True,2.5492915029999494,106,0.000649938000151451,,,,
+ice,AD/APD/Seq,AD/APD/Seq,2,ICE,relay,True,2.548017562000041,106,0.0005773840002802899,,,,
+ice,AD/APD/Seq,APD/AD/Fixed,0,ICE,relay,True,2.553104667000298,106,0.00048505899985684664,,,,
+ice,AD/APD/Seq,APD/AD/Fixed,1,ICE,relay,True,2.5536265179998736,106,0.000520501999744738,,,,
+ice,AD/APD/Seq,APD/AD/Fixed,2,ICE,relay,True,2.5496523329998126,106,0.0005745309999838355,,,,
+ice,AD/APD/Seq,APD/AD/Rand,0,ICE,relay,True,2.5458327010001085,106,0.0006658649999735644,,,,
+ice,AD/APD/Seq,APD/AD/Rand,1,ICE,relay,True,2.54844506299969,106,0.00054260599972622,,,,
+ice,AD/APD/Seq,APD/AD/Rand,2,ICE,relay,True,2.553444227,106,0.0007588059997942764,,,,
+ice,AD/APD/Seq,APD/AD/Seq,0,ICE,relay,True,2.5476351299998896,106,0.0006711349997203797,,,,
+ice,AD/APD/Seq,APD/AD/Seq,1,ICE,relay,True,2.5469921409999188,106,0.00045619099955729325,,,,
+ice,AD/APD/Seq,APD/AD/Seq,2,ICE,relay,True,2.5481434630000876,106,0.0005926549997639086,,,,
+ice,AD/APD/Seq,APD/APD/Fixed,0,ICE,relay,True,2.553996634000214,106,0.0006312659998002346,,,,
+ice,AD/APD/Seq,APD/APD/Fixed,1,ICE,relay,True,2.5521797820001666,106,0.0006147989997771219,,,,
+ice,AD/APD/Seq,APD/APD/Fixed,2,ICE,relay,True,2.5511866759998156,106,0.001393325999742956,,,,
+ice,AD/APD/Seq,APD/APD/Rand,0,ICE,relay,True,2.546306335999816,106,0.0005876639997950406,,,,
+ice,AD/APD/Seq,APD/APD/Rand,1,ICE,relay,True,2.5508371139999326,106,0.0005201470003157738,,,,
+ice,AD/APD/Seq,APD/APD/Rand,2,ICE,relay,True,2.5496915829999125,106,0.0004963409996889823,,,,
+ice,AD/APD/Seq,APD/APD/Seq,0,ICE,relay,True,2.5496022140000605,106,0.000740656999823841,,,,
+ice,AD/APD/Seq,APD/APD/Seq,1,ICE,relay,True,2.554519899999832,106,0.000913321999632899,,,,
+ice,AD/APD/Seq,APD/APD/Seq,2,ICE,relay,True,2.5522410720000153,106,0.0005211980001149641,,,,
+ice,AD/APD/Seq,APD/EI/Fixed,0,ICE,relay,True,2.5406301390003136,205,0.0004894349999631231,,,,
+ice,AD/APD/Seq,APD/EI/Fixed,1,ICE,relay,True,2.549966960000347,205,0.0005357599998205842,,,,
+ice,AD/APD/Seq,APD/EI/Fixed,2,ICE,relay,True,2.5439200700002402,205,0.0007016710001153115,,,,
+ice,AD/APD/Seq,APD/EI/Rand,0,ICE,relay,True,2.5489471209998555,205,0.0011234979997425398,,,,
+ice,AD/APD/Seq,APD/EI/Rand,1,ICE,relay,True,2.5475491520001015,205,0.0007003250002526329,,,,
+ice,AD/APD/Seq,APD/EI/Rand,2,ICE,relay,True,2.546895568000309,205,0.0004440289999365632,,,,
+ice,AD/APD/Seq,APD/EI/Seq,0,ICE,relay,True,2.5461529429999246,205,0.00047517600023638806,,,,
+ice,AD/APD/Seq,APD/EI/Seq,1,ICE,relay,True,2.54100996499983,205,0.00041378300011274405,,,,
+ice,AD/APD/Seq,APD/EI/Seq,2,ICE,relay,True,2.5414843050002673,205,0.0007100070001797576,,,,
+ice,AD/EI/Fixed,AD/AD/Fixed,0,ICE,direct,True,0.15738731700002973,21,0.000717979999990348,,,,
+ice,AD/EI/Fixed,AD/AD/Fixed,1,ICE,direct,True,0.15676998200024173,21,0.0005338800001482014,,,,
+ice,AD/EI/Fixed,AD/AD/Fixed,2,ICE,direct,True,0.15741202000026533,21,0.0004973730001438526,,,,
+ice,AD/EI/Fixed,AD/AD/Rand,0,ICE,direct,True,0.15725987299992994,21,0.0005271039999570348,,,,
+ice,AD/EI/Fixed,AD/AD/Rand,1,ICE,direct,True,0.1569001269999717,21,0.0005943660003140394,,,,
+ice,AD/EI/Fixed,AD/AD/Rand,2,ICE,direct,True,0.15679793500021333,21,0.0004924259997096669,,,,
+ice,AD/EI/Fixed,AD/AD/Seq,0,ICE,direct,True,0.15906825100000788,21,0.000710822999735683,,,,
+ice,AD/EI/Fixed,AD/AD/Seq,1,ICE,direct,True,0.157892357000037,21,0.0005930199999966135,,,,
+ice,AD/EI/Fixed,AD/AD/Seq,2,ICE,direct,True,0.15726001799976075,21,0.0005594870003733377,,,,
+ice,AD/EI/Fixed,AD/APD/Fixed,0,ICE,relay,True,2.5479191220001667,205,0.0006664950001322723,,,,
+ice,AD/EI/Fixed,AD/APD/Fixed,1,ICE,relay,True,2.5449945950003894,205,0.0006721849999848928,,,,
+ice,AD/EI/Fixed,AD/APD/Fixed,2,ICE,relay,True,2.5559074130001136,205,0.0005481429998326348,,,,
+ice,AD/EI/Fixed,AD/APD/Rand,0,ICE,relay,True,2.550125215999742,205,0.0004634810002244194,,,,
+ice,AD/EI/Fixed,AD/APD/Rand,1,ICE,relay,True,2.5523778840001796,205,0.0005027340002925484,,,,
+ice,AD/EI/Fixed,AD/APD/Rand,2,ICE,relay,True,2.545091513999978,205,0.0007843270000194025,,,,
+ice,AD/EI/Fixed,AD/APD/Seq,0,ICE,relay,True,2.5457325370002764,205,0.0004922620000797906,,,,
+ice,AD/EI/Fixed,AD/APD/Seq,1,ICE,relay,True,2.5434601049996672,205,0.0005090839999866148,,,,
+ice,AD/EI/Fixed,AD/APD/Seq,2,ICE,relay,True,2.543850549000126,205,0.00046567600020352984,,,,
+ice,AD/EI/Fixed,AD/EI/Fixed,0,ICE,direct,True,0.10640045699983602,18,0.0005122299999129609,,,,
+ice,AD/EI/Fixed,AD/EI/Fixed,1,ICE,direct,True,0.1068012880000424,18,0.0011475609999251901,,,,
+ice,AD/EI/Fixed,AD/EI/Fixed,2,ICE,direct,True,0.10738322299994252,18,0.0005660269998770673,,,,
+ice,AD/EI/Fixed,AD/EI/Rand,0,ICE,direct,True,0.10708597499979078,18,0.0011067179998462962,,,,
+ice,AD/EI/Fixed,AD/EI/Rand,1,ICE,direct,True,0.10655558799999199,18,0.0006432169998333848,,,,
+ice,AD/EI/Fixed,AD/EI/Rand,2,ICE,direct,True,0.10883674099977725,18,0.0009582170000612678,,,,
+ice,AD/EI/Fixed,APD/AD/Fixed,0,ICE,direct,True,0.2084597580001173,30,0.0004967789996044303,,,,
+ice,AD/EI/Fixed,APD/AD/Fixed,1,ICE,direct,True,0.20865739600003508,30,0.0004772369998136128,,,,
+ice,AD/EI/Fixed,APD/AD/Fixed,2,ICE,direct,True,0.21059134799997992,30,0.0004993049997210619,,,,
+ice,AD/EI/Fixed,APD/AD/Rand,0,ICE,direct,True,0.20840998100038632,30,0.0007604550000905874,,,,
+ice,AD/EI/Fixed,APD/AD/Rand,1,ICE,direct,True,0.2075903590002781,30,0.000702937999903952,,,,
+ice,AD/EI/Fixed,APD/AD/Rand,2,ICE,direct,True,0.208271595000042,30,0.00058259299976271,,,,
+ice,AD/EI/Fixed,APD/AD/Seq,0,ICE,direct,True,0.20774374099983106,30,0.00043852199996763375,,,,
+ice,AD/EI/Fixed,APD/AD/Seq,1,ICE,direct,True,0.20926279999957842,30,0.0005638080001517665,,,,
+ice,AD/EI/Fixed,APD/AD/Seq,2,ICE,direct,True,0.2084321870001986,30,0.0006430819998968218,,,,
+ice,AD/EI/Fixed,APD/APD/Fixed,0,ICE,relay,True,2.5409068519998073,205,0.0005713280002055399,,,,
+ice,AD/EI/Fixed,APD/APD/Fixed,1,ICE,relay,True,2.5432490980001603,205,0.0005622819999189232,,,,
+ice,AD/EI/Fixed,APD/APD/Fixed,2,ICE,relay,True,2.5438255199997,205,0.0008918919997995545,,,,
+ice,AD/EI/Fixed,APD/APD/Rand,0,ICE,relay,True,2.5117422590001297,201,0.000628454999969108,,,,
+ice,AD/EI/Fixed,APD/APD/Rand,1,ICE,relay,True,2.5549434600002314,205,0.0008226599998124584,,,,
+ice,AD/EI/Fixed,APD/APD/Rand,2,ICE,relay,True,2.5132645859998775,197,0.0007365800001934986,,,,
+ice,AD/EI/Fixed,APD/APD/Seq,0,ICE,relay,True,2.5433456340001612,205,0.0006558410000252479,,,,
+ice,AD/EI/Fixed,APD/APD/Seq,1,ICE,relay,True,2.5392500480002127,205,0.000586541999837209,,,,
+ice,AD/EI/Fixed,APD/APD/Seq,2,ICE,relay,True,2.542844142999911,205,0.0005060940002294956,,,,
+ice,AD/EI/Fixed,APD/EI/Fixed,0,ICE,direct,True,0.15907150600014575,28,0.0008603179999226995,,,,
+ice,AD/EI/Fixed,APD/EI/Fixed,1,ICE,direct,True,0.15791019400012374,28,0.0008089540001492423,,,,
+ice,AD/EI/Fixed,APD/EI/Fixed,2,ICE,direct,True,0.1580767159998686,28,0.0011048159999518248,,,,
+ice,AD/EI/Fixed,APD/EI/Rand,0,ICE,direct,True,0.15758634199983135,28,0.0004963289998158871,,,,
+ice,AD/EI/Fixed,APD/EI/Rand,1,ICE,direct,True,0.157060859000012,28,0.000495922000027349,,,,
+ice,AD/EI/Fixed,APD/EI/Rand,2,ICE,direct,True,0.15784199199970317,28,0.00043742599973484175,,,,
+ice,AD/EI/Fixed,APD/EI/Seq,0,ICE,direct,True,0.15801969199992527,28,0.0008141369999066228,,,,
+ice,AD/EI/Fixed,APD/EI/Seq,1,ICE,direct,True,0.15783570600024177,28,0.0008914949999052624,,,,
+ice,AD/EI/Fixed,APD/EI/Seq,2,ICE,direct,True,0.1593631339997046,28,0.0006729550000272866,,,,
+ice,AD/EI/Rand,AD/AD/Fixed,0,ICE,direct,True,0.1852944019997267,21,0.0005301319997670362,,,,
+ice,AD/EI/Rand,AD/AD/Fixed,1,ICE,direct,True,0.15693715699990207,21,0.00048510399983570096,,,,
+ice,AD/EI/Rand,AD/AD/Fixed,2,ICE,direct,True,0.15729233100000783,21,0.0004890109998996195,,,,
+ice,AD/EI/Rand,AD/AD/Rand,0,ICE,direct,True,0.15804272100012895,21,0.0005246730001999822,,,,
+ice,AD/EI/Rand,AD/AD/Rand,1,ICE,direct,True,0.1575452749998476,21,0.0005114609998599917,,,,
+ice,AD/EI/Rand,AD/AD/Rand,2,ICE,direct,True,0.1568780269999479,21,0.0006253409997043491,,,,
+ice,AD/EI/Rand,AD/AD/Seq,0,ICE,direct,True,0.15842158199984624,21,0.0006116730000940152,,,,
+ice,AD/EI/Rand,AD/AD/Seq,1,ICE,direct,True,0.15777172099978998,21,0.000536146000285953,,,,
+ice,AD/EI/Rand,AD/AD/Seq,2,ICE,direct,True,0.1580228090001583,21,0.0005379880003602011,,,,
+ice,AD/EI/Rand,AD/APD/Fixed,0,ICE,relay,True,2.5484813719999693,205,0.0006825890000072832,,,,
+ice,AD/EI/Rand,AD/APD/Fixed,1,ICE,relay,True,2.546771278000051,205,0.0006765879998056334,,,,
+ice,AD/EI/Rand,AD/APD/Fixed,2,ICE,relay,True,2.549738262000119,205,0.0005067990000497957,,,,
+ice,AD/EI/Rand,AD/APD/Rand,0,ICE,relay,True,2.546469747000174,205,0.0006776380000701465,,,,
+ice,AD/EI/Rand,AD/APD/Rand,1,ICE,relay,True,2.547286841999721,205,0.0005439260003186064,,,,
+ice,AD/EI/Rand,AD/APD/Rand,2,ICE,relay,True,2.541517252000176,205,0.000522901999829628,,,,
+ice,AD/EI/Rand,AD/APD/Seq,0,ICE,relay,True,2.549854071000027,205,0.00049626600002739,,,,
+ice,AD/EI/Rand,AD/APD/Seq,1,ICE,relay,True,2.5553344879999713,205,0.00048226900025838404,,,,
+ice,AD/EI/Rand,AD/APD/Seq,2,ICE,relay,True,2.549911171999611,205,0.0005154679997758649,,,,
+ice,AD/EI/Rand,AD/EI/Rand,0,ICE,direct,True,0.10767912400024215,18,0.0006660529998043785,,,,
+ice,AD/EI/Rand,AD/EI/Rand,1,ICE,direct,True,0.1067295779998858,18,0.0005312910002430726,,,,
+ice,AD/EI/Rand,AD/EI/Rand,2,ICE,direct,True,0.10693800099988948,18,0.0005849209996995341,,,,
+ice,AD/EI/Rand,APD/AD/Fixed,0,ICE,direct,True,0.20799948100011534,30,0.00047016500002428074,,,,
+ice,AD/EI/Rand,APD/AD/Fixed,1,ICE,direct,True,0.2093663050000032,30,0.0004573189999064198,,,,
+ice,AD/EI/Rand,APD/AD/Fixed,2,ICE,direct,True,0.20769348499970874,30,0.0004463870000108727,,,,
+ice,AD/EI/Rand,APD/AD/Rand,0,ICE,direct,True,0.20881728999984261,30,0.0005812370000057854,,,,
+ice,AD/EI/Rand,APD/AD/Rand,1,ICE,direct,True,0.20810191999999006,30,0.0006291639997471066,,,,
+ice,AD/EI/Rand,APD/AD/Rand,2,ICE,direct,True,0.2090067489998546,30,0.0004733699997814256,,,,
+ice,AD/EI/Rand,APD/AD/Seq,0,ICE,direct,True,0.20852306000006138,30,0.0008639759998914087,,,,
+ice,AD/EI/Rand,APD/AD/Seq,1,ICE,direct,True,0.20894576999990022,30,0.0005676219998349552,,,,
+ice,AD/EI/Rand,APD/AD/Seq,2,ICE,direct,True,0.2089858260001165,30,0.0005927199999860022,,,,
+ice,AD/EI/Rand,APD/APD/Fixed,0,ICE,relay,True,2.548262616000102,205,0.0005187820001992804,,,,
+ice,AD/EI/Rand,APD/APD/Fixed,1,ICE,relay,True,2.5484262440004386,205,0.0012504500000432017,,,,
+ice,AD/EI/Rand,APD/APD/Fixed,2,ICE,relay,True,2.555252008000025,205,0.00119260800011034,,,,
+ice,AD/EI/Rand,APD/APD/Rand,0,ICE,relay,True,2.5063637380003456,201,0.0013871920000383398,,,,
+ice,AD/EI/Rand,APD/APD/Rand,1,ICE,relay,True,2.5556818319996637,205,0.0010687179997148633,,,,
+ice,AD/EI/Rand,APD/APD/Rand,2,ICE,relay,True,2.552967480999996,205,0.0007252119999066053,,,,
+ice,AD/EI/Rand,APD/APD/Seq,0,ICE,relay,True,2.5360977589998583,205,0.000518062000082864,,,,
+ice,AD/EI/Rand,APD/APD/Seq,1,ICE,relay,True,2.542926401999921,205,0.0004859209998357983,,,,
+ice,AD/EI/Rand,APD/APD/Seq,2,ICE,relay,True,2.54467773999977,205,0.0005574150000029476,,,,
+ice,AD/EI/Rand,APD/EI/Fixed,0,ICE,direct,True,0.1579761759999201,28,0.0004975199999535107,,,,
+ice,AD/EI/Rand,APD/EI/Fixed,1,ICE,direct,True,0.15826122399994347,28,0.0009431040002709778,,,,
+ice,AD/EI/Rand,APD/EI/Fixed,2,ICE,direct,True,0.1593322150001768,28,0.0004880080000475573,,,,
+ice,AD/EI/Rand,APD/EI/Rand,0,ICE,direct,True,0.15775131500004136,28,0.00045135999971535057,,,,
+ice,AD/EI/Rand,APD/EI/Rand,1,ICE,direct,True,0.15707759199995053,28,0.0028326740002739825,,,,
+ice,AD/EI/Rand,APD/EI/Rand,2,ICE,direct,True,0.157442397000068,28,0.0004823620001843665,,,,
+ice,AD/EI/Rand,APD/EI/Seq,0,ICE,direct,True,0.15815275400018436,28,0.0004681939999500173,,,,
+ice,AD/EI/Rand,APD/EI/Seq,1,ICE,direct,True,0.15785646599988468,28,0.0005584380000982492,,,,
+ice,AD/EI/Rand,APD/EI/Seq,2,ICE,direct,True,0.15855779600042297,28,0.00047308400007750606,,,,
+ice,AD/EI/Seq,AD/AD/Fixed,0,ICE,direct,True,0.15734638399999312,21,0.0004920210003547254,,,,
+ice,AD/EI/Seq,AD/AD/Fixed,1,ICE,direct,True,0.1573011199998291,21,0.0006439670000872866,,,,
+ice,AD/EI/Seq,AD/AD/Fixed,2,ICE,direct,True,0.15686520400004156,21,0.0005262509998829046,,,,
+ice,AD/EI/Seq,AD/AD/Rand,0,ICE,direct,True,0.15727541300020675,21,0.0005892789999961678,,,,
+ice,AD/EI/Seq,AD/AD/Rand,1,ICE,direct,True,0.15641950500003077,21,0.0008554440000807517,,,,
+ice,AD/EI/Seq,AD/AD/Rand,2,ICE,direct,True,0.1580352999999377,21,0.00047900600020511774,,,,
+ice,AD/EI/Seq,AD/AD/Seq,0,ICE,direct,True,0.16055060700000467,21,0.00040989600029206485,,,,
+ice,AD/EI/Seq,AD/AD/Seq,1,ICE,direct,True,0.15978648899999826,21,0.0005101359997752297,,,,
+ice,AD/EI/Seq,AD/AD/Seq,2,ICE,direct,True,0.15732833499987464,21,0.0004044500001327833,,,,
+ice,AD/EI/Seq,AD/APD/Fixed,0,ICE,relay,True,2.544268910000028,205,0.0005201109997869935,,,,
+ice,AD/EI/Seq,AD/APD/Fixed,1,ICE,relay,True,2.547797658000036,205,0.0005496210001183499,,,,
+ice,AD/EI/Seq,AD/APD/Fixed,2,ICE,relay,True,2.5479711820003104,205,0.0005685460000677267,,,,
+ice,AD/EI/Seq,AD/APD/Rand,0,ICE,relay,True,2.546255265000127,205,0.0005429640000329528,,,,
+ice,AD/EI/Seq,AD/APD/Rand,1,ICE,relay,True,2.5444040600000335,205,0.0005804300003546814,,,,
+ice,AD/EI/Seq,AD/APD/Rand,2,ICE,relay,True,2.543470870999954,205,0.000475426000321022,,,,
+ice,AD/EI/Seq,AD/APD/Seq,0,ICE,relay,True,2.548168707000059,205,0.000808156999937637,,,,
+ice,AD/EI/Seq,AD/APD/Seq,1,ICE,relay,True,2.5423962879999635,205,0.0005223289999776171,,,,
+ice,AD/EI/Seq,AD/APD/Seq,2,ICE,relay,True,2.5514556409998477,205,0.0005075049998595205,,,,
+ice,AD/EI/Seq,AD/EI/Fixed,0,ICE,direct,True,0.10835049399975105,18,0.000601355000071635,,,,
+ice,AD/EI/Seq,AD/EI/Fixed,1,ICE,direct,True,0.10691987700010941,18,0.0005430989999695157,,,,
+ice,AD/EI/Seq,AD/EI/Fixed,2,ICE,direct,True,0.10685418499997468,18,0.0008802639999885287,,,,
+ice,AD/EI/Seq,AD/EI/Rand,0,ICE,direct,True,0.10703738800020801,18,0.0017356640000798507,,,,
+ice,AD/EI/Seq,AD/EI/Rand,1,ICE,direct,True,0.10725736200038227,18,0.0008751739997023833,,,,
+ice,AD/EI/Seq,AD/EI/Rand,2,ICE,direct,True,0.10712120600010167,18,0.0004488459999265615,,,,
+ice,AD/EI/Seq,AD/EI/Seq,0,ICE,direct,True,0.10682115999998132,18,0.0004123469998376095,,,,
+ice,AD/EI/Seq,AD/EI/Seq,1,ICE,direct,True,0.10719978699989952,18,0.0006053080001038325,,,,
+ice,AD/EI/Seq,AD/EI/Seq,2,ICE,direct,True,0.10685595999984798,18,0.0007453729999724601,,,,
+ice,AD/EI/Seq,APD/AD/Fixed,0,ICE,direct,True,0.20867827399979433,30,0.00046746099997108104,,,,
+ice,AD/EI/Seq,APD/AD/Fixed,1,ICE,direct,True,0.2084744740000133,30,0.0006428940000660077,,,,
+ice,AD/EI/Seq,APD/AD/Fixed,2,ICE,direct,True,0.20773852499996792,30,0.0004964200002177677,,,,
+ice,AD/EI/Seq,APD/AD/Rand,0,ICE,direct,True,0.20907781400001113,30,0.0007339429998864944,,,,
+ice,AD/EI/Seq,APD/AD/Rand,1,ICE,direct,True,0.20869400000037786,30,0.0007490670000152022,,,,
+ice,AD/EI/Seq,APD/AD/Rand,2,ICE,direct,True,0.20960372900026414,30,0.0011172120002811425,,,,
+ice,AD/EI/Seq,APD/AD/Seq,0,ICE,direct,True,0.20739625599981082,30,0.000522579000062251,,,,
+ice,AD/EI/Seq,APD/AD/Seq,1,ICE,direct,True,0.2068065779999415,30,0.0005113610000080371,,,,
+ice,AD/EI/Seq,APD/AD/Seq,2,ICE,direct,True,0.208429335999881,30,0.0004682609996962128,,,,
+ice,AD/EI/Seq,APD/APD/Fixed,0,ICE,relay,True,2.546346989000085,205,0.0009606410003470955,,,,
+ice,AD/EI/Seq,APD/APD/Fixed,1,ICE,relay,True,2.5496502290002354,205,0.0006985169998188212,,,,
+ice,AD/EI/Seq,APD/APD/Fixed,2,ICE,relay,True,2.540815002999807,205,0.0004964519998793548,,,,
+ice,AD/EI/Seq,APD/APD/Rand,0,ICE,relay,True,2.539576157999818,205,0.0007112099997357291,,,,
+ice,AD/EI/Seq,APD/APD/Rand,1,ICE,relay,True,2.5436190420000457,205,0.0004923340002278564,,,,
+ice,AD/EI/Seq,APD/APD/Rand,2,ICE,relay,True,2.5417841810003665,205,0.0005873729996892507,,,,
+ice,AD/EI/Seq,APD/APD/Seq,0,ICE,relay,True,2.556475361000139,205,0.0008652149999761605,,,,
+ice,AD/EI/Seq,APD/APD/Seq,1,ICE,relay,True,2.548347711000133,205,0.0009173280000140949,,,,
+ice,AD/EI/Seq,APD/APD/Seq,2,ICE,relay,True,2.5479501229997368,205,0.0005187940000723756,,,,
+ice,AD/EI/Seq,APD/EI/Fixed,0,ICE,direct,True,0.15873645000010583,28,0.000513285000124597,,,,
+ice,AD/EI/Seq,APD/EI/Fixed,1,ICE,direct,True,0.15825346000019636,28,0.0007034540003587608,,,,
+ice,AD/EI/Seq,APD/EI/Fixed,2,ICE,direct,True,0.15799401499998567,28,0.0004515170003287494,,,,
+ice,AD/EI/Seq,APD/EI/Rand,0,ICE,direct,True,0.15824275900013163,28,0.000454431999969529,,,,
+ice,AD/EI/Seq,APD/EI/Rand,1,ICE,direct,True,0.15724970900009794,28,0.0004824409998036572,,,,
+ice,AD/EI/Seq,APD/EI/Rand,2,ICE,direct,True,0.1602091120003024,28,0.0007834100001673505,,,,
+ice,AD/EI/Seq,APD/EI/Seq,0,ICE,direct,True,0.15784842899984142,28,0.000748607000332413,,,,
+ice,AD/EI/Seq,APD/EI/Seq,1,ICE,direct,True,0.15801562300021033,28,0.0004678709997278929,,,,
+ice,AD/EI/Seq,APD/EI/Seq,2,ICE,direct,True,0.15755866700010301,28,0.00046093999981167144,,,,
+ice,APD/AD/Fixed,APD/AD/Fixed,0,ICE,relay,True,2.547198822000155,106,0.00044715800004269113,,,,
+ice,APD/AD/Fixed,APD/AD/Fixed,1,ICE,relay,True,2.5409777079999003,106,0.0005376799999794457,,,,
+ice,APD/AD/Fixed,APD/AD/Fixed,2,ICE,relay,True,2.5490008920000946,106,0.0007843309999771009,,,,
+ice,APD/AD/Fixed,APD/AD/Rand,0,ICE,relay,True,2.547332580999864,106,0.0005639819996758888,,,,
+ice,APD/AD/Fixed,APD/AD/Rand,1,ICE,relay,True,2.5526468150001165,106,0.0006742810001014732,,,,
+ice,APD/AD/Fixed,APD/AD/Rand,2,ICE,relay,True,2.5459496399998898,106,0.0005315470002642542,,,,
+ice,APD/AD/Fixed,APD/APD/Fixed,0,ICE,relay,True,2.5420530439996583,106,0.0005676629998561111,,,,
+ice,APD/AD/Fixed,APD/APD/Fixed,1,ICE,relay,True,2.5496276789999683,106,0.000529249000010168,,,,
+ice,APD/AD/Fixed,APD/APD/Fixed,2,ICE,relay,True,2.5444178050001938,106,0.0006099189999986265,,,,
+ice,APD/AD/Fixed,APD/APD/Rand,0,ICE,relay,True,2.5440291660002003,106,0.00066588200024853,,,,
+ice,APD/AD/Fixed,APD/APD/Rand,1,ICE,relay,True,2.5490777140003047,106,0.00047888500012049917,,,,
+ice,APD/AD/Fixed,APD/APD/Rand,2,ICE,relay,True,2.5455967050002073,106,0.0004922719999740366,,,,
+ice,APD/AD/Fixed,APD/APD/Seq,0,ICE,relay,True,2.54145136499983,106,0.0007959959998515842,,,,
+ice,APD/AD/Fixed,APD/APD/Seq,1,ICE,relay,True,2.5440057740001976,106,0.0004735130000881327,,,,
+ice,APD/AD/Fixed,APD/APD/Seq,2,ICE,relay,True,2.542023930999676,106,0.0005736040002375375,,,,
+ice,APD/AD/Rand,APD/AD/Rand,0,ICE,relay,True,2.5541652160000012,106,0.0004931710000164458,,,,
+ice,APD/AD/Rand,APD/AD/Rand,1,ICE,relay,True,2.5473541260003003,106,0.0005209910000303353,,,,
+ice,APD/AD/Rand,APD/AD/Rand,2,ICE,relay,True,2.5454801750001934,106,0.000747631000194815,,,,
+ice,APD/AD/Rand,APD/APD/Fixed,0,ICE,relay,True,2.5512237769999047,106,0.0005316070000844775,,,,
+ice,APD/AD/Rand,APD/APD/Fixed,1,ICE,relay,True,2.5507545179998488,106,0.0005762939999840455,,,,
+ice,APD/AD/Rand,APD/APD/Fixed,2,ICE,relay,True,2.5515335939999204,106,0.0006282740000642661,,,,
+ice,APD/AD/Rand,APD/APD/Rand,0,ICE,relay,True,2.5481694959999004,106,0.0006618980000894226,,,,
+ice,APD/AD/Rand,APD/APD/Rand,1,ICE,relay,True,2.54347288200006,106,0.000775378000071214,,,,
+ice,APD/AD/Rand,APD/APD/Rand,2,ICE,relay,True,2.543304330999945,94,0.00047592300006726873,,,,
+ice,APD/AD/Rand,APD/APD/Seq,0,ICE,relay,True,2.5474553459998788,106,0.0006925859997863881,,,,
+ice,APD/AD/Rand,APD/APD/Seq,1,ICE,relay,True,2.546678520000114,106,0.0005002709999644139,,,,
+ice,APD/AD/Rand,APD/APD/Seq,2,ICE,relay,True,2.549149135999869,106,0.0005056950003563543,,,,
+ice,APD/AD/Seq,APD/AD/Fixed,0,ICE,relay,True,2.554133557000114,106,0.00048660099992048345,,,,
+ice,APD/AD/Seq,APD/AD/Fixed,1,ICE,relay,True,2.5411050259999683,104,0.0006040160001248296,,,,
+ice,APD/AD/Seq,APD/AD/Fixed,2,ICE,relay,True,2.551428840999961,106,0.0006682860002911184,,,,
+ice,APD/AD/Seq,APD/AD/Rand,0,ICE,relay,True,2.5239299830000164,104,0.000628491000043141,,,,
+ice,APD/AD/Seq,APD/AD/Rand,1,ICE,relay,True,2.5168724179998208,104,0.0005217539996920095,,,,
+ice,APD/AD/Seq,APD/AD/Rand,2,ICE,relay,True,2.552035073999832,106,0.001210005999837449,,,,
+ice,APD/AD/Seq,APD/AD/Seq,0,ICE,relay,True,2.5507275279996975,106,0.0006815159999860043,,,,
+ice,APD/AD/Seq,APD/AD/Seq,1,ICE,relay,True,2.5077273140000216,104,0.0004980700000487559,,,,
+ice,APD/AD/Seq,APD/AD/Seq,2,ICE,relay,True,2.556118009000329,106,0.0005162110001037945,,,,
+ice,APD/AD/Seq,APD/APD/Fixed,0,ICE,relay,True,2.547520930999781,106,0.0006322379999801342,,,,
+ice,APD/AD/Seq,APD/APD/Fixed,1,ICE,relay,True,2.546254853999926,106,0.0008787169999777689,,,,
+ice,APD/AD/Seq,APD/APD/Fixed,2,ICE,relay,True,2.5517759039998964,106,0.0005001529998480692,,,,
+ice,APD/AD/Seq,APD/APD/Rand,0,ICE,relay,True,2.5551468319999913,106,0.0006719990001329279,,,,
+ice,APD/AD/Seq,APD/APD/Rand,1,ICE,relay,True,2.5491497269999854,106,0.0007858809999561345,,,,
+ice,APD/AD/Seq,APD/APD/Rand,2,ICE,relay,True,2.545610877999934,106,0.0004407460000948049,,,,
+ice,APD/AD/Seq,APD/APD/Seq,0,ICE,relay,True,2.553261126999587,106,0.0007057600000734965,,,,
+ice,APD/AD/Seq,APD/APD/Seq,1,ICE,relay,True,2.5479591550001714,106,0.0006827769998380973,,,,
+ice,APD/AD/Seq,APD/APD/Seq,2,ICE,relay,True,2.5476374889999533,106,0.0008937040001910646,,,,
+ice,APD/APD/Fixed,APD/APD/Fixed,0,ICE,relay,True,2.5496683890000895,106,0.0005366899999899033,,,,
+ice,APD/APD/Fixed,APD/APD/Fixed,1,ICE,relay,True,2.5520797780000066,106,0.0005521500002032553,,,,
+ice,APD/APD/Fixed,APD/APD/Fixed,2,ICE,relay,True,2.554533239000193,106,0.000682432000303379,,,,
+ice,APD/APD/Fixed,APD/APD/Rand,0,ICE,relay,True,2.555641890000061,106,0.0005218249998506508,,,,
+ice,APD/APD/Fixed,APD/APD/Rand,1,ICE,relay,True,2.555372597999849,106,0.0005060899998170498,,,,
+ice,APD/APD/Fixed,APD/APD/Rand,2,ICE,relay,True,2.5540846479998436,106,0.0004448169997885998,,,,
+ice,APD/APD/Rand,APD/APD/Rand,0,ICE,relay,True,2.5509506059997875,106,0.000695532000008825,,,,
+ice,APD/APD/Rand,APD/APD/Rand,1,ICE,relay,True,2.5453940709999188,106,0.0007450359998983913,,,,
+ice,APD/APD/Rand,APD/APD/Rand,2,ICE,relay,True,2.5410395180001615,106,0.0004413409997141571,,,,
+ice,APD/APD/Seq,APD/APD/Fixed,0,ICE,relay,True,2.5109271100000115,104,0.0009482139998908679,,,,
+ice,APD/APD/Seq,APD/APD/Fixed,1,ICE,relay,True,2.551245791999918,106,0.0005037880000600126,,,,
+ice,APD/APD/Seq,APD/APD/Fixed,2,ICE,relay,True,2.5544156710002426,106,0.0005363550003494311,,,,
+ice,APD/APD/Seq,APD/APD/Rand,0,ICE,relay,True,2.554878214999917,106,0.00280342699988978,,,,
+ice,APD/APD/Seq,APD/APD/Rand,1,ICE,relay,True,2.5547879989999274,106,0.001783912000064447,,,,
+ice,APD/APD/Seq,APD/APD/Rand,2,ICE,relay,True,2.5432684880001943,106,0.0005070900001555856,,,,
+ice,APD/APD/Seq,APD/APD/Seq,0,ICE,relay,True,2.5134541510001327,92,0.0005136730001140677,,,,
+ice,APD/APD/Seq,APD/APD/Seq,1,ICE,relay,True,2.522400929000014,92,0.0005160570003681642,,,,
+ice,APD/APD/Seq,APD/APD/Seq,2,ICE,relay,True,2.5155024569999114,104,0.0006180459999995946,,,,
+ice,APD/EI/Fixed,APD/AD/Fixed,0,ICE,relay,True,2.508726604000003,2715,0.0005778959998679056,,,,
+ice,APD/EI/Fixed,APD/AD/Fixed,1,ICE,relay,True,2.55200376699986,2690,0.00047402800009876955,,,,
+ice,APD/EI/Fixed,APD/AD/Fixed,2,ICE,relay,True,2.5549599239998315,2718,0.0004773830000885937,,,,
+ice,APD/EI/Fixed,APD/AD/Rand,0,ICE,relay,True,2.5538236879997385,2732,0.0007931569998618215,,,,
+ice,APD/EI/Fixed,APD/AD/Rand,1,ICE,relay,True,2.553178009000021,3256,0.001072736999958579,,,,
+ice,APD/EI/Fixed,APD/AD/Rand,2,ICE,relay,True,2.554407554000136,2754,0.0005131660000188276,,,,
+ice,APD/EI/Fixed,APD/AD/Seq,0,ICE,relay,True,2.506956018999972,2655,0.0006343059999380785,,,,
+ice,APD/EI/Fixed,APD/AD/Seq,1,ICE,relay,True,2.5116077590000714,2583,0.002130476000274939,,,,
+ice,APD/EI/Fixed,APD/AD/Seq,2,ICE,relay,True,2.5129428249997545,2505,0.0038059170001361053,,,,
+ice,APD/EI/Fixed,APD/APD/Fixed,0,ICE,relay,True,2.550441052000224,205,0.0005056820000390871,,,,
+ice,APD/EI/Fixed,APD/APD/Fixed,1,ICE,relay,True,2.5471746499997607,205,0.0004960719998052809,,,,
+ice,APD/EI/Fixed,APD/APD/Fixed,2,ICE,relay,True,2.5494627480002237,205,0.0004228860002513102,,,,
+ice,APD/EI/Fixed,APD/APD/Rand,0,ICE,relay,True,2.5509491050002,205,0.0006068980001145974,,,,
+ice,APD/EI/Fixed,APD/APD/Rand,1,ICE,relay,True,2.5500020959998437,205,0.0005570359999182983,,,,
+ice,APD/EI/Fixed,APD/APD/Rand,2,ICE,relay,True,2.548817133999819,205,0.0005351570002858352,,,,
+ice,APD/EI/Fixed,APD/APD/Seq,0,ICE,relay,True,2.546584103999976,205,0.0004906120002488024,,,,
+ice,APD/EI/Fixed,APD/APD/Seq,1,ICE,relay,True,2.5455077370002073,205,0.0004363279999779479,,,,
+ice,APD/EI/Fixed,APD/APD/Seq,2,ICE,relay,True,2.5510381029998825,205,0.0005063980001978052,,,,
+ice,APD/EI/Fixed,APD/EI/Fixed,0,ICE,relay,True,2.5549596989999372,5626,0.000409276000027603,,,,
+ice,APD/EI/Fixed,APD/EI/Fixed,1,ICE,relay,True,2.5551060850002614,6458,0.0005505529998117709,,,,
+ice,APD/EI/Fixed,APD/EI/Fixed,2,ICE,relay,True,2.5549905390003005,7002,0.00043277799977659015,,,,
+ice,APD/EI/Fixed,APD/EI/Rand,0,ICE,relay,True,2.5558695979998447,6514,0.00068210800009183,,,,
+ice,APD/EI/Fixed,APD/EI/Rand,1,ICE,relay,True,2.5554349149997506,6630,0.00044222799988347106,,,,
+ice,APD/EI/Fixed,APD/EI/Rand,2,ICE,relay,True,2.555567812999925,6000,0.000682004000282177,,,,
+ice,APD/EI/Rand,APD/AD/Fixed,0,ICE,relay,True,2.5129402719999234,2525,0.0004986359999747947,,,,
+ice,APD/EI/Rand,APD/AD/Fixed,1,ICE,relay,True,2.505616854999971,2545,0.0006941610004105314,,,,
+ice,APD/EI/Rand,APD/AD/Fixed,2,ICE,relay,True,2.544062431000384,2640,0.0005027510001127666,,,,
+ice,APD/EI/Rand,APD/AD/Rand,0,ICE,relay,True,2.5455824310001844,2718,0.0005623869997180009,,,,
+ice,APD/EI/Rand,APD/AD/Rand,1,ICE,relay,True,2.5507277069996235,2956,0.000427425999987463,,,,
+ice,APD/EI/Rand,APD/AD/Rand,2,ICE,relay,True,2.5460812510000324,2984,0.0004500499999267049,,,,
+ice,APD/EI/Rand,APD/AD/Seq,0,ICE,relay,True,2.50662520700007,3023,0.0005917479998061026,,,,
+ice,APD/EI/Rand,APD/AD/Seq,1,ICE,relay,True,2.5515409549998367,2606,0.00036481699999058037,,,,
+ice,APD/EI/Rand,APD/AD/Seq,2,ICE,relay,True,2.508487891000186,2509,0.00044463400035965606,,,,
+ice,APD/EI/Rand,APD/APD/Fixed,0,ICE,relay,True,2.5368155499995737,205,0.0004610490000231948,,,,
+ice,APD/EI/Rand,APD/APD/Fixed,1,ICE,relay,True,2.5474524420001217,205,0.0004431700003806327,,,,
+ice,APD/EI/Rand,APD/APD/Fixed,2,ICE,relay,True,2.5420854250000957,205,0.0005309079997459776,,,,
+ice,APD/EI/Rand,APD/APD/Rand,0,ICE,relay,True,2.5488179710000622,205,0.0004898739998679957,,,,
+ice,APD/EI/Rand,APD/APD/Rand,1,ICE,relay,True,2.5498395300000993,205,0.0005153179999979329,,,,
+ice,APD/EI/Rand,APD/APD/Rand,2,ICE,relay,True,2.5501916329999403,205,0.0006992989997343102,,,,
+ice,APD/EI/Rand,APD/APD/Seq,0,ICE,relay,True,2.545209185999738,205,0.0004828480000469426,,,,
+ice,APD/EI/Rand,APD/APD/Seq,1,ICE,relay,True,2.54425405100028,205,0.000669307999942248,,,,
+ice,APD/EI/Rand,APD/APD/Seq,2,ICE,relay,True,2.5442763080000077,205,0.00044880799987367936,,,,
+ice,APD/EI/Rand,APD/EI/Rand,0,ICE,relay,True,2.5173443110002154,7644,0.0005181920000723039,,,,
+ice,APD/EI/Rand,APD/EI/Rand,1,ICE,relay,True,2.512714672000129,6088,0.0005055840001659817,,,,
+ice,APD/EI/Rand,APD/EI/Rand,2,ICE,relay,True,2.5199582320001355,7112,0.004885261000254104,,,,
+ice,APD/EI/Seq,APD/AD/Fixed,0,ICE,relay,True,2.5089714030000323,2529,0.0005874120001863048,,,,
+ice,APD/EI/Seq,APD/AD/Fixed,1,ICE,relay,True,2.549496848999752,2606,0.0006115109999882407,,,,
+ice,APD/EI/Seq,APD/AD/Fixed,2,ICE,relay,True,2.5495928580003238,2606,0.0004415029998199316,,,,
+ice,APD/EI/Seq,APD/AD/Rand,0,ICE,relay,True,2.552460101000179,3164,0.00042711800006145495,,,,
+ice,APD/EI/Seq,APD/AD/Rand,1,ICE,relay,True,2.552755115999844,2632,0.0004208340001241595,,,,
+ice,APD/EI/Seq,APD/AD/Rand,2,ICE,relay,True,2.5530977020002865,2606,0.0004573739997795201,,,,
+ice,APD/EI/Seq,APD/AD/Seq,0,ICE,relay,True,2.554863585000021,2696,0.0005101889996694808,,,,
+ice,APD/EI/Seq,APD/AD/Seq,1,ICE,relay,True,2.511564677000024,2547,0.0004591150000123889,,,,
+ice,APD/EI/Seq,APD/AD/Seq,2,ICE,relay,True,2.5119218989998444,2577,0.0004596490002768405,,,,
+ice,APD/EI/Seq,APD/APD/Fixed,0,ICE,relay,True,2.5491430410002067,205,0.00047386000005644746,,,,
+ice,APD/EI/Seq,APD/APD/Fixed,1,ICE,relay,True,2.5512838849999753,205,0.0006802689999858558,,,,
+ice,APD/EI/Seq,APD/APD/Fixed,2,ICE,relay,True,2.552093761999913,205,0.0006514619999506976,,,,
+ice,APD/EI/Seq,APD/APD/Rand,0,ICE,relay,True,2.5554184560000976,205,0.0005330869998942944,,,,
+ice,APD/EI/Seq,APD/APD/Rand,1,ICE,relay,True,2.54375711900002,205,0.0005233399997450761,,,,
+ice,APD/EI/Seq,APD/APD/Rand,2,ICE,relay,True,2.546731897999962,205,0.0005087570002615394,,,,
+ice,APD/EI/Seq,APD/APD/Seq,0,ICE,relay,True,2.5548312810001335,205,0.00044717500031765667,,,,
+ice,APD/EI/Seq,APD/APD/Seq,1,ICE,relay,True,2.5397882799998115,205,0.0005521069997485029,,,,
+ice,APD/EI/Seq,APD/APD/Seq,2,ICE,relay,True,2.5390963179997925,205,0.0005601689999821247,,,,
+ice,APD/EI/Seq,APD/EI/Fixed,0,ICE,relay,True,2.5561148930000854,7386,0.0006821420001870138,,,,
+ice,APD/EI/Seq,APD/EI/Fixed,1,ICE,relay,True,2.514617848999933,5788,0.0019625350000751496,,,,
+ice,APD/EI/Seq,APD/EI/Fixed,2,ICE,relay,True,2.518756946999929,5034,0.0023021369997877628,,,,
+ice,APD/EI/Seq,APD/EI/Rand,0,ICE,relay,True,2.523645222000141,5350,0.0004412800003592565,,,,
+ice,APD/EI/Seq,APD/EI/Rand,1,ICE,relay,True,2.5155511150001075,6160,0.0006635779996031488,,,,
+ice,APD/EI/Seq,APD/EI/Rand,2,ICE,relay,True,2.5209800150000774,5792,0.0005573619996539492,,,,
+ice,APD/EI/Seq,APD/EI/Seq,0,ICE,relay,True,2.5564714170000116,5444,0.0005552110001190158,,,,
+ice,APD/EI/Seq,APD/EI/Seq,1,ICE,relay,True,2.5560780119999436,5618,0.00043698699982996914,,,,
+ice,APD/EI/Seq,APD/EI/Seq,2,ICE,relay,True,2.5539644450000196,5276,0.000494029000037699,,,,
+ice,EI/AD/-,AD/AD/Fixed,0,ICE,direct,True,0.10650101800001721,14,0.0004168699997535441,,,,
+ice,EI/AD/-,AD/AD/Fixed,1,ICE,direct,True,0.10628966900003434,14,0.0004993150000700552,,,,
+ice,EI/AD/-,AD/AD/Fixed,2,ICE,direct,True,0.10623757899975317,14,0.00033025599987013265,,,,
+ice,EI/AD/-,AD/AD/Rand,0,ICE,direct,True,0.10652288900018902,14,0.0006177789996399952,,,,
+ice,EI/AD/-,AD/AD/Rand,1,ICE,direct,True,0.10600903800013839,14,0.00034485400010453304,,,,
+ice,EI/AD/-,AD/AD/Rand,2,ICE,direct,True,0.10722632000033627,14,0.002096308000091085,,,,
+ice,EI/AD/-,AD/AD/Seq,0,ICE,direct,True,0.10601619200042478,14,0.0006779049999749986,,,,
+ice,EI/AD/-,AD/AD/Seq,1,ICE,direct,True,0.10617625799977759,14,0.0003897579999829759,,,,
+ice,EI/AD/-,AD/AD/Seq,2,ICE,direct,True,0.10605968900017615,14,0.0005159719999028312,,,,
+ice,EI/AD/-,AD/APD/Fixed,0,ICE,direct,True,0.10749964500018905,14,0.0007692519998272473,,,,
+ice,EI/AD/-,AD/APD/Fixed,1,ICE,direct,True,0.10625187900041055,14,0.00034121699991374044,,,,
+ice,EI/AD/-,AD/APD/Fixed,2,ICE,direct,True,0.10674789899985626,14,0.00039507800011051586,,,,
+ice,EI/AD/-,AD/APD/Rand,0,ICE,direct,True,0.10592564999979004,14,0.0003957489998356323,,,,
+ice,EI/AD/-,AD/APD/Rand,1,ICE,direct,True,0.1068685310001456,14,0.00039499399963460746,,,,
+ice,EI/AD/-,AD/APD/Rand,2,ICE,direct,True,0.10681203599961009,14,0.00042031600014524884,,,,
+ice,EI/AD/-,AD/APD/Seq,0,ICE,direct,True,0.10659102199997506,14,0.0003651229999377392,,,,
+ice,EI/AD/-,AD/APD/Seq,1,ICE,direct,True,0.10656494000022576,14,0.0004937560001962993,,,,
+ice,EI/AD/-,AD/APD/Seq,2,ICE,direct,True,0.10676846299975296,14,0.00040774900026008254,,,,
+ice,EI/AD/-,AD/EI/Fixed,0,ICE,direct,True,0.10789047099979143,16,0.0007975890002853703,,,,
+ice,EI/AD/-,AD/EI/Fixed,1,ICE,direct,True,0.10631628000010096,16,0.0004310540002734342,,,,
+ice,EI/AD/-,AD/EI/Fixed,2,ICE,direct,True,0.10640271300007953,16,0.00045263299989528605,,,,
+ice,EI/AD/-,AD/EI/Rand,0,ICE,direct,True,0.10692276700001457,16,0.00043958599962934386,,,,
+ice,EI/AD/-,AD/EI/Rand,1,ICE,direct,True,0.1067321370001082,16,0.0004549919999590202,,,,
+ice,EI/AD/-,AD/EI/Rand,2,ICE,direct,True,0.1069091809999918,16,0.0003882259998135851,,,,
+ice,EI/AD/-,AD/EI/Seq,0,ICE,direct,True,0.10582109200004197,16,0.000379297000108636,,,,
+ice,EI/AD/-,AD/EI/Seq,1,ICE,direct,True,0.10593702999995003,16,0.0004011569999420317,,,,
+ice,EI/AD/-,AD/EI/Seq,2,ICE,direct,True,0.10625511599982929,16,0.000490486999751738,,,,
+ice,EI/AD/-,APD/AD/Fixed,0,ICE,direct,True,0.1073343319999367,14,0.0007009800001469557,,,,
+ice,EI/AD/-,APD/AD/Fixed,1,ICE,direct,True,0.10694542499959425,14,0.0007281530001819192,,,,
+ice,EI/AD/-,APD/AD/Fixed,2,ICE,direct,True,0.10621474299978217,14,0.0005696939997505979,,,,
+ice,EI/AD/-,APD/AD/Rand,0,ICE,direct,True,0.10627984699976878,14,0.0007640570001967717,,,,
+ice,EI/AD/-,APD/AD/Rand,1,ICE,direct,True,0.10689614900002198,14,0.0006418879997909244,,,,
+ice,EI/AD/-,APD/AD/Rand,2,ICE,direct,True,0.10645341099962025,14,0.00041179700019711163,,,,
+ice,EI/AD/-,APD/AD/Seq,0,ICE,direct,True,0.10622402599983616,14,0.0008092539997051063,,,,
+ice,EI/AD/-,APD/AD/Seq,1,ICE,direct,True,0.1062304279998898,14,0.0006709290000799228,,,,
+ice,EI/AD/-,APD/AD/Seq,2,ICE,direct,True,0.10679284099978759,14,0.0004194580001239956,,,,
+ice,EI/AD/-,APD/APD/Fixed,0,ICE,direct,True,0.10780608499999289,14,0.0003711169997586694,,,,
+ice,EI/AD/-,APD/APD/Fixed,1,ICE,direct,True,0.10658623600011197,14,0.0003778729997065966,,,,
+ice,EI/AD/-,APD/APD/Fixed,2,ICE,direct,True,0.10652059899985034,14,0.00041262200011260575,,,,
+ice,EI/AD/-,APD/APD/Rand,0,ICE,direct,True,0.10651132699968002,14,0.0003526939999574097,,,,
+ice,EI/AD/-,APD/APD/Rand,1,ICE,direct,True,0.1060063079999054,14,0.000372098999832815,,,,
+ice,EI/AD/-,APD/APD/Rand,2,ICE,direct,True,0.10769617899995865,14,0.0004856820000895823,,,,
+ice,EI/AD/-,APD/APD/Seq,0,ICE,direct,True,0.1073265850000098,14,0.00035203900006308686,,,,
+ice,EI/AD/-,APD/APD/Seq,1,ICE,direct,True,0.10637035100035064,14,0.00045975900002304115,,,,
+ice,EI/AD/-,APD/APD/Seq,2,ICE,direct,True,0.1062898199998017,14,0.00045219599996926263,,,,
+ice,EI/AD/-,APD/EI/Fixed,0,ICE,direct,True,0.10627518799992686,16,0.00044383799968272797,,,,
+ice,EI/AD/-,APD/EI/Fixed,1,ICE,direct,True,0.10632934299974295,16,0.00039934699998411816,,,,
+ice,EI/AD/-,APD/EI/Fixed,2,ICE,direct,True,0.10692418700000417,16,0.0003482090000943572,,,,
+ice,EI/AD/-,APD/EI/Rand,0,ICE,direct,True,0.10663048200012781,16,0.0007001349999882223,,,,
+ice,EI/AD/-,APD/EI/Rand,1,ICE,direct,True,0.10659658100030356,16,0.00045716300019194023,,,,
+ice,EI/AD/-,APD/EI/Rand,2,ICE,direct,True,0.10723650699992504,16,0.0004316559998187586,,,,
+ice,EI/AD/-,APD/EI/Seq,0,ICE,direct,True,0.10713504100021964,16,0.000794997999946645,,,,
+ice,EI/AD/-,APD/EI/Seq,1,ICE,direct,True,0.10678810799981875,16,0.00044399799980965327,,,,
+ice,EI/AD/-,APD/EI/Seq,2,ICE,direct,True,0.10663325499990606,16,0.000429872000040632,,,,
+ice,EI/AD/-,EI/AD/-,0,ICE,direct,True,0.05584161699971446,10,0.00029429999995045364,,,,
+ice,EI/AD/-,EI/AD/-,1,ICE,direct,True,0.055667822000032174,10,0.0004317980001360411,,,,
+ice,EI/AD/-,EI/AD/-,2,ICE,direct,True,0.055548078999891004,10,0.0003419099998609454,,,,
+ice,EI/AD/-,EI/APD/-,0,ICE,direct,True,0.05561175299999377,10,0.0003511380000418285,,,,
+ice,EI/AD/-,EI/APD/-,1,ICE,direct,True,0.055939869999747316,10,0.00035820599987346213,,,,
+ice,EI/AD/-,EI/APD/-,2,ICE,direct,True,0.055409965999842825,10,0.00046729099994990975,,,,
+ice,EI/APD/-,AD/AD/Fixed,0,ICE,relay,True,2.5490425399998458,106,0.0004716260000350303,,,,
+ice,EI/APD/-,AD/AD/Fixed,1,ICE,relay,True,2.546915739999804,106,0.0005285279999043269,,,,
+ice,EI/APD/-,AD/AD/Fixed,2,ICE,relay,True,2.548185513000135,106,0.0005078149997643777,,,,
+ice,EI/APD/-,AD/AD/Rand,0,ICE,relay,True,2.542933725000239,106,0.00042269000005035195,,,,
+ice,EI/APD/-,AD/AD/Rand,1,ICE,relay,True,2.545709648999946,106,0.00039253400018424145,,,,
+ice,EI/APD/-,AD/AD/Rand,2,ICE,relay,True,2.5408526999999594,106,0.00048017000017352984,,,,
+ice,EI/APD/-,AD/AD/Seq,0,ICE,relay,True,2.5483129629997165,106,0.0006360239999594341,,,,
+ice,EI/APD/-,AD/AD/Seq,1,ICE,relay,True,2.5472551610000664,106,0.00048808800011101994,,,,
+ice,EI/APD/-,AD/AD/Seq,2,ICE,relay,True,2.547792589999972,106,0.0006237369998416398,,,,
+ice,EI/APD/-,AD/APD/Fixed,0,ICE,relay,True,2.5476303909999842,106,0.0005925660002503719,,,,
+ice,EI/APD/-,AD/APD/Fixed,1,ICE,relay,True,2.5499264150003,106,0.0004189490000499063,,,,
+ice,EI/APD/-,AD/APD/Fixed,2,ICE,relay,True,2.5441921229999025,106,0.0004556950002552185,,,,
+ice,EI/APD/-,AD/APD/Rand,0,ICE,relay,True,2.5462695299997904,106,0.0005717310000363796,,,,
+ice,EI/APD/-,AD/APD/Rand,1,ICE,relay,True,2.5469962739998664,106,0.0006094849995861296,,,,
+ice,EI/APD/-,AD/APD/Rand,2,ICE,relay,True,2.543097751999994,106,0.0004662000001189881,,,,
+ice,EI/APD/-,AD/APD/Seq,0,ICE,relay,True,2.5471488980001595,106,0.0008886980003808276,,,,
+ice,EI/APD/-,AD/APD/Seq,1,ICE,relay,True,2.548558164000042,106,0.00046866499997122446,,,,
+ice,EI/APD/-,AD/APD/Seq,2,ICE,relay,True,2.5485708510000222,106,0.00044781299993701396,,,,
+ice,EI/APD/-,AD/EI/Fixed,0,ICE,relay,True,2.5443259040002886,156,0.00046791699969617184,,,,
+ice,EI/APD/-,AD/EI/Fixed,1,ICE,relay,True,2.5443573540001125,156,0.0005765609998888976,,,,
+ice,EI/APD/-,AD/EI/Fixed,2,ICE,relay,True,2.523541344000023,153,0.0004446150001058413,,,,
+ice,EI/APD/-,AD/EI/Rand,0,ICE,relay,True,2.5253450380000686,153,0.0005165550001038355,,,,
+ice,EI/APD/-,AD/EI/Rand,1,ICE,relay,True,2.507426864000081,153,0.0004972130000169273,,,,
+ice,EI/APD/-,AD/EI/Rand,2,ICE,relay,True,2.547722138000154,156,0.0006651109997619642,,,,
+ice,EI/APD/-,AD/EI/Seq,0,ICE,relay,True,2.5418959730000097,156,0.0004143749997638224,,,,
+ice,EI/APD/-,AD/EI/Seq,1,ICE,relay,True,2.549462202000086,156,0.0004337870000199473,,,,
+ice,EI/APD/-,AD/EI/Seq,2,ICE,relay,True,2.5434779750003145,156,0.00047691800000393414,,,,
+ice,EI/APD/-,APD/AD/Fixed,0,ICE,relay,True,2.548458660000051,106,0.0004942300001857802,,,,
+ice,EI/APD/-,APD/AD/Fixed,1,ICE,relay,True,2.5466734149999866,106,0.0004612289999386121,,,,
+ice,EI/APD/-,APD/AD/Fixed,2,ICE,relay,True,2.549379272000351,106,0.0004871409996667353,,,,
+ice,EI/APD/-,APD/AD/Rand,0,ICE,relay,True,2.5484854589999486,106,0.0005785219996141677,,,,
+ice,EI/APD/-,APD/AD/Rand,1,ICE,relay,True,2.5503791739997723,106,0.0004047860002174275,,,,
+ice,EI/APD/-,APD/AD/Rand,2,ICE,relay,True,2.543338991999917,106,0.0004955939998581016,,,,
+ice,EI/APD/-,APD/AD/Seq,0,ICE,relay,True,2.546453437999844,106,0.00039354999989882344,,,,
+ice,EI/APD/-,APD/AD/Seq,1,ICE,relay,True,2.5457988359999035,106,0.0004141439999330032,,,,
+ice,EI/APD/-,APD/AD/Seq,2,ICE,relay,True,2.54530736300012,106,0.0005078439999124384,,,,
+ice,EI/APD/-,APD/APD/Fixed,0,ICE,relay,True,2.5496178500002316,106,0.0004173839997747564,,,,
+ice,EI/APD/-,APD/APD/Fixed,1,ICE,relay,True,2.547278581000228,106,0.00035172199977751006,,,,
+ice,EI/APD/-,APD/APD/Fixed,2,ICE,relay,True,2.554564177999964,106,0.0003635379998740973,,,,
+ice,EI/APD/-,APD/APD/Rand,0,ICE,relay,True,2.548096912999881,106,0.00045549400010713725,,,,
+ice,EI/APD/-,APD/APD/Rand,1,ICE,relay,True,2.5439267429997017,106,0.0004610480000337702,,,,
+ice,EI/APD/-,APD/APD/Rand,2,ICE,relay,True,2.539863528999831,106,0.0004493920000641083,,,,
+ice,EI/APD/-,APD/APD/Seq,0,ICE,relay,True,2.548401905999981,106,0.0004438159999153868,,,,
+ice,EI/APD/-,APD/APD/Seq,1,ICE,relay,True,2.553810543000054,106,0.0005839610003022244,,,,
+ice,EI/APD/-,APD/APD/Seq,2,ICE,relay,True,2.550782682999852,106,0.000421210000240535,,,,
+ice,EI/APD/-,APD/EI/Fixed,0,ICE,relay,True,2.509734441999626,153,0.00043812600006276625,,,,
+ice,EI/APD/-,APD/EI/Fixed,1,ICE,relay,True,2.5471523799997158,156,0.0004098800000065239,,,,
+ice,EI/APD/-,APD/EI/Fixed,2,ICE,relay,True,2.548541984000167,156,0.0005049609999332461,,,,
+ice,EI/APD/-,APD/EI/Rand,0,ICE,relay,True,2.546528075000424,156,0.00043127099979756167,,,,
+ice,EI/APD/-,APD/EI/Rand,1,ICE,relay,True,2.54899019100003,156,0.0004280599996491219,,,,
+ice,EI/APD/-,APD/EI/Rand,2,ICE,relay,True,2.547036776999903,156,0.0005901159997847572,,,,
+ice,EI/APD/-,APD/EI/Seq,0,ICE,relay,True,2.547530629999983,156,0.0006642460002694861,,,,
+ice,EI/APD/-,APD/EI/Seq,1,ICE,relay,True,2.551919420000104,156,0.0004955379999955767,,,,
+ice,EI/APD/-,APD/EI/Seq,2,ICE,relay,True,2.555982825999763,156,0.0004502269998738484,,,,
+ice,EI/APD/-,EI/APD/-,0,ICE,direct,True,0.055726634000166086,10,0.00037147300008655293,,,,
+ice,EI/APD/-,EI/APD/-,1,ICE,direct,True,0.05562158800012185,10,0.0004511440001806477,,,,
+ice,EI/APD/-,EI/APD/-,2,ICE,direct,True,0.055769151999811584,10,0.0003474979998827621,,,,
+ice,EI/EI/-,AD/AD/Fixed,0,ICE,direct,True,0.10698190299990529,14,0.00043735700000979705,,,,
+ice,EI/EI/-,AD/AD/Fixed,1,ICE,direct,True,0.10615050600017639,14,0.00042486899974392145,,,,
+ice,EI/EI/-,AD/AD/Fixed,2,ICE,direct,True,0.10700111799997103,14,0.0005876790000911569,,,,
+ice,EI/EI/-,AD/AD/Rand,0,ICE,direct,True,0.10719774000017424,14,0.00044134200015832903,,,,
+ice,EI/EI/-,AD/AD/Rand,1,ICE,direct,True,0.10623183799998515,14,0.0003617580000536691,,,,
+ice,EI/EI/-,AD/AD/Rand,2,ICE,direct,True,0.10666751999997359,14,0.0003715599996212404,,,,
+ice,EI/EI/-,AD/AD/Seq,0,ICE,direct,True,0.10703080100029183,14,0.000326504999975441,,,,
+ice,EI/EI/-,AD/AD/Seq,1,ICE,direct,True,0.1081985910000185,14,0.0005049189999226655,,,,
+ice,EI/EI/-,AD/AD/Seq,2,ICE,direct,True,0.10680354000032821,14,0.00041312399980597547,,,,
+ice,EI/EI/-,AD/APD/Fixed,0,ICE,direct,True,0.10759378000011566,14,0.0004984189999959199,,,,
+ice,EI/EI/-,AD/APD/Fixed,1,ICE,direct,True,0.10635013099999924,14,0.0004936679997626925,,,,
+ice,EI/EI/-,AD/APD/Fixed,2,ICE,direct,True,0.10688008699980855,14,0.0005414639999798965,,,,
+ice,EI/EI/-,AD/APD/Rand,0,ICE,direct,True,0.10648151700024755,14,0.0004580700001497462,,,,
+ice,EI/EI/-,AD/APD/Rand,1,ICE,direct,True,0.10665761999962342,14,0.0005455619998429029,,,,
+ice,EI/EI/-,AD/APD/Rand,2,ICE,direct,True,0.10629827299999306,14,0.0003891370001838368,,,,
+ice,EI/EI/-,AD/APD/Seq,0,ICE,direct,True,0.10627202900013799,14,0.0003533330000209389,,,,
+ice,EI/EI/-,AD/APD/Seq,1,ICE,direct,True,0.1063084689999414,14,0.0003781650002565584,,,,
+ice,EI/EI/-,AD/APD/Seq,2,ICE,direct,True,0.10793518399987079,14,0.0005820500000481843,,,,
+ice,EI/EI/-,AD/EI/Fixed,0,ICE,direct,True,0.10612925299983544,16,0.0008523550000063551,,,,
+ice,EI/EI/-,AD/EI/Fixed,1,ICE,direct,True,0.10680099100000007,16,0.00044372699994710274,,,,
+ice,EI/EI/-,AD/EI/Fixed,2,ICE,direct,True,0.10773698200000581,16,0.0006390190001184237,,,,
+ice,EI/EI/-,AD/EI/Rand,0,ICE,direct,True,0.10607177100018816,16,0.000464278999970702,,,,
+ice,EI/EI/-,AD/EI/Rand,1,ICE,direct,True,0.10668737900004999,16,0.001155435999862675,,,,
+ice,EI/EI/-,AD/EI/Rand,2,ICE,direct,True,0.10738562799997453,16,0.00038220999977056636,,,,
+ice,EI/EI/-,AD/EI/Seq,0,ICE,direct,True,0.10695020900038799,16,0.0013695710003958084,,,,
+ice,EI/EI/-,AD/EI/Seq,1,ICE,direct,True,0.10731291399997644,14,0.0010688279999158112,,,,
+ice,EI/EI/-,AD/EI/Seq,2,ICE,direct,True,0.10772879299975102,16,0.0008377809999728925,,,,
+ice,EI/EI/-,APD/AD/Fixed,0,ICE,direct,True,0.10644779500034929,14,0.0004660050003622018,,,,
+ice,EI/EI/-,APD/AD/Fixed,1,ICE,direct,True,0.10697578400004204,14,0.00042750600005092565,,,,
+ice,EI/EI/-,APD/AD/Fixed,2,ICE,direct,True,0.10700211099992885,14,0.00047111000003496883,,,,
+ice,EI/EI/-,APD/AD/Rand,0,ICE,direct,True,0.1070490039996912,14,0.00036095399991609156,,,,
+ice,EI/EI/-,APD/AD/Rand,1,ICE,direct,True,0.10681915100030892,14,0.00048212999990937533,,,,
+ice,EI/EI/-,APD/AD/Rand,2,ICE,direct,True,0.10580849100006162,14,0.00035355499994693673,,,,
+ice,EI/EI/-,APD/AD/Seq,0,ICE,direct,True,0.10767393500009348,14,0.0003464900000835769,,,,
+ice,EI/EI/-,APD/AD/Seq,1,ICE,direct,True,0.10738667199984775,14,0.00048295599981429405,,,,
+ice,EI/EI/-,APD/AD/Seq,2,ICE,direct,True,0.10679001800008336,14,0.00043607799989331397,,,,
+ice,EI/EI/-,APD/APD/Fixed,0,ICE,direct,True,0.10610388399982185,14,0.00039144599986684625,,,,
+ice,EI/EI/-,APD/APD/Fixed,1,ICE,direct,True,0.10670021700025245,14,0.00037263700005496503,,,,
+ice,EI/EI/-,APD/APD/Fixed,2,ICE,direct,True,0.10644561699973565,14,0.0004584129997056152,,,,
+ice,EI/EI/-,APD/APD/Rand,0,ICE,direct,True,0.10646466700018209,14,0.0004356630001893791,,,,
+ice,EI/EI/-,APD/APD/Rand,1,ICE,direct,True,0.10628920199997083,14,0.00044615100023293053,,,,
+ice,EI/EI/-,APD/APD/Rand,2,ICE,direct,True,0.10672155100019154,14,0.0004152739998062316,,,,
+ice,EI/EI/-,APD/APD/Seq,0,ICE,direct,True,0.10686032500007059,14,0.00040432500009046635,,,,
+ice,EI/EI/-,APD/APD/Seq,1,ICE,direct,True,0.10593080599983296,14,0.000538944999789237,,,,
+ice,EI/EI/-,APD/APD/Seq,2,ICE,direct,True,0.1063247910001337,14,0.000498591999985365,,,,
+ice,EI/EI/-,APD/EI/Fixed,0,ICE,direct,True,0.1079961479999838,16,0.000508090000039374,,,,
+ice,EI/EI/-,APD/EI/Fixed,1,ICE,direct,True,0.10670965600002091,16,0.00042097200002899626,,,,
+ice,EI/EI/-,APD/EI/Fixed,2,ICE,direct,True,0.10735421299978043,16,0.00040399999988949276,,,,
+ice,EI/EI/-,APD/EI/Rand,0,ICE,direct,True,0.10651025600009234,16,0.00041461000000708736,,,,
+ice,EI/EI/-,APD/EI/Rand,1,ICE,direct,True,0.10701324799993017,16,0.00042500700010350556,,,,
+ice,EI/EI/-,APD/EI/Rand,2,ICE,direct,True,0.10653656899967245,16,0.00037944399991829414,,,,
+ice,EI/EI/-,APD/EI/Seq,0,ICE,direct,True,0.10696098400012488,16,0.0004171680002400535,,,,
+ice,EI/EI/-,APD/EI/Seq,1,ICE,direct,True,0.10656668899991928,16,0.0005839219998051703,,,,
+ice,EI/EI/-,APD/EI/Seq,2,ICE,direct,True,0.1070785829997476,16,0.0004198530000394385,,,,
+ice,EI/EI/-,EI/AD/-,0,ICE,direct,True,0.056821131000106107,10,0.0007793429999765067,,,,
+ice,EI/EI/-,EI/AD/-,1,ICE,direct,True,0.05603760400026658,10,0.0008087409996733186,,,,
+ice,EI/EI/-,EI/AD/-,2,ICE,direct,True,0.056546241999967606,10,0.000611127999945893,,,,
+ice,EI/EI/-,EI/APD/-,0,ICE,direct,True,0.055787153000437684,10,0.0009364150000692462,,,,
+ice,EI/EI/-,EI/APD/-,1,ICE,direct,True,0.05557176199999958,10,0.00035371800004213583,,,,
+ice,EI/EI/-,EI/APD/-,2,ICE,direct,True,0.05720653799971842,10,0.001089332999981707,,,,
+ice,EI/EI/-,EI/EI/-,0,ICE,direct,True,0.056823871999768016,10,0.0014197350001268205,,,,
+ice,EI/EI/-,EI/EI/-,1,ICE,direct,True,0.05673805000014909,10,0.0013995770000292396,,,,
+ice,EI/EI/-,EI/EI/-,2,ICE,direct,True,0.056567429000097036,10,0.0014861729996482609,,,,

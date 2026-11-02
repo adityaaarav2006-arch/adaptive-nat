@@ -1,0 +1,1135 @@
+agent,nat_a,nat_b,trial,plan,path,ok,t_connect,packets,n_open,m_probe,spray_range,p_spray,profile_a,profile_b,reason
+block-aware,AD/AD/Blk512,AD/AD/Fixed,0,PREDICT,direct,True,0.05699517100003959,56,0,0,64512,,AD/AD/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-aware,AD/AD/Blk512,AD/AD/Fixed,1,PREDICT,direct,True,0.0574002890000429,56,0,0,64512,,AD/AD/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-aware,AD/AD/Blk512,AD/AD/Fixed,2,PREDICT,direct,True,0.05678381600000648,56,0,0,64512,,AD/AD/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-aware,AD/AD/Blk512,AD/AD/Rand,0,SPRAY,direct,True,0.0822414200000594,89,49,49,512,0.9908082885007716,AD/AD/Blk512,AD/AD/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,AD/AD/Rand,1,SPRAY,direct,True,0.08196152000004986,89,49,49,512,0.9908082885007716,AD/AD/Blk512,AD/AD/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,AD/AD/Rand,2,SPRAY,direct,True,0.08243775400001141,90,49,49,512,0.9908082885007716,AD/AD/Blk512,AD/AD/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,AD/AD/Seq,0,PREDICT,direct,True,0.0565278969999099,56,0,0,64512,,AD/AD/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-aware,AD/AD/Blk512,AD/AD/Seq,1,PREDICT,direct,True,0.056609232999903725,56,0,0,64512,,AD/AD/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-aware,AD/AD/Blk512,AD/AD/Seq,2,PREDICT,direct,True,0.05631962699999349,56,0,0,64512,,AD/AD/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-aware,AD/AD/Blk512,AD/APD/Fixed,0,SPRAY,direct,True,0.08350712900005419,91,49,49,512,0.9908082885007716,AD/AD/Blk512,AD/APD/Fixed,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,AD/APD/Fixed,1,SPRAY,direct,True,0.08202166600005967,92,49,49,512,0.9908082885007716,AD/AD/Blk512,AD/APD/Fixed,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,AD/APD/Fixed,2,SPRAY,direct,True,0.08229678799989415,92,49,49,512,0.9908082885007716,AD/AD/Blk512,AD/APD/Fixed,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,AD/APD/Rand,0,SPRAY,direct,True,0.08270243200001914,94,49,49,512,0.9908082885007716,AD/AD/Blk512,AD/APD/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,AD/APD/Rand,1,SPRAY,direct,True,0.08336131099997601,90,49,49,512,0.9908082885007716,AD/AD/Blk512,AD/APD/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,AD/APD/Rand,2,SPRAY,direct,True,0.08317623699997512,92,49,49,512,0.9908082885007716,AD/AD/Blk512,AD/APD/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,AD/APD/Seq,0,SPRAY,direct,True,0.08238505799999984,91,49,49,512,0.9908082885007716,AD/AD/Blk512,AD/APD/Seq,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,AD/APD/Seq,1,SPRAY,direct,True,0.08191850699995484,89,49,49,512,0.9908082885007716,AD/AD/Blk512,AD/APD/Seq,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,AD/APD/Seq,2,SPRAY,direct,True,0.08279108600004292,95,49,49,512,0.9908082885007716,AD/AD/Blk512,AD/APD/Seq,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,AD/EI/Fixed,0,PREDICT,direct,True,0.05629045400007726,56,0,0,64512,,AD/AD/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-aware,AD/AD/Blk512,AD/EI/Fixed,1,PREDICT,direct,True,0.056244870000000446,56,0,0,64512,,AD/AD/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-aware,AD/AD/Blk512,AD/EI/Fixed,2,PREDICT,direct,True,0.05635595100000046,56,0,0,64512,,AD/AD/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-aware,AD/AD/Blk512,AD/EI/Rand,0,SPRAY,direct,True,0.0862722990000293,90,49,49,512,0.9908082885007716,AD/AD/Blk512,AD/EI/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,AD/EI/Rand,1,SPRAY,direct,True,0.05582785199999307,57,49,49,512,0.9908082885007716,AD/AD/Blk512,AD/EI/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,AD/EI/Rand,2,SPRAY,direct,True,0.0825233880000269,93,49,49,512,0.9908082885007716,AD/AD/Blk512,AD/EI/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,AD/EI/Seq,0,PREDICT,direct,True,0.05645170599996163,56,0,0,64512,,AD/AD/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-aware,AD/AD/Blk512,AD/EI/Seq,1,PREDICT,direct,True,0.057244682999908036,56,0,0,64512,,AD/AD/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-aware,AD/AD/Blk512,AD/EI/Seq,2,PREDICT,direct,True,0.05639768899993669,56,0,0,64512,,AD/AD/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-aware,AD/AD/Blk512,APD/AD/Fixed,0,PREDICT,direct,True,0.057869860999971934,56,0,0,64512,,AD/AD/Blk512,APD/AD/Fixed,B is lenient and its port is pred
+block-aware,AD/AD/Blk512,APD/AD/Fixed,1,PREDICT,direct,True,0.05840139700001146,57,0,0,64512,,AD/AD/Blk512,APD/AD/Fixed,B is lenient and its port is pred
+block-aware,AD/AD/Blk512,APD/AD/Fixed,2,PREDICT,direct,True,0.058071459000075265,56,0,0,64512,,AD/AD/Blk512,APD/AD/Fixed,B is lenient and its port is pred
+block-aware,AD/AD/Blk512,APD/AD/Rand,0,SPRAY,direct,True,0.08828122200009147,92,49,49,512,0.9908082885007716,AD/AD/Blk512,APD/AD/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,APD/AD/Rand,1,SPRAY,direct,True,0.08635296099998868,93,49,49,512,0.9908082885007716,AD/AD/Blk512,APD/AD/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,APD/AD/Rand,2,SPRAY,direct,True,0.08725554599993757,91,49,49,512,0.9908082885007716,AD/AD/Blk512,APD/AD/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,APD/AD/Seq,0,PREDICT,direct,True,0.0579369869999482,56,0,0,64512,,AD/AD/Blk512,APD/AD/Seq,B is lenient and its port is pred
+block-aware,AD/AD/Blk512,APD/AD/Seq,1,PREDICT,direct,True,0.05822265300002982,56,0,0,64512,,AD/AD/Blk512,APD/AD/Seq,B is lenient and its port is pred
+block-aware,AD/AD/Blk512,APD/AD/Seq,2,PREDICT,direct,True,0.05808665399990787,56,0,0,64512,,AD/AD/Blk512,APD/AD/Seq,B is lenient and its port is pred
+block-aware,AD/AD/Blk512,APD/APD/Fixed,0,SPRAY,direct,True,0.08431626300000516,90,49,49,512,0.9908082885007716,AD/AD/Blk512,APD/APD/Fixed,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,APD/APD/Fixed,1,SPRAY,direct,True,0.08327366699995764,93,49,49,512,0.9908082885007716,AD/AD/Blk512,APD/APD/Fixed,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,APD/APD/Fixed,2,SPRAY,direct,True,0.08403145500005849,90,49,49,512,0.9908082885007716,AD/AD/Blk512,APD/APD/Fixed,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,APD/APD/Rand,0,SPRAY,direct,True,0.083546325000043,90,49,49,512,0.9908082885007716,AD/AD/Blk512,APD/APD/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,APD/APD/Rand,1,SPRAY,direct,True,0.08331334000001789,92,49,49,512,0.9908082885007716,AD/AD/Blk512,APD/APD/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,APD/APD/Rand,2,SPRAY,direct,True,0.08726065900009417,89,49,49,512,0.9908082885007716,AD/AD/Blk512,APD/APD/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,APD/APD/Seq,0,SPRAY,direct,True,0.08390300299993214,89,49,49,512,0.9908082885007716,AD/AD/Blk512,APD/APD/Seq,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,APD/APD/Seq,1,SPRAY,direct,True,0.08542214199997034,91,49,49,512,0.9908082885007716,AD/AD/Blk512,APD/APD/Seq,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,APD/APD/Seq,2,SPRAY,direct,True,0.08384607200002847,89,49,49,512,0.9908082885007716,AD/AD/Blk512,APD/APD/Seq,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,APD/EI/Fixed,0,PREDICT,direct,True,0.05755900600001951,56,0,0,64512,,AD/AD/Blk512,APD/EI/Fixed,B is lenient and its port is pred
+block-aware,AD/AD/Blk512,APD/EI/Fixed,1,PREDICT,direct,True,0.05750854600000821,56,0,0,64512,,AD/AD/Blk512,APD/EI/Fixed,B is lenient and its port is pred
+block-aware,AD/AD/Blk512,APD/EI/Fixed,2,PREDICT,direct,True,0.05818105299999843,56,0,0,64512,,AD/AD/Blk512,APD/EI/Fixed,B is lenient and its port is pred
+block-aware,AD/AD/Blk512,APD/EI/Rand,0,SPRAY,direct,True,0.08419797599992762,92,49,49,512,0.9908082885007716,AD/AD/Blk512,APD/EI/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,APD/EI/Rand,1,SPRAY,direct,True,0.08473017400001481,90,49,49,512,0.9908082885007716,AD/AD/Blk512,APD/EI/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,APD/EI/Rand,2,SPRAY,direct,True,0.08325350500001605,91,49,49,512,0.9908082885007716,AD/AD/Blk512,APD/EI/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,APD/EI/Seq,0,PREDICT,direct,True,0.057776511000042774,56,0,0,64512,,AD/AD/Blk512,APD/EI/Seq,B is lenient and its port is pred
+block-aware,AD/AD/Blk512,APD/EI/Seq,1,PREDICT,direct,True,0.05752320700003111,56,0,0,64512,,AD/AD/Blk512,APD/EI/Seq,B is lenient and its port is pred
+block-aware,AD/AD/Blk512,APD/EI/Seq,2,PREDICT,direct,True,0.0580607859999418,56,0,0,64512,,AD/AD/Blk512,APD/EI/Seq,B is lenient and its port is pred
+block-aware,AD/AD/Blk512,EI/AD/-,0,PREDICT,direct,True,0.05639018300007592,10,0,0,64512,,AD/AD/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-aware,AD/AD/Blk512,EI/AD/-,1,PREDICT,direct,True,0.057107038999902215,10,0,0,64512,,AD/AD/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-aware,AD/AD/Blk512,EI/AD/-,2,PREDICT,direct,True,0.056808615000022655,10,0,0,64512,,AD/AD/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-aware,AD/AD/Blk512,EI/APD/-,0,SPRAY,direct,True,0.08307159699995736,92,49,49,512,0.9908082885007716,AD/AD/Blk512,EI/APD/-,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,EI/APD/-,1,SPRAY,direct,True,0.08218926899996859,89,49,49,512,0.9908082885007716,AD/AD/Blk512,EI/APD/-,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,EI/APD/-,2,SPRAY,direct,True,0.08221097099999497,89,49,49,512,0.9908082885007716,AD/AD/Blk512,EI/APD/-,"A random in a 512-port block, opener=A"
+block-aware,AD/AD/Blk512,EI/EI/-,0,PREDICT,direct,True,0.05648002800000995,10,0,0,64512,,AD/AD/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-aware,AD/AD/Blk512,EI/EI/-,1,PREDICT,direct,True,0.05648297899995214,10,0,0,64512,,AD/AD/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-aware,AD/AD/Blk512,EI/EI/-,2,PREDICT,direct,True,0.05590988599999491,10,0,0,64512,,AD/AD/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-aware,AD/APD/Blk512,AD/AD/Fixed,0,PREDICT,direct,True,0.05713327399996615,56,0,0,64512,,AD/APD/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-aware,AD/APD/Blk512,AD/AD/Fixed,1,PREDICT,direct,True,0.05683224500000961,56,0,0,64512,,AD/APD/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-aware,AD/APD/Blk512,AD/AD/Fixed,2,PREDICT,direct,True,0.05686484900002142,56,0,0,64512,,AD/APD/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-aware,AD/APD/Blk512,AD/AD/Rand,0,SPRAY,direct,True,0.1345826639999359,361,256,384,64512,0.7821197161768776,AD/APD/Blk512,AD/AD/Rand,"B random, opener=B"
+block-aware,AD/APD/Blk512,AD/AD/Rand,1,SPRAY,direct,True,0.21111323799993897,456,256,384,64512,0.7821197161768776,AD/APD/Blk512,AD/AD/Rand,"B random, opener=B"
+block-aware,AD/APD/Blk512,AD/AD/Rand,2,SPRAY,direct,True,0.34215931300002467,616,256,384,64512,0.7821197161768776,AD/APD/Blk512,AD/AD/Rand,"B random, opener=B"
+block-aware,AD/APD/Blk512,AD/AD/Seq,0,PREDICT,direct,True,0.0560726370000566,56,0,0,64512,,AD/APD/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-aware,AD/APD/Blk512,AD/AD/Seq,1,PREDICT,direct,True,0.05596697800001493,56,0,0,64512,,AD/APD/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-aware,AD/APD/Blk512,AD/AD/Seq,2,PREDICT,direct,True,0.05671660999996675,56,0,0,64512,,AD/APD/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-aware,AD/APD/Blk512,AD/APD/Fixed,0,RELAY,relay,True,0.005391229999986535,6,0,0,64512,,AD/APD/Blk512,AD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-aware,AD/APD/Blk512,AD/APD/Fixed,1,RELAY,relay,True,0.005421416999979556,6,0,0,64512,,AD/APD/Blk512,AD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-aware,AD/APD/Blk512,AD/APD/Fixed,2,RELAY,relay,True,0.005355409999992844,6,0,0,64512,,AD/APD/Blk512,AD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-aware,AD/APD/Blk512,AD/APD/Rand,0,RELAY,relay,True,0.005310675999908199,6,0,0,64512,,AD/APD/Blk512,AD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,AD/APD/Blk512,AD/APD/Rand,1,RELAY,relay,True,0.005354162999992695,6,0,0,64512,,AD/APD/Blk512,AD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,AD/APD/Blk512,AD/APD/Rand,2,RELAY,relay,True,0.0054853870000215466,6,0,0,64512,,AD/APD/Blk512,AD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,AD/APD/Blk512,AD/APD/Seq,0,RELAY,relay,True,0.0054866090000587064,6,0,0,64512,,AD/APD/Blk512,AD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-aware,AD/APD/Blk512,AD/APD/Seq,1,RELAY,relay,True,0.0053535060000058365,6,0,0,64512,,AD/APD/Blk512,AD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-aware,AD/APD/Blk512,AD/APD/Seq,2,RELAY,relay,True,0.0054002780000246275,6,0,0,64512,,AD/APD/Blk512,AD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-aware,AD/APD/Blk512,AD/EI/Fixed,0,PREDICT,direct,True,0.057413148000023284,56,0,0,64512,,AD/APD/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-aware,AD/APD/Blk512,AD/EI/Fixed,1,PREDICT,direct,True,0.056471939000061866,56,0,0,64512,,AD/APD/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-aware,AD/APD/Blk512,AD/EI/Fixed,2,PREDICT,direct,True,0.05708684600006109,56,0,0,64512,,AD/APD/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-aware,AD/APD/Blk512,AD/EI/Rand,0,SPRAY,direct,True,0.10859580400006053,328,256,384,64512,0.7821197161768776,AD/APD/Blk512,AD/EI/Rand,"B random, opener=B"
+block-aware,AD/APD/Blk512,AD/EI/Rand,1,SPRAY,direct,True,0.23814711199997873,488,256,384,64512,0.7821197161768776,AD/APD/Blk512,AD/EI/Rand,"B random, opener=B"
+block-aware,AD/APD/Blk512,AD/EI/Rand,2,SPRAY,relay,True,2.5148341569999957,902,256,384,64512,0.7821197161768776,AD/APD/Blk512,AD/EI/Rand,"B random, opener=B"
+block-aware,AD/APD/Blk512,AD/EI/Seq,0,PREDICT,direct,True,0.05690886600007161,56,0,0,64512,,AD/APD/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-aware,AD/APD/Blk512,AD/EI/Seq,1,PREDICT,direct,True,0.05654898199998115,56,0,0,64512,,AD/APD/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-aware,AD/APD/Blk512,AD/EI/Seq,2,PREDICT,direct,True,0.05673562300000867,58,0,0,64512,,AD/APD/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-aware,AD/APD/Blk512,APD/AD/Fixed,0,PREDICT,direct,True,0.05674136099992211,57,0,0,64512,,AD/APD/Blk512,APD/AD/Fixed,B is lenient and its port is pred
+block-aware,AD/APD/Blk512,APD/AD/Fixed,1,PREDICT,direct,True,0.057935518999897795,56,0,0,64512,,AD/APD/Blk512,APD/AD/Fixed,B is lenient and its port is pred
+block-aware,AD/APD/Blk512,APD/AD/Fixed,2,PREDICT,direct,True,0.057405485000003864,56,0,0,64512,,AD/APD/Blk512,APD/AD/Fixed,B is lenient and its port is pred
+block-aware,AD/APD/Blk512,APD/AD/Rand,0,RELAY,relay,True,0.005345377000026019,6,0,0,64512,,AD/APD/Blk512,APD/AD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,AD/APD/Blk512,APD/AD/Rand,1,RELAY,relay,True,0.005608061999964775,6,0,0,64512,,AD/APD/Blk512,APD/AD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,AD/APD/Blk512,APD/AD/Rand,2,RELAY,relay,True,0.005788346000031197,6,0,0,64512,,AD/APD/Blk512,APD/AD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,AD/APD/Blk512,APD/AD/Seq,0,PREDICT,direct,True,0.05723654600001282,56,0,0,64512,,AD/APD/Blk512,APD/AD/Seq,B is lenient and its port is pred
+block-aware,AD/APD/Blk512,APD/AD/Seq,1,PREDICT,direct,True,0.05698850700002822,56,0,0,64512,,AD/APD/Blk512,APD/AD/Seq,B is lenient and its port is pred
+block-aware,AD/APD/Blk512,APD/AD/Seq,2,PREDICT,direct,True,0.057379529999934675,56,0,0,64512,,AD/APD/Blk512,APD/AD/Seq,B is lenient and its port is pred
+block-aware,AD/APD/Blk512,APD/APD/Fixed,0,RELAY,relay,True,0.0056486060000224825,6,0,0,64512,,AD/APD/Blk512,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-aware,AD/APD/Blk512,APD/APD/Fixed,1,RELAY,relay,True,0.005383965000078206,6,0,0,64512,,AD/APD/Blk512,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-aware,AD/APD/Blk512,APD/APD/Fixed,2,RELAY,relay,True,0.005578517000003558,6,0,0,64512,,AD/APD/Blk512,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-aware,AD/APD/Blk512,APD/APD/Rand,0,RELAY,relay,True,0.005463591999955497,6,0,0,64512,,AD/APD/Blk512,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,AD/APD/Blk512,APD/APD/Rand,1,RELAY,relay,True,0.005472057000019959,6,0,0,64512,,AD/APD/Blk512,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,AD/APD/Blk512,APD/APD/Rand,2,RELAY,relay,True,0.005357381000067107,6,0,0,64512,,AD/APD/Blk512,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,AD/APD/Blk512,APD/APD/Seq,0,RELAY,relay,True,0.006090577000009034,6,0,0,64512,,AD/APD/Blk512,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-aware,AD/APD/Blk512,APD/APD/Seq,1,RELAY,relay,True,0.00540893100003359,6,0,0,64512,,AD/APD/Blk512,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-aware,AD/APD/Blk512,APD/APD/Seq,2,RELAY,relay,True,0.005366043999970316,6,0,0,64512,,AD/APD/Blk512,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-aware,AD/APD/Blk512,APD/EI/Fixed,0,PREDICT,direct,True,0.057760066000014376,56,0,0,64512,,AD/APD/Blk512,APD/EI/Fixed,B is lenient and its port is pred
+block-aware,AD/APD/Blk512,APD/EI/Fixed,1,PREDICT,direct,True,0.05666307800004233,56,0,0,64512,,AD/APD/Blk512,APD/EI/Fixed,B is lenient and its port is pred
+block-aware,AD/APD/Blk512,APD/EI/Fixed,2,PREDICT,direct,True,0.056962504000011904,56,0,0,64512,,AD/APD/Blk512,APD/EI/Fixed,B is lenient and its port is pred
+block-aware,AD/APD/Blk512,APD/EI/Rand,0,RELAY,relay,True,0.00533879399995385,6,0,0,64512,,AD/APD/Blk512,APD/EI/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,AD/APD/Blk512,APD/EI/Rand,1,RELAY,relay,True,0.005628064999996241,6,0,0,64512,,AD/APD/Blk512,APD/EI/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,AD/APD/Blk512,APD/EI/Rand,2,RELAY,relay,True,0.005380225000067185,6,0,0,64512,,AD/APD/Blk512,APD/EI/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,AD/APD/Blk512,APD/EI/Seq,0,PREDICT,direct,True,0.057803291999903195,56,0,0,64512,,AD/APD/Blk512,APD/EI/Seq,B is lenient and its port is pred
+block-aware,AD/APD/Blk512,APD/EI/Seq,1,PREDICT,direct,True,0.05778568800008088,56,0,0,64512,,AD/APD/Blk512,APD/EI/Seq,B is lenient and its port is pred
+block-aware,AD/APD/Blk512,APD/EI/Seq,2,PREDICT,direct,True,0.056919359999938024,56,0,0,64512,,AD/APD/Blk512,APD/EI/Seq,B is lenient and its port is pred
+block-aware,AD/APD/Blk512,EI/AD/-,0,PREDICT,direct,True,0.05593963299997995,10,0,0,64512,,AD/APD/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-aware,AD/APD/Blk512,EI/AD/-,1,PREDICT,direct,True,0.056372873999976036,10,0,0,64512,,AD/APD/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-aware,AD/APD/Blk512,EI/AD/-,2,PREDICT,direct,True,0.05598397999995086,10,0,0,64512,,AD/APD/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-aware,AD/APD/Blk512,EI/APD/-,0,SPRAY,direct,True,0.08100017300000673,92,49,49,512,0.9908082885007716,AD/APD/Blk512,EI/APD/-,"A random in a 512-port block, opener=A"
+block-aware,AD/APD/Blk512,EI/APD/-,1,SPRAY,direct,True,0.08203682600003503,91,49,49,512,0.9908082885007716,AD/APD/Blk512,EI/APD/-,"A random in a 512-port block, opener=A"
+block-aware,AD/APD/Blk512,EI/APD/-,2,SPRAY,direct,True,0.08290735600007793,93,49,49,512,0.9908082885007716,AD/APD/Blk512,EI/APD/-,"A random in a 512-port block, opener=A"
+block-aware,AD/APD/Blk512,EI/EI/-,0,PREDICT,direct,True,0.057722697000031076,10,0,0,64512,,AD/APD/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-aware,AD/APD/Blk512,EI/EI/-,1,PREDICT,direct,True,0.05583311300006244,10,0,0,64512,,AD/APD/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-aware,AD/APD/Blk512,EI/EI/-,2,PREDICT,direct,True,0.056733108000003085,10,0,0,64512,,AD/APD/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-aware,AD/EI/Blk512,AD/AD/Fixed,0,PREDICT,direct,True,0.05699165600003653,56,0,0,64512,,AD/EI/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-aware,AD/EI/Blk512,AD/AD/Fixed,1,PREDICT,direct,True,0.05666161400006331,56,0,0,64512,,AD/EI/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-aware,AD/EI/Blk512,AD/AD/Fixed,2,PREDICT,direct,True,0.05627760900006251,58,0,0,64512,,AD/EI/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-aware,AD/EI/Blk512,AD/AD/Rand,0,SPRAY,direct,True,0.08441981399994347,90,49,49,512,0.9908082885007716,AD/EI/Blk512,AD/AD/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,AD/AD/Rand,1,SPRAY,direct,True,0.08451142499995967,92,49,49,512,0.9908082885007716,AD/EI/Blk512,AD/AD/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,AD/AD/Rand,2,SPRAY,relay,True,2.518321108000009,153,49,49,512,0.9908082885007716,AD/EI/Blk512,AD/AD/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,AD/AD/Seq,0,PREDICT,direct,True,0.05631298599996626,56,0,0,64512,,AD/EI/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-aware,AD/EI/Blk512,AD/AD/Seq,1,PREDICT,direct,True,0.057685546000016075,58,0,0,64512,,AD/EI/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-aware,AD/EI/Blk512,AD/AD/Seq,2,PREDICT,direct,True,0.056079293999914626,59,0,0,64512,,AD/EI/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-aware,AD/EI/Blk512,AD/APD/Fixed,0,SPRAY,direct,True,0.08243242000003193,91,49,49,512,0.9908082885007716,AD/EI/Blk512,AD/APD/Fixed,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,AD/APD/Fixed,1,SPRAY,direct,True,0.08304355000007035,96,49,49,512,0.9908082885007716,AD/EI/Blk512,AD/APD/Fixed,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,AD/APD/Fixed,2,SPRAY,direct,True,0.08215988000006291,95,49,49,512,0.9908082885007716,AD/EI/Blk512,AD/APD/Fixed,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,AD/APD/Rand,0,SPRAY,direct,True,0.08212223800001084,90,49,49,512,0.9908082885007716,AD/EI/Blk512,AD/APD/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,AD/APD/Rand,1,SPRAY,direct,True,0.08270873699996173,89,49,49,512,0.9908082885007716,AD/EI/Blk512,AD/APD/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,AD/APD/Rand,2,SPRAY,direct,True,0.08176058499998362,94,49,49,512,0.9908082885007716,AD/EI/Blk512,AD/APD/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,AD/APD/Seq,0,SPRAY,direct,True,0.08167430100002093,91,49,49,512,0.9908082885007716,AD/EI/Blk512,AD/APD/Seq,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,AD/APD/Seq,1,SPRAY,direct,True,0.08328022200009855,92,49,49,512,0.9908082885007716,AD/EI/Blk512,AD/APD/Seq,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,AD/APD/Seq,2,SPRAY,direct,True,0.0834758949999923,93,49,49,512,0.9908082885007716,AD/EI/Blk512,AD/APD/Seq,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,AD/EI/Fixed,0,PREDICT,direct,True,0.05762383100000079,56,0,0,64512,,AD/EI/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-aware,AD/EI/Blk512,AD/EI/Fixed,1,PREDICT,direct,True,0.05671610599995347,56,0,0,64512,,AD/EI/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-aware,AD/EI/Blk512,AD/EI/Fixed,2,PREDICT,direct,True,0.05598172500003784,56,0,0,64512,,AD/EI/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-aware,AD/EI/Blk512,AD/EI/Rand,0,SPRAY,direct,True,0.08201675600003,92,49,49,512,0.9908082885007716,AD/EI/Blk512,AD/EI/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,AD/EI/Rand,1,SPRAY,direct,True,0.08209518599994681,91,49,49,512,0.9908082885007716,AD/EI/Blk512,AD/EI/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,AD/EI/Rand,2,SPRAY,direct,True,0.08178654099992855,93,49,49,512,0.9908082885007716,AD/EI/Blk512,AD/EI/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,AD/EI/Seq,0,PREDICT,direct,True,0.05640175899998212,56,0,0,64512,,AD/EI/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-aware,AD/EI/Blk512,AD/EI/Seq,1,PREDICT,direct,True,0.056535583000027145,56,0,0,64512,,AD/EI/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-aware,AD/EI/Blk512,AD/EI/Seq,2,PREDICT,direct,True,0.055949927000028765,58,0,0,64512,,AD/EI/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-aware,AD/EI/Blk512,APD/AD/Fixed,0,PREDICT,direct,True,0.057074681000017335,60,0,0,64512,,AD/EI/Blk512,APD/AD/Fixed,B is lenient and its port is pred
+block-aware,AD/EI/Blk512,APD/AD/Fixed,1,PREDICT,direct,True,0.05766548099995816,56,0,0,64512,,AD/EI/Blk512,APD/AD/Fixed,B is lenient and its port is pred
+block-aware,AD/EI/Blk512,APD/AD/Fixed,2,PREDICT,direct,True,0.057262153000010585,56,0,0,64512,,AD/EI/Blk512,APD/AD/Fixed,B is lenient and its port is pred
+block-aware,AD/EI/Blk512,APD/AD/Rand,0,SPRAY,direct,True,0.08370193199993992,93,49,49,512,0.9908082885007716,AD/EI/Blk512,APD/AD/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,APD/AD/Rand,1,SPRAY,direct,True,0.08430042800000592,93,49,49,512,0.9908082885007716,AD/EI/Blk512,APD/AD/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,APD/AD/Rand,2,SPRAY,direct,True,0.08451772500006882,92,49,49,512,0.9908082885007716,AD/EI/Blk512,APD/AD/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,APD/AD/Seq,0,PREDICT,direct,True,0.057347592000041914,56,0,0,64512,,AD/EI/Blk512,APD/AD/Seq,B is lenient and its port is pred
+block-aware,AD/EI/Blk512,APD/AD/Seq,1,PREDICT,direct,True,0.057574733000024025,57,0,0,64512,,AD/EI/Blk512,APD/AD/Seq,B is lenient and its port is pred
+block-aware,AD/EI/Blk512,APD/AD/Seq,2,PREDICT,direct,True,0.058368967999967936,56,0,0,64512,,AD/EI/Blk512,APD/AD/Seq,B is lenient and its port is pred
+block-aware,AD/EI/Blk512,APD/APD/Fixed,0,SPRAY,direct,True,0.08434887200007779,92,49,49,512,0.9908082885007716,AD/EI/Blk512,APD/APD/Fixed,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,APD/APD/Fixed,1,SPRAY,direct,True,0.08467468599997119,95,49,49,512,0.9908082885007716,AD/EI/Blk512,APD/APD/Fixed,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,APD/APD/Fixed,2,SPRAY,direct,True,0.08591803600006642,92,49,49,512,0.9908082885007716,AD/EI/Blk512,APD/APD/Fixed,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,APD/APD/Rand,0,SPRAY,direct,True,0.08356300000002648,93,49,49,512,0.9908082885007716,AD/EI/Blk512,APD/APD/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,APD/APD/Rand,1,SPRAY,direct,True,0.08442561599997589,90,49,49,512,0.9908082885007716,AD/EI/Blk512,APD/APD/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,APD/APD/Rand,2,SPRAY,direct,True,0.08409553199999209,92,49,49,512,0.9908082885007716,AD/EI/Blk512,APD/APD/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,APD/APD/Seq,0,SPRAY,direct,True,0.08447725199994238,94,49,49,512,0.9908082885007716,AD/EI/Blk512,APD/APD/Seq,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,APD/APD/Seq,1,SPRAY,direct,True,0.08449298099992575,92,49,49,512,0.9908082885007716,AD/EI/Blk512,APD/APD/Seq,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,APD/APD/Seq,2,SPRAY,direct,True,0.08418358599999465,94,49,49,512,0.9908082885007716,AD/EI/Blk512,APD/APD/Seq,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,APD/EI/Fixed,0,PREDICT,direct,True,0.05779591500004244,58,0,0,64512,,AD/EI/Blk512,APD/EI/Fixed,B is lenient and its port is pred
+block-aware,AD/EI/Blk512,APD/EI/Fixed,1,PREDICT,direct,True,0.05760810800006766,57,0,0,64512,,AD/EI/Blk512,APD/EI/Fixed,B is lenient and its port is pred
+block-aware,AD/EI/Blk512,APD/EI/Fixed,2,PREDICT,direct,True,0.057730337999942094,57,0,0,64512,,AD/EI/Blk512,APD/EI/Fixed,B is lenient and its port is pred
+block-aware,AD/EI/Blk512,APD/EI/Rand,0,SPRAY,direct,True,0.08544447799999944,90,49,49,512,0.9908082885007716,AD/EI/Blk512,APD/EI/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,APD/EI/Rand,1,SPRAY,direct,True,0.0834970070000054,90,49,49,512,0.9908082885007716,AD/EI/Blk512,APD/EI/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,APD/EI/Rand,2,SPRAY,direct,True,0.08346283000003041,92,49,49,512,0.9908082885007716,AD/EI/Blk512,APD/EI/Rand,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,APD/EI/Seq,0,PREDICT,direct,True,0.05771729100001721,56,0,0,64512,,AD/EI/Blk512,APD/EI/Seq,B is lenient and its port is pred
+block-aware,AD/EI/Blk512,APD/EI/Seq,1,PREDICT,direct,True,0.056746025000052214,56,0,0,64512,,AD/EI/Blk512,APD/EI/Seq,B is lenient and its port is pred
+block-aware,AD/EI/Blk512,APD/EI/Seq,2,PREDICT,direct,True,0.0567363690000775,57,0,0,64512,,AD/EI/Blk512,APD/EI/Seq,B is lenient and its port is pred
+block-aware,AD/EI/Blk512,EI/AD/-,0,PREDICT,direct,True,0.05631858300000658,12,0,0,64512,,AD/EI/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-aware,AD/EI/Blk512,EI/AD/-,1,PREDICT,direct,True,0.05660409200004324,12,0,0,64512,,AD/EI/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-aware,AD/EI/Blk512,EI/AD/-,2,PREDICT,direct,True,0.05581857200002105,12,0,0,64512,,AD/EI/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-aware,AD/EI/Blk512,EI/APD/-,0,SPRAY,direct,True,0.0813184479999336,90,49,49,512,0.9908082885007716,AD/EI/Blk512,EI/APD/-,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,EI/APD/-,1,SPRAY,direct,True,0.10764426200000798,111,49,49,512,0.9908082885007716,AD/EI/Blk512,EI/APD/-,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,EI/APD/-,2,SPRAY,direct,True,0.0842203500000096,91,49,49,512,0.9908082885007716,AD/EI/Blk512,EI/APD/-,"A random in a 512-port block, opener=A"
+block-aware,AD/EI/Blk512,EI/EI/-,0,PREDICT,direct,True,0.05769035100001929,12,0,0,64512,,AD/EI/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-aware,AD/EI/Blk512,EI/EI/-,1,PREDICT,direct,True,0.057730992000074366,12,0,0,64512,,AD/EI/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-aware,AD/EI/Blk512,EI/EI/-,2,PREDICT,direct,True,0.056116942000016934,12,0,0,64512,,AD/EI/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-aware,APD/AD/Blk512,AD/AD/Fixed,0,PREDICT,direct,True,0.058266169999910744,56,0,0,64512,,APD/AD/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-aware,APD/AD/Blk512,AD/AD/Fixed,1,PREDICT,direct,True,0.05841417500005264,56,0,0,64512,,APD/AD/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-aware,APD/AD/Blk512,AD/AD/Fixed,2,PREDICT,direct,True,0.05866015100002642,56,0,0,64512,,APD/AD/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-aware,APD/AD/Blk512,AD/AD/Rand,0,SPRAY,direct,True,0.08178925199990772,92,49,49,512,0.9908082885007716,APD/AD/Blk512,AD/AD/Rand,"A random in a 512-port block, opener=A"
+block-aware,APD/AD/Blk512,AD/AD/Rand,1,SPRAY,direct,True,0.08230173499998727,92,49,49,512,0.9908082885007716,APD/AD/Blk512,AD/AD/Rand,"A random in a 512-port block, opener=A"
+block-aware,APD/AD/Blk512,AD/AD/Rand,2,SPRAY,direct,True,0.0839195359999394,91,49,49,512,0.9908082885007716,APD/AD/Blk512,AD/AD/Rand,"A random in a 512-port block, opener=A"
+block-aware,APD/AD/Blk512,AD/AD/Seq,0,PREDICT,direct,True,0.059455095999965124,56,0,0,64512,,APD/AD/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-aware,APD/AD/Blk512,AD/AD/Seq,1,PREDICT,direct,True,0.05844734200002222,56,0,0,64512,,APD/AD/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-aware,APD/AD/Blk512,AD/AD/Seq,2,PREDICT,direct,True,0.05816011399997478,56,0,0,64512,,APD/AD/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-aware,APD/AD/Blk512,AD/APD/Fixed,0,RELAY,relay,True,0.005385535000073105,6,0,0,64512,,APD/AD/Blk512,AD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/AD/Blk512,AD/APD/Fixed,1,RELAY,relay,True,0.0053621409999777825,6,0,0,64512,,APD/AD/Blk512,AD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/AD/Blk512,AD/APD/Fixed,2,RELAY,relay,True,0.005351748999942174,6,0,0,64512,,APD/AD/Blk512,AD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/AD/Blk512,AD/APD/Rand,0,RELAY,relay,True,0.005424661999995806,6,0,0,64512,,APD/AD/Blk512,AD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,APD/AD/Blk512,AD/APD/Rand,1,RELAY,relay,True,0.0053185269999858065,6,0,0,64512,,APD/AD/Blk512,AD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,APD/AD/Blk512,AD/APD/Rand,2,RELAY,relay,True,0.005646472999956131,6,0,0,64512,,APD/AD/Blk512,AD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,APD/AD/Blk512,AD/APD/Seq,0,RELAY,relay,True,0.005634163000081571,6,0,0,64512,,APD/AD/Blk512,AD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/AD/Blk512,AD/APD/Seq,1,RELAY,relay,True,0.006128697999997712,6,0,0,64512,,APD/AD/Blk512,AD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/AD/Blk512,AD/APD/Seq,2,RELAY,relay,True,0.005865318000019215,6,0,0,64512,,APD/AD/Blk512,AD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/AD/Blk512,AD/EI/Fixed,0,PREDICT,direct,True,0.058861339000031876,56,0,0,64512,,APD/AD/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-aware,APD/AD/Blk512,AD/EI/Fixed,1,PREDICT,direct,True,0.06007702900001277,56,0,0,64512,,APD/AD/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-aware,APD/AD/Blk512,AD/EI/Fixed,2,PREDICT,direct,True,0.05798101499999575,58,0,0,64512,,APD/AD/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-aware,APD/AD/Blk512,AD/EI/Rand,0,SPRAY,direct,True,0.08297514099990622,89,49,49,512,0.9908082885007716,APD/AD/Blk512,AD/EI/Rand,"A random in a 512-port block, opener=A"
+block-aware,APD/AD/Blk512,AD/EI/Rand,1,SPRAY,direct,True,0.08260737900002368,92,49,49,512,0.9908082885007716,APD/AD/Blk512,AD/EI/Rand,"A random in a 512-port block, opener=A"
+block-aware,APD/AD/Blk512,AD/EI/Rand,2,SPRAY,direct,True,0.0558916009999848,57,49,49,512,0.9908082885007716,APD/AD/Blk512,AD/EI/Rand,"A random in a 512-port block, opener=A"
+block-aware,APD/AD/Blk512,AD/EI/Seq,0,PREDICT,direct,True,0.06070860900001662,56,0,0,64512,,APD/AD/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-aware,APD/AD/Blk512,AD/EI/Seq,1,PREDICT,direct,True,0.057791909000002306,56,0,0,64512,,APD/AD/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-aware,APD/AD/Blk512,AD/EI/Seq,2,PREDICT,direct,True,0.058770167000034235,56,0,0,64512,,APD/AD/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-aware,APD/AD/Blk512,APD/AD/Fixed,0,PREDICT,direct,True,0.06282232500007012,87,0,0,64512,,APD/AD/Blk512,APD/AD/Fixed,B is lenient and its port is pred
+block-aware,APD/AD/Blk512,APD/AD/Fixed,1,PREDICT,direct,True,0.06358551900007114,88,0,0,64512,,APD/AD/Blk512,APD/AD/Fixed,B is lenient and its port is pred
+block-aware,APD/AD/Blk512,APD/AD/Fixed,2,PREDICT,direct,True,0.06187528700002076,87,0,0,64512,,APD/AD/Blk512,APD/AD/Fixed,B is lenient and its port is pred
+block-aware,APD/AD/Blk512,APD/AD/Rand,0,SPRAY,direct,True,0.08592281200003526,89,49,49,512,0.9908082885007716,APD/AD/Blk512,APD/AD/Rand,"A random in a 512-port block, opener=A"
+block-aware,APD/AD/Blk512,APD/AD/Rand,1,SPRAY,direct,True,0.08543655699997998,90,49,49,512,0.9908082885007716,APD/AD/Blk512,APD/AD/Rand,"A random in a 512-port block, opener=A"
+block-aware,APD/AD/Blk512,APD/AD/Rand,2,SPRAY,direct,True,0.08592217199998231,91,49,49,512,0.9908082885007716,APD/AD/Blk512,APD/AD/Rand,"A random in a 512-port block, opener=A"
+block-aware,APD/AD/Blk512,APD/AD/Seq,0,PREDICT,direct,True,0.0623101260000567,87,0,0,64512,,APD/AD/Blk512,APD/AD/Seq,B is lenient and its port is pred
+block-aware,APD/AD/Blk512,APD/AD/Seq,1,PREDICT,direct,True,0.06155727800000932,87,0,0,64512,,APD/AD/Blk512,APD/AD/Seq,B is lenient and its port is pred
+block-aware,APD/AD/Blk512,APD/AD/Seq,2,PREDICT,direct,True,0.06025904900002388,88,0,0,64512,,APD/AD/Blk512,APD/AD/Seq,B is lenient and its port is pred
+block-aware,APD/AD/Blk512,APD/APD/Fixed,0,RELAY,relay,True,0.0053292929999315675,6,0,0,64512,,APD/AD/Blk512,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/AD/Blk512,APD/APD/Fixed,1,RELAY,relay,True,0.005417342000100689,6,0,0,64512,,APD/AD/Blk512,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/AD/Blk512,APD/APD/Fixed,2,RELAY,relay,True,0.005335392999995747,6,0,0,64512,,APD/AD/Blk512,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/AD/Blk512,APD/APD/Rand,0,RELAY,relay,True,0.005704098000023805,6,0,0,64512,,APD/AD/Blk512,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,APD/AD/Blk512,APD/APD/Rand,1,RELAY,relay,True,0.005551626999931614,6,0,0,64512,,APD/AD/Blk512,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,APD/AD/Blk512,APD/APD/Rand,2,RELAY,relay,True,0.0053222139999888896,6,0,0,64512,,APD/AD/Blk512,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,APD/AD/Blk512,APD/APD/Seq,0,RELAY,relay,True,0.00546728400001939,6,0,0,64512,,APD/AD/Blk512,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/AD/Blk512,APD/APD/Seq,1,RELAY,relay,True,0.005566234999946573,6,0,0,64512,,APD/AD/Blk512,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/AD/Blk512,APD/APD/Seq,2,RELAY,relay,True,0.005656574999989061,6,0,0,64512,,APD/AD/Blk512,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/AD/Blk512,APD/EI/Fixed,0,PREDICT,direct,True,0.06166467599996395,87,0,0,64512,,APD/AD/Blk512,APD/EI/Fixed,B is lenient and its port is pred
+block-aware,APD/AD/Blk512,APD/EI/Fixed,1,PREDICT,direct,True,0.061131483999929515,87,0,0,64512,,APD/AD/Blk512,APD/EI/Fixed,B is lenient and its port is pred
+block-aware,APD/AD/Blk512,APD/EI/Fixed,2,PREDICT,direct,True,0.061985237000044435,87,0,0,64512,,APD/AD/Blk512,APD/EI/Fixed,B is lenient and its port is pred
+block-aware,APD/AD/Blk512,APD/EI/Rand,0,SPRAY,direct,True,0.08505887100000109,94,49,49,512,0.9908082885007716,APD/AD/Blk512,APD/EI/Rand,"A random in a 512-port block, opener=A"
+block-aware,APD/AD/Blk512,APD/EI/Rand,1,SPRAY,direct,True,0.05676273599999604,57,49,49,512,0.9908082885007716,APD/AD/Blk512,APD/EI/Rand,"A random in a 512-port block, opener=A"
+block-aware,APD/AD/Blk512,APD/EI/Rand,2,SPRAY,direct,True,0.0842281019999973,90,49,49,512,0.9908082885007716,APD/AD/Blk512,APD/EI/Rand,"A random in a 512-port block, opener=A"
+block-aware,APD/AD/Blk512,APD/EI/Seq,0,PREDICT,direct,True,0.061328593999974146,87,0,0,64512,,APD/AD/Blk512,APD/EI/Seq,B is lenient and its port is pred
+block-aware,APD/AD/Blk512,APD/EI/Seq,1,PREDICT,direct,True,0.0668577799999639,88,0,0,64512,,APD/AD/Blk512,APD/EI/Seq,B is lenient and its port is pred
+block-aware,APD/AD/Blk512,APD/EI/Seq,2,PREDICT,direct,True,0.06146009999997659,87,0,0,64512,,APD/AD/Blk512,APD/EI/Seq,B is lenient and its port is pred
+block-aware,APD/AD/Blk512,EI/AD/-,0,PREDICT,direct,True,0.05643511599998874,10,0,0,64512,,APD/AD/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-aware,APD/AD/Blk512,EI/AD/-,1,PREDICT,direct,True,0.05602222300001358,10,0,0,64512,,APD/AD/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-aware,APD/AD/Blk512,EI/AD/-,2,PREDICT,direct,True,0.05631810800002768,10,0,0,64512,,APD/AD/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-aware,APD/AD/Blk512,EI/APD/-,0,SPRAY,direct,True,0.08245538200003466,91,49,49,512,0.9908082885007716,APD/AD/Blk512,EI/APD/-,"A random in a 512-port block, opener=A"
+block-aware,APD/AD/Blk512,EI/APD/-,1,SPRAY,relay,True,2.524188411999944,153,49,49,512,0.9908082885007716,APD/AD/Blk512,EI/APD/-,"A random in a 512-port block, opener=A"
+block-aware,APD/AD/Blk512,EI/APD/-,2,SPRAY,direct,True,0.08271957499994187,91,49,49,512,0.9908082885007716,APD/AD/Blk512,EI/APD/-,"A random in a 512-port block, opener=A"
+block-aware,APD/AD/Blk512,EI/EI/-,0,PREDICT,direct,True,0.05671564200008561,10,0,0,64512,,APD/AD/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-aware,APD/AD/Blk512,EI/EI/-,1,PREDICT,direct,True,0.05586810299996614,10,0,0,64512,,APD/AD/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-aware,APD/AD/Blk512,EI/EI/-,2,PREDICT,direct,True,0.056747268000094664,10,0,0,64512,,APD/AD/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-aware,APD/APD/Blk512,AD/AD/Fixed,0,PREDICT,direct,True,0.06002036900008534,56,0,0,64512,,APD/APD/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-aware,APD/APD/Blk512,AD/AD/Fixed,1,PREDICT,direct,True,0.060444349999897895,56,0,0,64512,,APD/APD/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-aware,APD/APD/Blk512,AD/AD/Fixed,2,PREDICT,direct,True,0.058309415999929115,56,0,0,64512,,APD/APD/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-aware,APD/APD/Blk512,AD/AD/Rand,0,SPRAY,direct,True,0.38620543299998644,872,256,384,64512,0.7821197161768776,APD/APD/Blk512,AD/AD/Rand,"B random, opener=B"
+block-aware,APD/APD/Blk512,AD/AD/Rand,1,SPRAY,direct,True,0.29131585299978724,328,256,384,64512,0.7821197161768776,APD/APD/Blk512,AD/AD/Rand,"B random, opener=B"
+block-aware,APD/APD/Blk512,AD/AD/Rand,2,SPRAY,direct,True,0.5453990410001097,744,256,384,64512,0.7821197161768776,APD/APD/Blk512,AD/AD/Rand,"B random, opener=B"
+block-aware,APD/APD/Blk512,AD/AD/Seq,0,PREDICT,direct,True,0.058061315000031755,56,0,0,64512,,APD/APD/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-aware,APD/APD/Blk512,AD/AD/Seq,1,PREDICT,direct,True,0.06108440000002702,58,0,0,64512,,APD/APD/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-aware,APD/APD/Blk512,AD/AD/Seq,2,PREDICT,direct,True,0.05911818799995672,56,0,0,64512,,APD/APD/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-aware,APD/APD/Blk512,AD/APD/Fixed,0,RELAY,relay,True,0.0053438659999756055,6,0,0,64512,,APD/APD/Blk512,AD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/APD/Blk512,AD/APD/Fixed,1,RELAY,relay,True,0.005440376000024116,6,0,0,64512,,APD/APD/Blk512,AD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/APD/Blk512,AD/APD/Fixed,2,RELAY,relay,True,0.005401067000093462,6,0,0,64512,,APD/APD/Blk512,AD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/APD/Blk512,AD/APD/Rand,0,RELAY,relay,True,0.005670613999882335,6,0,0,64512,,APD/APD/Blk512,AD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,APD/APD/Blk512,AD/APD/Rand,1,RELAY,relay,True,0.005451173999972525,6,0,0,64512,,APD/APD/Blk512,AD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,APD/APD/Blk512,AD/APD/Rand,2,RELAY,relay,True,0.005413029999999708,6,0,0,64512,,APD/APD/Blk512,AD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,APD/APD/Blk512,AD/APD/Seq,0,RELAY,relay,True,0.005476703999875099,6,0,0,64512,,APD/APD/Blk512,AD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/APD/Blk512,AD/APD/Seq,1,RELAY,relay,True,0.005403709000120216,6,0,0,64512,,APD/APD/Blk512,AD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/APD/Blk512,AD/APD/Seq,2,RELAY,relay,True,0.005422875000022032,6,0,0,64512,,APD/APD/Blk512,AD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/APD/Blk512,AD/EI/Fixed,0,PREDICT,direct,True,0.05895305799981543,56,0,0,64512,,APD/APD/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-aware,APD/APD/Blk512,AD/EI/Fixed,1,PREDICT,direct,True,0.06033856399994875,56,0,0,64512,,APD/APD/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-aware,APD/APD/Blk512,AD/EI/Fixed,2,PREDICT,direct,True,0.06428994199995941,56,0,0,64512,,APD/APD/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-aware,APD/APD/Blk512,AD/EI/Rand,0,SPRAY,direct,True,0.2011436280001817,424,256,384,64512,0.7821197161768776,APD/APD/Blk512,AD/EI/Rand,"B random, opener=B"
+block-aware,APD/APD/Blk512,AD/EI/Rand,1,SPRAY,direct,True,0.34424634600009085,584,256,384,64512,0.7821197161768776,APD/APD/Blk512,AD/EI/Rand,"B random, opener=B"
+block-aware,APD/APD/Blk512,AD/EI/Rand,2,SPRAY,direct,True,0.3466974039999968,584,256,384,64512,0.7821197161768776,APD/APD/Blk512,AD/EI/Rand,"B random, opener=B"
+block-aware,APD/APD/Blk512,AD/EI/Seq,0,PREDICT,direct,True,0.05861670099989169,56,0,0,64512,,APD/APD/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-aware,APD/APD/Blk512,AD/EI/Seq,1,PREDICT,direct,True,0.06005363300005229,56,0,0,64512,,APD/APD/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-aware,APD/APD/Blk512,AD/EI/Seq,2,PREDICT,direct,True,0.059002376999842454,56,0,0,64512,,APD/APD/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-aware,APD/APD/Blk512,APD/AD/Fixed,0,RELAY,relay,True,0.0053876679999120825,6,0,0,64512,,APD/APD/Blk512,APD/AD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/APD/Blk512,APD/AD/Fixed,1,RELAY,relay,True,0.005453568999882918,6,0,0,64512,,APD/APD/Blk512,APD/AD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/APD/Blk512,APD/AD/Fixed,2,RELAY,relay,True,0.005354495999881692,6,0,0,64512,,APD/APD/Blk512,APD/AD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/APD/Blk512,APD/AD/Rand,0,RELAY,relay,True,0.005719460999898729,6,0,0,64512,,APD/APD/Blk512,APD/AD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,APD/APD/Blk512,APD/AD/Rand,1,RELAY,relay,True,0.005376036999905409,6,0,0,64512,,APD/APD/Blk512,APD/AD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,APD/APD/Blk512,APD/AD/Rand,2,RELAY,relay,True,0.005864343999974153,6,0,0,64512,,APD/APD/Blk512,APD/AD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,APD/APD/Blk512,APD/AD/Seq,0,RELAY,relay,True,0.005328547999852162,6,0,0,64512,,APD/APD/Blk512,APD/AD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/APD/Blk512,APD/AD/Seq,1,RELAY,relay,True,0.005333477000021958,6,0,0,64512,,APD/APD/Blk512,APD/AD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/APD/Blk512,APD/AD/Seq,2,RELAY,relay,True,0.005666823000183285,6,0,0,64512,,APD/APD/Blk512,APD/AD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/APD/Blk512,APD/APD/Fixed,0,RELAY,relay,True,0.005644635000180642,6,0,0,64512,,APD/APD/Blk512,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/APD/Blk512,APD/APD/Fixed,1,RELAY,relay,True,0.0055725239999446785,6,0,0,64512,,APD/APD/Blk512,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/APD/Blk512,APD/APD/Fixed,2,RELAY,relay,True,0.005365567999888299,6,0,0,64512,,APD/APD/Blk512,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/APD/Blk512,APD/APD/Rand,0,RELAY,relay,True,0.0053232410000418895,6,0,0,64512,,APD/APD/Blk512,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,APD/APD/Blk512,APD/APD/Rand,1,RELAY,relay,True,0.005758420000120168,6,0,0,64512,,APD/APD/Blk512,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,APD/APD/Blk512,APD/APD/Rand,2,RELAY,relay,True,0.005607627000017601,6,0,0,64512,,APD/APD/Blk512,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,APD/APD/Blk512,APD/APD/Seq,0,RELAY,relay,True,0.005476946000044336,6,0,0,64512,,APD/APD/Blk512,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/APD/Blk512,APD/APD/Seq,1,RELAY,relay,True,0.00542869600008089,6,0,0,64512,,APD/APD/Blk512,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/APD/Blk512,APD/APD/Seq,2,RELAY,relay,True,0.005502824000132023,6,0,0,64512,,APD/APD/Blk512,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/APD/Blk512,APD/EI/Fixed,0,RELAY,relay,True,0.005466162999937296,6,0,0,64512,,APD/APD/Blk512,APD/EI/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/APD/Blk512,APD/EI/Fixed,1,RELAY,relay,True,0.005363260999956765,6,0,0,64512,,APD/APD/Blk512,APD/EI/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/APD/Blk512,APD/EI/Fixed,2,RELAY,relay,True,0.005830995999986044,6,0,0,64512,,APD/APD/Blk512,APD/EI/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/APD/Blk512,APD/EI/Rand,0,RELAY,relay,True,0.005450504999998884,6,0,0,64512,,APD/APD/Blk512,APD/EI/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,APD/APD/Blk512,APD/EI/Rand,1,RELAY,relay,True,0.005478239000012763,6,0,0,64512,,APD/APD/Blk512,APD/EI/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,APD/APD/Blk512,APD/EI/Rand,2,RELAY,relay,True,0.005608295999991242,6,0,0,64512,,APD/APD/Blk512,APD/EI/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,APD/APD/Blk512,APD/EI/Seq,0,RELAY,relay,True,0.005914000999837299,6,0,0,64512,,APD/APD/Blk512,APD/EI/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/APD/Blk512,APD/EI/Seq,1,RELAY,relay,True,0.005353869000146005,6,0,0,64512,,APD/APD/Blk512,APD/EI/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/APD/Blk512,APD/EI/Seq,2,RELAY,relay,True,0.005711461000146301,6,0,0,64512,,APD/APD/Blk512,APD/EI/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/APD/Blk512,EI/AD/-,0,PREDICT,direct,True,0.05604546100016705,10,0,0,64512,,APD/APD/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-aware,APD/APD/Blk512,EI/AD/-,1,PREDICT,direct,True,0.05595083799994427,10,0,0,64512,,APD/APD/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-aware,APD/APD/Blk512,EI/AD/-,2,PREDICT,direct,True,0.05614647300012621,10,0,0,64512,,APD/APD/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-aware,APD/APD/Blk512,EI/APD/-,0,SPRAY,direct,True,0.08315407299983235,90,49,49,512,0.9908082885007716,APD/APD/Blk512,EI/APD/-,"A random in a 512-port block, opener=A"
+block-aware,APD/APD/Blk512,EI/APD/-,1,SPRAY,direct,True,0.08240876699983346,92,49,49,512,0.9908082885007716,APD/APD/Blk512,EI/APD/-,"A random in a 512-port block, opener=A"
+block-aware,APD/APD/Blk512,EI/APD/-,2,SPRAY,direct,True,0.0822821809999823,91,49,49,512,0.9908082885007716,APD/APD/Blk512,EI/APD/-,"A random in a 512-port block, opener=A"
+block-aware,APD/APD/Blk512,EI/EI/-,0,PREDICT,direct,True,0.0564386309999918,10,0,0,64512,,APD/APD/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-aware,APD/APD/Blk512,EI/EI/-,1,PREDICT,direct,True,0.05623610799989365,10,0,0,64512,,APD/APD/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-aware,APD/APD/Blk512,EI/EI/-,2,PREDICT,direct,True,0.05594749099986984,10,0,0,64512,,APD/APD/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-aware,APD/EI/Blk512,AD/AD/Fixed,0,PREDICT,direct,True,0.05855138699996587,58,0,0,64512,,APD/EI/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-aware,APD/EI/Blk512,AD/AD/Fixed,1,PREDICT,direct,True,0.059698156999957064,58,0,0,64512,,APD/EI/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-aware,APD/EI/Blk512,AD/AD/Fixed,2,PREDICT,direct,True,0.05845093300001736,58,0,0,64512,,APD/EI/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-aware,APD/EI/Blk512,AD/AD/Rand,0,SPRAY,direct,True,0.08176710399993681,92,49,49,512,0.9908082885007716,APD/EI/Blk512,AD/AD/Rand,"A random in a 512-port block, opener=A"
+block-aware,APD/EI/Blk512,AD/AD/Rand,1,SPRAY,direct,True,0.0826248209999676,95,49,49,512,0.9908082885007716,APD/EI/Blk512,AD/AD/Rand,"A random in a 512-port block, opener=A"
+block-aware,APD/EI/Blk512,AD/AD/Rand,2,SPRAY,direct,True,0.08250117099998988,91,49,49,512,0.9908082885007716,APD/EI/Blk512,AD/AD/Rand,"A random in a 512-port block, opener=A"
+block-aware,APD/EI/Blk512,AD/AD/Seq,0,PREDICT,direct,True,0.05932518600002368,58,0,0,64512,,APD/EI/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-aware,APD/EI/Blk512,AD/AD/Seq,1,PREDICT,direct,True,0.05831090999993194,56,0,0,64512,,APD/EI/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-aware,APD/EI/Blk512,AD/AD/Seq,2,PREDICT,direct,True,0.0628992480000079,58,0,0,64512,,APD/EI/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-aware,APD/EI/Blk512,AD/APD/Fixed,0,RELAY,relay,True,0.005305313999997452,6,0,0,64512,,APD/EI/Blk512,AD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/EI/Blk512,AD/APD/Fixed,1,RELAY,relay,True,0.0053651110000600966,6,0,0,64512,,APD/EI/Blk512,AD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/EI/Blk512,AD/APD/Fixed,2,RELAY,relay,True,0.005307187999960661,6,0,0,64512,,APD/EI/Blk512,AD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/EI/Blk512,AD/APD/Rand,0,RELAY,relay,True,0.005450678999977754,6,0,0,64512,,APD/EI/Blk512,AD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,APD/EI/Blk512,AD/APD/Rand,1,RELAY,relay,True,0.0053536670000085,6,0,0,64512,,APD/EI/Blk512,AD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,APD/EI/Blk512,AD/APD/Rand,2,RELAY,relay,True,0.005249238000033074,6,0,0,64512,,APD/EI/Blk512,AD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,APD/EI/Blk512,AD/APD/Seq,0,RELAY,relay,True,0.005373464000058448,6,0,0,64512,,APD/EI/Blk512,AD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/EI/Blk512,AD/APD/Seq,1,RELAY,relay,True,0.005318482000006952,6,0,0,64512,,APD/EI/Blk512,AD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/EI/Blk512,AD/APD/Seq,2,RELAY,relay,True,0.005337361999977475,6,0,0,64512,,APD/EI/Blk512,AD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/EI/Blk512,AD/EI/Fixed,0,PREDICT,direct,True,0.057469218000051114,56,0,0,64512,,APD/EI/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-aware,APD/EI/Blk512,AD/EI/Fixed,1,PREDICT,direct,True,0.059134875000040665,58,0,0,64512,,APD/EI/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-aware,APD/EI/Blk512,AD/EI/Fixed,2,PREDICT,direct,True,0.062229142999967735,58,0,0,64512,,APD/EI/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-aware,APD/EI/Blk512,AD/EI/Rand,0,SPRAY,direct,True,0.08159241999999267,89,49,49,512,0.9908082885007716,APD/EI/Blk512,AD/EI/Rand,"A random in a 512-port block, opener=A"
+block-aware,APD/EI/Blk512,AD/EI/Rand,1,SPRAY,direct,True,0.08182405000002291,96,49,49,512,0.9908082885007716,APD/EI/Blk512,AD/EI/Rand,"A random in a 512-port block, opener=A"
+block-aware,APD/EI/Blk512,AD/EI/Rand,2,SPRAY,direct,True,0.08235737000006793,94,49,49,512,0.9908082885007716,APD/EI/Blk512,AD/EI/Rand,"A random in a 512-port block, opener=A"
+block-aware,APD/EI/Blk512,AD/EI/Seq,0,PREDICT,direct,True,0.057148987000005036,58,0,0,64512,,APD/EI/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-aware,APD/EI/Blk512,AD/EI/Seq,1,PREDICT,direct,True,0.05739211599995997,59,0,0,64512,,APD/EI/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-aware,APD/EI/Blk512,AD/EI/Seq,2,PREDICT,direct,True,0.05780591299992466,58,0,0,64512,,APD/EI/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-aware,APD/EI/Blk512,APD/AD/Fixed,0,PREDICT,direct,True,0.061184904000015194,88,0,0,64512,,APD/EI/Blk512,APD/AD/Fixed,B is lenient and its port is pred
+block-aware,APD/EI/Blk512,APD/AD/Fixed,1,PREDICT,direct,True,0.06280818200002614,87,0,0,64512,,APD/EI/Blk512,APD/AD/Fixed,B is lenient and its port is pred
+block-aware,APD/EI/Blk512,APD/AD/Fixed,2,PREDICT,direct,True,0.0625328260000515,88,0,0,64512,,APD/EI/Blk512,APD/AD/Fixed,B is lenient and its port is pred
+block-aware,APD/EI/Blk512,APD/AD/Rand,0,SPRAY,direct,True,0.08869347500001368,95,49,49,512,0.9908082885007716,APD/EI/Blk512,APD/AD/Rand,"A random in a 512-port block, opener=A"
+block-aware,APD/EI/Blk512,APD/AD/Rand,1,SPRAY,direct,True,0.0847766159999992,92,49,49,512,0.9908082885007716,APD/EI/Blk512,APD/AD/Rand,"A random in a 512-port block, opener=A"
+block-aware,APD/EI/Blk512,APD/AD/Rand,2,SPRAY,direct,True,0.08480245500004457,95,49,49,512,0.9908082885007716,APD/EI/Blk512,APD/AD/Rand,"A random in a 512-port block, opener=A"
+block-aware,APD/EI/Blk512,APD/AD/Seq,0,PREDICT,direct,True,0.06242290699992736,90,0,0,64512,,APD/EI/Blk512,APD/AD/Seq,B is lenient and its port is pred
+block-aware,APD/EI/Blk512,APD/AD/Seq,1,PREDICT,direct,True,0.06284137500006182,88,0,0,64512,,APD/EI/Blk512,APD/AD/Seq,B is lenient and its port is pred
+block-aware,APD/EI/Blk512,APD/AD/Seq,2,PREDICT,direct,True,0.06514426499995807,90,0,0,64512,,APD/EI/Blk512,APD/AD/Seq,B is lenient and its port is pred
+block-aware,APD/EI/Blk512,APD/APD/Fixed,0,RELAY,relay,True,0.00537566599996353,6,0,0,64512,,APD/EI/Blk512,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/EI/Blk512,APD/APD/Fixed,1,RELAY,relay,True,0.005393055000013192,6,0,0,64512,,APD/EI/Blk512,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/EI/Blk512,APD/APD/Fixed,2,RELAY,relay,True,0.005408681000062643,6,0,0,64512,,APD/EI/Blk512,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/EI/Blk512,APD/APD/Rand,0,RELAY,relay,True,0.005507047000037346,6,0,0,64512,,APD/EI/Blk512,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,APD/EI/Blk512,APD/APD/Rand,1,RELAY,relay,True,0.005461319999994885,6,0,0,64512,,APD/EI/Blk512,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,APD/EI/Blk512,APD/APD/Rand,2,RELAY,relay,True,0.005527031999918108,6,0,0,64512,,APD/EI/Blk512,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-aware,APD/EI/Blk512,APD/APD/Seq,0,RELAY,relay,True,0.005450705000043854,6,0,0,64512,,APD/EI/Blk512,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/EI/Blk512,APD/APD/Seq,1,RELAY,relay,True,0.005375727000000552,6,0,0,64512,,APD/EI/Blk512,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/EI/Blk512,APD/APD/Seq,2,RELAY,relay,True,0.005815868999889062,6,0,0,64512,,APD/EI/Blk512,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-aware,APD/EI/Blk512,APD/EI/Fixed,0,PREDICT,direct,True,0.06014368699993611,90,0,0,64512,,APD/EI/Blk512,APD/EI/Fixed,B is lenient and its port is pred
+block-aware,APD/EI/Blk512,APD/EI/Fixed,1,PREDICT,direct,True,0.06408052400001907,88,0,0,64512,,APD/EI/Blk512,APD/EI/Fixed,B is lenient and its port is pred
+block-aware,APD/EI/Blk512,APD/EI/Fixed,2,PREDICT,direct,True,0.06248946799996702,87,0,0,64512,,APD/EI/Blk512,APD/EI/Fixed,B is lenient and its port is pred
+block-aware,APD/EI/Blk512,APD/EI/Rand,0,SPRAY,direct,True,0.08419757799993022,91,49,49,512,0.9908082885007716,APD/EI/Blk512,APD/EI/Rand,"A random in a 512-port block, opener=A"
+block-aware,APD/EI/Blk512,APD/EI/Rand,1,SPRAY,direct,True,0.08660693800004537,97,49,49,512,0.9908082885007716,APD/EI/Blk512,APD/EI/Rand,"A random in a 512-port block, opener=A"
+block-aware,APD/EI/Blk512,APD/EI/Rand,2,SPRAY,direct,True,0.0871286469999859,93,49,49,512,0.9908082885007716,APD/EI/Blk512,APD/EI/Rand,"A random in a 512-port block, opener=A"
+block-aware,APD/EI/Blk512,APD/EI/Seq,0,PREDICT,direct,True,0.06250624799997695,88,0,0,64512,,APD/EI/Blk512,APD/EI/Seq,B is lenient and its port is pred
+block-aware,APD/EI/Blk512,APD/EI/Seq,1,PREDICT,direct,True,0.06089452799994888,87,0,0,64512,,APD/EI/Blk512,APD/EI/Seq,B is lenient and its port is pred
+block-aware,APD/EI/Blk512,APD/EI/Seq,2,PREDICT,direct,True,0.061083559000053356,87,0,0,64512,,APD/EI/Blk512,APD/EI/Seq,B is lenient and its port is pred
+block-aware,APD/EI/Blk512,EI/AD/-,0,PREDICT,direct,True,0.056236734999970395,12,0,0,64512,,APD/EI/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-aware,APD/EI/Blk512,EI/AD/-,1,PREDICT,direct,True,0.05603141100004905,12,0,0,64512,,APD/EI/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-aware,APD/EI/Blk512,EI/AD/-,2,PREDICT,direct,True,0.056142134999959126,12,0,0,64512,,APD/EI/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-aware,APD/EI/Blk512,EI/APD/-,0,SPRAY,direct,True,0.08236485199995514,93,49,49,512,0.9908082885007716,APD/EI/Blk512,EI/APD/-,"A random in a 512-port block, opener=A"
+block-aware,APD/EI/Blk512,EI/APD/-,1,SPRAY,direct,True,0.08177561200000127,92,49,49,512,0.9908082885007716,APD/EI/Blk512,EI/APD/-,"A random in a 512-port block, opener=A"
+block-aware,APD/EI/Blk512,EI/APD/-,2,SPRAY,direct,True,0.08143250299997362,93,49,49,512,0.9908082885007716,APD/EI/Blk512,EI/APD/-,"A random in a 512-port block, opener=A"
+block-aware,APD/EI/Blk512,EI/EI/-,0,PREDICT,direct,True,0.056746816999975636,12,0,0,64512,,APD/EI/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-aware,APD/EI/Blk512,EI/EI/-,1,PREDICT,direct,True,0.056351117000076556,12,0,0,64512,,APD/EI/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-aware,APD/EI/Blk512,EI/EI/-,2,PREDICT,direct,True,0.05764247600006911,12,0,0,64512,,APD/EI/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-unaware,AD/AD/Blk512,AD/AD/Fixed,0,PREDICT,direct,True,0.05659402499998123,56,0,0,64512,,AD/AD/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-unaware,AD/AD/Blk512,AD/AD/Fixed,1,PREDICT,direct,True,0.0562197979999155,56,0,0,64512,,AD/AD/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-unaware,AD/AD/Blk512,AD/AD/Fixed,2,PREDICT,direct,True,0.056518751999988126,56,0,0,64512,,AD/AD/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-unaware,AD/AD/Blk512,AD/AD/Rand,0,SPRAY,direct,True,0.18867345600006047,424,256,1088,64512,0.9866662960471693,AD/AD/Blk512,AD/AD/Rand,"A random, opener=A"
+block-unaware,AD/AD/Blk512,AD/AD/Rand,1,SPRAY,direct,True,0.2401976560000776,488,256,1088,64512,0.9866662960471693,AD/AD/Blk512,AD/AD/Rand,"A random, opener=A"
+block-unaware,AD/AD/Blk512,AD/AD/Rand,2,SPRAY,direct,True,0.16081086300005154,392,256,1088,64512,0.9866662960471693,AD/AD/Blk512,AD/AD/Rand,"A random, opener=A"
+block-unaware,AD/AD/Blk512,AD/AD/Seq,0,PREDICT,direct,True,0.056835889000012685,56,0,0,64512,,AD/AD/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-unaware,AD/AD/Blk512,AD/AD/Seq,1,PREDICT,direct,True,0.057142198000065036,56,0,0,64512,,AD/AD/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-unaware,AD/AD/Blk512,AD/AD/Seq,2,PREDICT,direct,True,0.05642672600004062,56,0,0,64512,,AD/AD/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-unaware,AD/AD/Blk512,AD/APD/Fixed,0,SPRAY,direct,True,0.26464080000005197,520,256,1088,64512,0.9866662960471693,AD/AD/Blk512,AD/APD/Fixed,"A random, opener=A"
+block-unaware,AD/AD/Blk512,AD/APD/Fixed,1,SPRAY,direct,True,0.16179239600000983,392,256,1088,64512,0.9866662960471693,AD/AD/Blk512,AD/APD/Fixed,"A random, opener=A"
+block-unaware,AD/AD/Blk512,AD/APD/Fixed,2,SPRAY,direct,True,0.2907567460000564,553,256,1088,64512,0.9866662960471693,AD/AD/Blk512,AD/APD/Fixed,"A random, opener=A"
+block-unaware,AD/AD/Blk512,AD/APD/Rand,0,SPRAY,direct,True,0.341477568000073,616,256,1088,64512,0.9866662960471693,AD/AD/Blk512,AD/APD/Rand,"A random, opener=A"
+block-unaware,AD/AD/Blk512,AD/APD/Rand,1,SPRAY,direct,True,0.7043208200000208,1321,256,1088,64512,0.9866662960471693,AD/AD/Blk512,AD/APD/Rand,"A random, opener=A"
+block-unaware,AD/AD/Blk512,AD/APD/Rand,2,SPRAY,direct,True,0.1626379919999863,392,256,1088,64512,0.9866662960471693,AD/AD/Blk512,AD/APD/Rand,"A random, opener=A"
+block-unaware,AD/AD/Blk512,AD/APD/Seq,0,SPRAY,direct,True,0.21190515800003595,456,256,1088,64512,0.9866662960471693,AD/AD/Blk512,AD/APD/Seq,"A random, opener=A"
+block-unaware,AD/AD/Blk512,AD/APD/Seq,1,SPRAY,direct,True,0.08491102599998612,296,256,1088,64512,0.9866662960471693,AD/AD/Blk512,AD/APD/Seq,"A random, opener=A"
+block-unaware,AD/AD/Blk512,AD/APD/Seq,2,SPRAY,direct,True,0.2906939599999987,552,256,1088,64512,0.9866662960471693,AD/AD/Blk512,AD/APD/Seq,"A random, opener=A"
+block-unaware,AD/AD/Blk512,AD/EI/Fixed,0,PREDICT,direct,True,0.05721659300002102,56,0,0,64512,,AD/AD/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-unaware,AD/AD/Blk512,AD/EI/Fixed,1,PREDICT,direct,True,0.056226149999929476,56,0,0,64512,,AD/AD/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-unaware,AD/AD/Blk512,AD/EI/Fixed,2,PREDICT,direct,True,0.057094121999966774,56,0,0,64512,,AD/AD/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-unaware,AD/AD/Blk512,AD/EI/Rand,0,SPRAY,direct,True,0.0572569600000179,264,256,1088,64512,0.9866662960471693,AD/AD/Blk512,AD/EI/Rand,"A random, opener=A"
+block-unaware,AD/AD/Blk512,AD/EI/Rand,1,SPRAY,direct,True,0.18652000099996258,424,256,1088,64512,0.9866662960471693,AD/AD/Blk512,AD/EI/Rand,"A random, opener=A"
+block-unaware,AD/AD/Blk512,AD/EI/Rand,2,SPRAY,direct,True,0.3414405229999602,617,256,1088,64512,0.9866662960471693,AD/AD/Blk512,AD/EI/Rand,"A random, opener=A"
+block-unaware,AD/AD/Blk512,AD/EI/Seq,0,PREDICT,direct,True,0.056722421000017675,56,0,0,64512,,AD/AD/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-unaware,AD/AD/Blk512,AD/EI/Seq,1,PREDICT,direct,True,0.0567752089999658,56,0,0,64512,,AD/AD/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-unaware,AD/AD/Blk512,AD/EI/Seq,2,PREDICT,direct,True,0.058027306999974826,56,0,0,64512,,AD/AD/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-unaware,AD/AD/Blk512,APD/AD/Fixed,0,PREDICT,direct,True,0.18230493299995487,56,0,0,64512,,AD/AD/Blk512,APD/AD/Fixed,B is lenient and its port is pred
+block-unaware,AD/AD/Blk512,APD/AD/Fixed,1,PREDICT,direct,True,0.05736091199992188,56,0,0,64512,,AD/AD/Blk512,APD/AD/Fixed,B is lenient and its port is pred
+block-unaware,AD/AD/Blk512,APD/AD/Fixed,2,PREDICT,direct,True,0.058981362000054105,56,0,0,64512,,AD/AD/Blk512,APD/AD/Fixed,B is lenient and its port is pred
+block-unaware,AD/AD/Blk512,APD/AD/Rand,0,SPRAY,direct,True,0.3603264959999706,842,256,1088,64512,0.9866662960471693,AD/AD/Blk512,APD/AD/Rand,"A random, opener=A"
+block-unaware,AD/AD/Blk512,APD/AD/Rand,1,SPRAY,direct,True,0.5629649039999549,1064,256,1088,64512,0.9866662960471693,AD/AD/Blk512,APD/AD/Rand,"A random, opener=A"
+block-unaware,AD/AD/Blk512,APD/AD/Rand,2,SPRAY,direct,True,0.18090328099992803,392,256,1088,64512,0.9866662960471693,AD/AD/Blk512,APD/AD/Rand,"A random, opener=A"
+block-unaware,AD/AD/Blk512,APD/AD/Seq,0,PREDICT,direct,True,0.05771985499995935,56,0,0,64512,,AD/AD/Blk512,APD/AD/Seq,B is lenient and its port is pred
+block-unaware,AD/AD/Blk512,APD/AD/Seq,1,PREDICT,direct,True,0.05700750699998025,56,0,0,64512,,AD/AD/Blk512,APD/AD/Seq,B is lenient and its port is pred
+block-unaware,AD/AD/Blk512,APD/AD/Seq,2,PREDICT,direct,True,0.057812724999962484,56,0,0,64512,,AD/AD/Blk512,APD/AD/Seq,B is lenient and its port is pred
+block-unaware,AD/AD/Blk512,APD/APD/Fixed,0,SPRAY,direct,True,0.1137172900000678,328,256,1088,64512,0.9866662960471693,AD/AD/Blk512,APD/APD/Fixed,"A random, opener=A"
+block-unaware,AD/AD/Blk512,APD/APD/Fixed,1,SPRAY,direct,True,0.19654139399995074,424,256,1088,64512,0.9866662960471693,AD/AD/Blk512,APD/APD/Fixed,"A random, opener=A"
+block-unaware,AD/AD/Blk512,APD/APD/Fixed,2,SPRAY,direct,True,0.08353380500000185,296,256,1088,64512,0.9866662960471693,AD/AD/Blk512,APD/APD/Fixed,"A random, opener=A"
+block-unaware,AD/AD/Blk512,APD/APD/Rand,0,SPRAY,direct,True,0.25606023300008474,488,256,1088,64512,0.9866662960471693,AD/AD/Blk512,APD/APD/Rand,"A random, opener=A"
+block-unaware,AD/AD/Blk512,APD/APD/Rand,1,SPRAY,direct,True,0.1937987600000497,424,256,1088,64512,0.9866662960471693,AD/AD/Blk512,APD/APD/Rand,"A random, opener=A"
+block-unaware,AD/AD/Blk512,APD/APD/Rand,2,SPRAY,direct,True,0.6644393899999841,1224,256,1088,64512,0.9866662960471693,AD/AD/Blk512,APD/APD/Rand,"A random, opener=A"
+block-unaware,AD/AD/Blk512,APD/APD/Seq,0,SPRAY,direct,True,0.11214730299991515,328,256,1088,64512,0.9866662960471693,AD/AD/Blk512,APD/APD/Seq,"A random, opener=A"
+block-unaware,AD/AD/Blk512,APD/APD/Seq,1,SPRAY,direct,True,0.17042165200007275,392,256,1088,64512,0.9866662960471693,AD/AD/Blk512,APD/APD/Seq,"A random, opener=A"
+block-unaware,AD/AD/Blk512,APD/APD/Seq,2,SPRAY,direct,True,0.39761658899999475,904,256,1088,64512,0.9866662960471693,AD/AD/Blk512,APD/APD/Seq,"A random, opener=A"
+block-unaware,AD/AD/Blk512,APD/EI/Fixed,0,PREDICT,direct,True,0.05747265799993784,56,0,0,64512,,AD/AD/Blk512,APD/EI/Fixed,B is lenient and its port is pred
+block-unaware,AD/AD/Blk512,APD/EI/Fixed,1,PREDICT,direct,True,0.057592296000052556,56,0,0,64512,,AD/AD/Blk512,APD/EI/Fixed,B is lenient and its port is pred
+block-unaware,AD/AD/Blk512,APD/EI/Fixed,2,PREDICT,direct,True,0.05709841099996993,56,0,0,64512,,AD/AD/Blk512,APD/EI/Fixed,B is lenient and its port is pred
+block-unaware,AD/AD/Blk512,APD/EI/Rand,0,SPRAY,direct,True,0.11280720599995675,328,256,1088,64512,0.9866662960471693,AD/AD/Blk512,APD/EI/Rand,"A random, opener=A"
+block-unaware,AD/AD/Blk512,APD/EI/Rand,1,SPRAY,direct,True,0.17013407299998562,393,256,1088,64512,0.9866662960471693,AD/AD/Blk512,APD/EI/Rand,"A random, opener=A"
+block-unaware,AD/AD/Blk512,APD/EI/Rand,2,SPRAY,direct,True,0.16873764399997526,392,256,1088,64512,0.9866662960471693,AD/AD/Blk512,APD/EI/Rand,"A random, opener=A"
+block-unaware,AD/AD/Blk512,APD/EI/Seq,0,PREDICT,direct,True,0.058316805000004024,56,0,0,64512,,AD/AD/Blk512,APD/EI/Seq,B is lenient and its port is pred
+block-unaware,AD/AD/Blk512,APD/EI/Seq,1,PREDICT,direct,True,0.05822940200005178,56,0,0,64512,,AD/AD/Blk512,APD/EI/Seq,B is lenient and its port is pred
+block-unaware,AD/AD/Blk512,APD/EI/Seq,2,PREDICT,direct,True,0.058451202000014746,56,0,0,64512,,AD/AD/Blk512,APD/EI/Seq,B is lenient and its port is pred
+block-unaware,AD/AD/Blk512,EI/AD/-,0,PREDICT,direct,True,0.05721167100000457,10,0,0,64512,,AD/AD/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-unaware,AD/AD/Blk512,EI/AD/-,1,PREDICT,direct,True,0.05727826199995434,10,0,0,64512,,AD/AD/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-unaware,AD/AD/Blk512,EI/AD/-,2,PREDICT,direct,True,0.05612270700009958,10,0,0,64512,,AD/AD/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-unaware,AD/AD/Blk512,EI/APD/-,0,SPRAY,direct,True,0.5289370809999809,1096,256,1088,64512,0.9866662960471693,AD/AD/Blk512,EI/APD/-,"A random, opener=A"
+block-unaware,AD/AD/Blk512,EI/APD/-,1,SPRAY,direct,True,0.08314029699999992,296,256,1088,64512,0.9866662960471693,AD/AD/Blk512,EI/APD/-,"A random, opener=A"
+block-unaware,AD/AD/Blk512,EI/APD/-,2,SPRAY,direct,True,0.13506131600001936,360,256,1088,64512,0.9866662960471693,AD/AD/Blk512,EI/APD/-,"A random, opener=A"
+block-unaware,AD/AD/Blk512,EI/EI/-,0,PREDICT,direct,True,0.05621115099995677,10,0,0,64512,,AD/AD/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-unaware,AD/AD/Blk512,EI/EI/-,1,PREDICT,direct,True,0.05589724399999341,10,0,0,64512,,AD/AD/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-unaware,AD/AD/Blk512,EI/EI/-,2,PREDICT,direct,True,0.056298546999983046,10,0,0,64512,,AD/AD/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-unaware,AD/APD/Blk512,AD/AD/Fixed,0,PREDICT,direct,True,0.05702509899992947,56,0,0,64512,,AD/APD/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-unaware,AD/APD/Blk512,AD/AD/Fixed,1,PREDICT,direct,True,0.05706509900005585,56,0,0,64512,,AD/APD/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-unaware,AD/APD/Blk512,AD/AD/Fixed,2,PREDICT,direct,True,0.056391383999994105,56,0,0,64512,,AD/APD/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-unaware,AD/APD/Blk512,AD/AD/Rand,0,SPRAY,direct,True,0.23843835800005309,489,256,1088,64512,0.9866662960471693,AD/APD/Blk512,AD/AD/Rand,"B random, opener=B"
+block-unaware,AD/APD/Blk512,AD/AD/Rand,1,SPRAY,direct,True,0.8442750670000123,1480,256,1088,64512,0.9866662960471693,AD/APD/Blk512,AD/AD/Rand,"B random, opener=B"
+block-unaware,AD/APD/Blk512,AD/AD/Rand,2,SPRAY,direct,True,0.41998606099991775,968,256,1088,64512,0.9866662960471693,AD/APD/Blk512,AD/AD/Rand,"B random, opener=B"
+block-unaware,AD/APD/Blk512,AD/AD/Seq,0,PREDICT,direct,True,0.05615993200001412,56,0,0,64512,,AD/APD/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-unaware,AD/APD/Blk512,AD/AD/Seq,1,PREDICT,direct,True,0.05600890300001993,56,0,0,64512,,AD/APD/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-unaware,AD/APD/Blk512,AD/AD/Seq,2,PREDICT,direct,True,0.05632344999992256,56,0,0,64512,,AD/APD/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-unaware,AD/APD/Blk512,AD/APD/Fixed,0,RELAY,relay,True,0.005484544000069036,6,0,0,64512,,AD/APD/Blk512,AD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,AD/APD/Blk512,AD/APD/Fixed,1,RELAY,relay,True,0.005385563999993792,6,0,0,64512,,AD/APD/Blk512,AD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,AD/APD/Blk512,AD/APD/Fixed,2,RELAY,relay,True,0.005454190000023118,6,0,0,64512,,AD/APD/Blk512,AD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,AD/APD/Blk512,AD/APD/Rand,0,RELAY,relay,True,0.005443751999905544,6,0,0,64512,,AD/APD/Blk512,AD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,AD/APD/Blk512,AD/APD/Rand,1,RELAY,relay,True,0.0057578390000117,6,0,0,64512,,AD/APD/Blk512,AD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,AD/APD/Blk512,AD/APD/Rand,2,RELAY,relay,True,0.005379211999979816,6,0,0,64512,,AD/APD/Blk512,AD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,AD/APD/Blk512,AD/APD/Seq,0,RELAY,relay,True,0.005481255000063356,6,0,0,64512,,AD/APD/Blk512,AD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,AD/APD/Blk512,AD/APD/Seq,1,RELAY,relay,True,0.00545720800005256,6,0,0,64512,,AD/APD/Blk512,AD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,AD/APD/Blk512,AD/APD/Seq,2,RELAY,relay,True,0.0054252879999694414,6,0,0,64512,,AD/APD/Blk512,AD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,AD/APD/Blk512,AD/EI/Fixed,0,PREDICT,direct,True,0.05632082700003593,56,0,0,64512,,AD/APD/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-unaware,AD/APD/Blk512,AD/EI/Fixed,1,PREDICT,direct,True,0.05913609799995356,56,0,0,64512,,AD/APD/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-unaware,AD/APD/Blk512,AD/EI/Fixed,2,PREDICT,direct,True,0.05753262199993969,56,0,0,64512,,AD/APD/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-unaware,AD/APD/Blk512,AD/EI/Rand,0,SPRAY,direct,True,0.13457268700005898,361,256,1088,64512,0.9866662960471693,AD/APD/Blk512,AD/EI/Rand,"B random, opener=B"
+block-unaware,AD/APD/Blk512,AD/EI/Rand,1,SPRAY,direct,True,0.3920859450000762,936,256,1088,64512,0.9866662960471693,AD/APD/Blk512,AD/EI/Rand,"B random, opener=B"
+block-unaware,AD/APD/Blk512,AD/EI/Rand,2,SPRAY,direct,True,0.18728100700002415,424,256,1088,64512,0.9866662960471693,AD/APD/Blk512,AD/EI/Rand,"B random, opener=B"
+block-unaware,AD/APD/Blk512,AD/EI/Seq,0,PREDICT,direct,True,0.05756317600003058,56,0,0,64512,,AD/APD/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-unaware,AD/APD/Blk512,AD/EI/Seq,1,PREDICT,direct,True,0.05647320999992189,56,0,0,64512,,AD/APD/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-unaware,AD/APD/Blk512,AD/EI/Seq,2,PREDICT,direct,True,0.056373330999917926,56,0,0,64512,,AD/APD/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-unaware,AD/APD/Blk512,APD/AD/Fixed,0,PREDICT,direct,True,0.059554929999990236,56,0,0,64512,,AD/APD/Blk512,APD/AD/Fixed,B is lenient and its port is pred
+block-unaware,AD/APD/Blk512,APD/AD/Fixed,1,PREDICT,direct,True,0.057954814000027,56,0,0,64512,,AD/APD/Blk512,APD/AD/Fixed,B is lenient and its port is pred
+block-unaware,AD/APD/Blk512,APD/AD/Fixed,2,PREDICT,direct,True,0.056739590999995926,56,0,0,64512,,AD/APD/Blk512,APD/AD/Fixed,B is lenient and its port is pred
+block-unaware,AD/APD/Blk512,APD/AD/Rand,0,RELAY,relay,True,0.005404959999964376,6,0,0,64512,,AD/APD/Blk512,APD/AD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,AD/APD/Blk512,APD/AD/Rand,1,RELAY,relay,True,0.005353639000077237,6,0,0,64512,,AD/APD/Blk512,APD/AD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,AD/APD/Blk512,APD/AD/Rand,2,RELAY,relay,True,0.005330296000011003,6,0,0,64512,,AD/APD/Blk512,APD/AD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,AD/APD/Blk512,APD/AD/Seq,0,PREDICT,direct,True,0.05662973200003307,56,0,0,64512,,AD/APD/Blk512,APD/AD/Seq,B is lenient and its port is pred
+block-unaware,AD/APD/Blk512,APD/AD/Seq,1,PREDICT,direct,True,0.05804483999997956,56,0,0,64512,,AD/APD/Blk512,APD/AD/Seq,B is lenient and its port is pred
+block-unaware,AD/APD/Blk512,APD/AD/Seq,2,PREDICT,direct,True,0.05665203799992469,56,0,0,64512,,AD/APD/Blk512,APD/AD/Seq,B is lenient and its port is pred
+block-unaware,AD/APD/Blk512,APD/APD/Fixed,0,RELAY,relay,True,0.0052979790000335925,6,0,0,64512,,AD/APD/Blk512,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,AD/APD/Blk512,APD/APD/Fixed,1,RELAY,relay,True,0.005331423000029645,6,0,0,64512,,AD/APD/Blk512,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,AD/APD/Blk512,APD/APD/Fixed,2,RELAY,relay,True,0.005500215999973079,6,0,0,64512,,AD/APD/Blk512,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,AD/APD/Blk512,APD/APD/Rand,0,RELAY,relay,True,0.005575880000037614,6,0,0,64512,,AD/APD/Blk512,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,AD/APD/Blk512,APD/APD/Rand,1,RELAY,relay,True,0.005320219000054749,6,0,0,64512,,AD/APD/Blk512,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,AD/APD/Blk512,APD/APD/Rand,2,RELAY,relay,True,0.00530619400001342,6,0,0,64512,,AD/APD/Blk512,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,AD/APD/Blk512,APD/APD/Seq,0,RELAY,relay,True,0.005408493000004455,6,0,0,64512,,AD/APD/Blk512,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,AD/APD/Blk512,APD/APD/Seq,1,RELAY,relay,True,0.005329907000032108,6,0,0,64512,,AD/APD/Blk256,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,AD/APD/Blk512,APD/APD/Seq,2,RELAY,relay,True,0.005382510999993428,6,0,0,64512,,AD/APD/Blk512,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,AD/APD/Blk512,APD/EI/Fixed,0,PREDICT,direct,True,0.057994735000079345,56,0,0,64512,,AD/APD/Blk512,APD/EI/Fixed,B is lenient and its port is pred
+block-unaware,AD/APD/Blk512,APD/EI/Fixed,1,PREDICT,direct,True,0.05833093100000042,56,0,0,64512,,AD/APD/Blk512,APD/EI/Fixed,B is lenient and its port is pred
+block-unaware,AD/APD/Blk512,APD/EI/Fixed,2,PREDICT,direct,True,0.05791125500002181,56,0,0,64512,,AD/APD/Blk512,APD/EI/Fixed,B is lenient and its port is pred
+block-unaware,AD/APD/Blk512,APD/EI/Rand,0,RELAY,relay,True,0.005360143999951106,6,0,0,64512,,AD/APD/Blk512,APD/EI/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,AD/APD/Blk512,APD/EI/Rand,1,RELAY,relay,True,0.005519288000073175,6,0,0,64512,,AD/APD/Blk512,APD/EI/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,AD/APD/Blk512,APD/EI/Rand,2,RELAY,relay,True,0.005458374999989246,6,0,0,64512,,AD/APD/Blk512,APD/EI/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,AD/APD/Blk512,APD/EI/Seq,0,PREDICT,direct,True,0.05809066500000881,56,0,0,64512,,AD/APD/Blk512,APD/EI/Seq,B is lenient and its port is pred
+block-unaware,AD/APD/Blk512,APD/EI/Seq,1,PREDICT,direct,True,0.057757235999929435,56,0,0,64512,,AD/APD/Blk512,APD/EI/Seq,B is lenient and its port is pred
+block-unaware,AD/APD/Blk512,APD/EI/Seq,2,PREDICT,direct,True,0.05706081999994694,56,0,0,64512,,AD/APD/Blk512,APD/EI/Seq,B is lenient and its port is pred
+block-unaware,AD/APD/Blk512,EI/AD/-,0,PREDICT,direct,True,0.05629686399993261,10,0,0,64512,,AD/APD/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-unaware,AD/APD/Blk512,EI/AD/-,1,PREDICT,direct,True,0.056675143000006756,10,0,0,64512,,AD/APD/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-unaware,AD/APD/Blk512,EI/AD/-,2,PREDICT,direct,True,0.05642499999999018,10,0,0,64512,,AD/APD/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-unaware,AD/APD/Blk512,EI/APD/-,0,SPRAY,direct,True,0.18540304700002253,424,256,1088,64512,0.9866662960471693,AD/APD/Blk512,EI/APD/-,"A random, opener=A"
+block-unaware,AD/APD/Blk512,EI/APD/-,1,SPRAY,direct,True,0.23970155500001056,488,256,1088,64512,0.9866662960471693,AD/APD/Blk512,EI/APD/-,"A random, opener=A"
+block-unaware,AD/APD/Blk512,EI/APD/-,2,SPRAY,direct,True,0.39455699799998456,936,256,1088,64512,0.9866662960471693,AD/APD/Blk512,EI/APD/-,"A random, opener=A"
+block-unaware,AD/APD/Blk512,EI/EI/-,0,PREDICT,direct,True,0.056193253000060395,10,0,0,64512,,AD/APD/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-unaware,AD/APD/Blk512,EI/EI/-,1,PREDICT,direct,True,0.057052252000062254,10,0,0,64512,,AD/APD/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-unaware,AD/APD/Blk512,EI/EI/-,2,PREDICT,direct,True,0.05648927000004278,10,0,0,64512,,AD/APD/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-unaware,AD/EI/Blk512,AD/AD/Fixed,0,PREDICT,direct,True,0.05693417700001646,58,0,0,64512,,AD/EI/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-unaware,AD/EI/Blk512,AD/AD/Fixed,1,PREDICT,direct,True,0.05667425699994055,56,0,0,64512,,AD/EI/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-unaware,AD/EI/Blk512,AD/AD/Fixed,2,PREDICT,direct,True,0.05667392500004098,59,0,0,64512,,AD/EI/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-unaware,AD/EI/Blk512,AD/AD/Rand,0,SPRAY,relay,True,2.5211838589999616,1606,256,1088,64512,0.9866662960471693,AD/EI/Blk512,AD/AD/Rand,"A random, opener=A"
+block-unaware,AD/EI/Blk512,AD/AD/Rand,1,SPRAY,direct,True,0.3166968990000214,584,256,1088,64512,0.9866662960471693,AD/EI/Blk512,AD/AD/Rand,"A random, opener=A"
+block-unaware,AD/EI/Blk512,AD/AD/Rand,2,SPRAY,direct,True,0.26560867700004565,520,256,1088,64512,0.9866662960471693,AD/EI/Blk512,AD/AD/Rand,"A random, opener=A"
+block-unaware,AD/EI/Blk512,AD/AD/Seq,0,PREDICT,direct,True,0.056148372000052404,58,0,0,64512,,AD/EI/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-unaware,AD/EI/Blk512,AD/AD/Seq,1,PREDICT,direct,True,0.056505431000005046,58,0,0,64512,,AD/EI/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-unaware,AD/EI/Blk512,AD/AD/Seq,2,PREDICT,direct,True,0.057009771999901204,56,0,0,64512,,AD/EI/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-unaware,AD/EI/Blk512,AD/APD/Fixed,0,SPRAY,direct,True,0.31585185599999477,584,256,1088,64512,0.9866662960471693,AD/EI/Blk512,AD/APD/Fixed,"A random, opener=A"
+block-unaware,AD/EI/Blk512,AD/APD/Fixed,1,SPRAY,direct,True,0.13737201600008575,360,256,1088,64512,0.9866662960471693,AD/EI/Blk512,AD/APD/Fixed,"A random, opener=A"
+block-unaware,AD/EI/Blk512,AD/APD/Fixed,2,SPRAY,direct,True,0.3403963790000262,616,256,1088,64512,0.9866662960471693,AD/EI/Blk512,AD/APD/Fixed,"A random, opener=A"
+block-unaware,AD/EI/Blk512,AD/APD/Rand,0,SPRAY,direct,True,0.4730475869999964,1032,256,1088,64512,0.9866662960471693,AD/EI/Blk512,AD/APD/Rand,"A random, opener=A"
+block-unaware,AD/EI/Blk512,AD/APD/Rand,1,SPRAY,direct,True,0.08251012899995658,297,256,1088,64512,0.9866662960471693,AD/EI/Blk512,AD/APD/Rand,"A random, opener=A"
+block-unaware,AD/EI/Blk512,AD/APD/Rand,2,SPRAY,direct,True,0.15897134800002277,392,256,1088,64512,0.9866662960471693,AD/EI/Blk512,AD/APD/Rand,"A random, opener=A"
+block-unaware,AD/EI/Blk512,AD/APD/Seq,0,SPRAY,direct,True,0.08333163499992224,296,256,1088,64512,0.9866662960471693,AD/EI/Blk512,AD/APD/Seq,"A random, opener=A"
+block-unaware,AD/EI/Blk512,AD/APD/Seq,1,SPRAY,direct,True,0.13556362400004218,360,256,1088,64512,0.9866662960471693,AD/EI/Blk512,AD/APD/Seq,"A random, opener=A"
+block-unaware,AD/EI/Blk512,AD/APD/Seq,2,SPRAY,direct,True,0.15905795800006217,392,256,1088,64512,0.9866662960471693,AD/EI/Blk512,AD/APD/Seq,"A random, opener=A"
+block-unaware,AD/EI/Blk512,AD/EI/Fixed,0,PREDICT,direct,True,0.056160878000014236,58,0,0,64512,,AD/EI/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-unaware,AD/EI/Blk512,AD/EI/Fixed,1,PREDICT,direct,True,0.055976956999984395,56,0,0,64512,,AD/EI/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-unaware,AD/EI/Blk512,AD/EI/Fixed,2,PREDICT,direct,True,0.05590700100003687,56,0,0,64512,,AD/EI/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-unaware,AD/EI/Blk512,AD/EI/Rand,0,SPRAY,direct,True,0.23685739299992292,488,256,1088,64512,0.9866662960471693,AD/EI/Blk512,AD/EI/Rand,"A random, opener=A"
+block-unaware,AD/EI/Blk512,AD/EI/Rand,1,SPRAY,direct,True,0.18694808500004,424,256,1088,64512,0.9866662960471693,AD/EI/Blk512,AD/EI/Rand,"A random, opener=A"
+block-unaware,AD/EI/Blk512,AD/EI/Rand,2,SPRAY,direct,True,0.10878467299994554,328,256,1088,64512,0.9866662960471693,AD/EI/Blk512,AD/EI/Rand,"A random, opener=A"
+block-unaware,AD/EI/Blk512,AD/EI/Seq,0,PREDICT,direct,True,0.05646866700010378,56,0,0,64512,,AD/EI/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-unaware,AD/EI/Blk512,AD/EI/Seq,1,PREDICT,direct,True,0.0567379390000724,56,0,0,64512,,AD/EI/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-unaware,AD/EI/Blk512,AD/EI/Seq,2,PREDICT,direct,True,0.05703883599994697,56,0,0,64512,,AD/EI/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-unaware,AD/EI/Blk512,APD/AD/Fixed,0,PREDICT,direct,True,0.058378278000077444,56,0,0,64512,,AD/EI/Blk512,APD/AD/Fixed,B is lenient and its port is pred
+block-unaware,AD/EI/Blk512,APD/AD/Fixed,1,PREDICT,direct,True,0.05782247899992399,57,0,0,64512,,AD/EI/Blk512,APD/AD/Fixed,B is lenient and its port is pred
+block-unaware,AD/EI/Blk512,APD/AD/Fixed,2,PREDICT,direct,True,0.0572399760000053,56,0,0,64512,,AD/EI/Blk512,APD/AD/Fixed,B is lenient and its port is pred
+block-unaware,AD/EI/Blk512,APD/AD/Rand,0,SPRAY,direct,True,0.11093675100005385,328,256,1088,64512,0.9866662960471693,AD/EI/Blk512,APD/AD/Rand,"A random, opener=A"
+block-unaware,AD/EI/Blk512,APD/AD/Rand,1,SPRAY,direct,True,0.14480272100001912,361,256,1088,64512,0.9866662960471693,AD/EI/Blk512,APD/AD/Rand,"A random, opener=A"
+block-unaware,AD/EI/Blk512,APD/AD/Rand,2,SPRAY,direct,True,0.16681270999993103,392,256,1088,64512,0.9866662960471693,AD/EI/Blk512,APD/AD/Rand,"A random, opener=A"
+block-unaware,AD/EI/Blk512,APD/AD/Seq,0,PREDICT,direct,True,0.0577366229999825,56,0,0,64512,,AD/EI/Blk512,APD/AD/Seq,B is lenient and its port is pred
+block-unaware,AD/EI/Blk512,APD/AD/Seq,1,PREDICT,direct,True,0.05821084299998347,56,0,0,64512,,AD/EI/Blk512,APD/AD/Seq,B is lenient and its port is pred
+block-unaware,AD/EI/Blk512,APD/AD/Seq,2,PREDICT,direct,True,0.05690997499993955,56,0,0,64512,,AD/EI/Blk512,APD/AD/Seq,B is lenient and its port is pred
+block-unaware,AD/EI/Blk512,APD/APD/Fixed,0,SPRAY,direct,True,0.08534505700004047,296,256,1088,64512,0.9866662960471693,AD/EI/Blk512,APD/APD/Fixed,"A random, opener=A"
+block-unaware,AD/EI/Blk512,APD/APD/Fixed,1,SPRAY,direct,True,0.11377584000001661,328,256,1088,64512,0.9866662960471693,AD/EI/Blk512,APD/APD/Fixed,"A random, opener=A"
+block-unaware,AD/EI/Blk512,APD/APD/Fixed,2,SPRAY,direct,True,0.564222033999954,1096,256,1088,64512,0.9866662960471693,AD/EI/Blk512,APD/APD/Fixed,"A random, opener=A"
+block-unaware,AD/EI/Blk512,APD/APD/Rand,0,SPRAY,direct,True,0.16698685599999408,393,256,1088,64512,0.9866662960471693,AD/EI/Blk512,APD/APD/Rand,"A random, opener=A"
+block-unaware,AD/EI/Blk512,APD/APD/Rand,1,SPRAY,direct,True,0.0847041069999932,296,256,1088,64512,0.9866662960471693,AD/EI/Blk512,APD/APD/Rand,"A random, opener=A"
+block-unaware,AD/EI/Blk512,APD/APD/Rand,2,SPRAY,direct,True,0.2269534649999514,456,256,1088,64512,0.9866662960471693,AD/EI/Blk512,APD/APD/Rand,"A random, opener=A"
+block-unaware,AD/EI/Blk512,APD/APD/Seq,0,SPRAY,direct,True,0.08611819100008233,296,256,1088,64512,0.9866662960471693,AD/EI/Blk512,APD/APD/Seq,"A random, opener=A"
+block-unaware,AD/EI/Blk512,APD/APD/Seq,1,SPRAY,direct,True,0.08487815299997692,296,256,1088,64512,0.9866662960471693,AD/EI/Blk512,APD/APD/Seq,"A random, opener=A"
+block-unaware,AD/EI/Blk512,APD/APD/Seq,2,SPRAY,direct,True,0.30741141900000457,552,256,1088,64512,0.9866662960471693,AD/EI/Blk512,APD/APD/Seq,"A random, opener=A"
+block-unaware,AD/EI/Blk512,APD/EI/Fixed,0,PREDICT,direct,True,0.05781396899999436,56,0,0,64512,,AD/EI/Blk512,APD/EI/Fixed,B is lenient and its port is pred
+block-unaware,AD/EI/Blk512,APD/EI/Fixed,1,PREDICT,direct,True,0.058408834000033494,57,0,0,64512,,AD/EI/Blk512,APD/EI/Fixed,B is lenient and its port is pred
+block-unaware,AD/EI/Blk512,APD/EI/Fixed,2,PREDICT,direct,True,0.05698671300001479,57,0,0,64512,,AD/EI/Blk512,APD/EI/Fixed,B is lenient and its port is pred
+block-unaware,AD/EI/Blk512,APD/EI/Rand,0,SPRAY,direct,True,0.2839114980000659,520,256,1088,64512,0.9866662960471693,AD/EI/Blk512,APD/EI/Rand,"A random, opener=A"
+block-unaware,AD/EI/Blk512,APD/EI/Rand,1,SPRAY,direct,True,0.08593278300008933,296,256,1088,64512,0.9866662960471693,AD/EI/Blk512,APD/EI/Rand,"A random, opener=A"
+block-unaware,AD/EI/Blk512,APD/EI/Rand,2,SPRAY,direct,True,0.22372961899998245,456,256,1088,64512,0.9866662960471693,AD/EI/Blk512,APD/EI/Rand,"A random, opener=A"
+block-unaware,AD/EI/Blk512,APD/EI/Seq,0,PREDICT,direct,True,0.05673717900003794,58,0,0,64512,,AD/EI/Blk512,APD/EI/Seq,B is lenient and its port is pred
+block-unaware,AD/EI/Blk512,APD/EI/Seq,1,PREDICT,direct,True,0.057507514000008086,56,0,0,64512,,AD/EI/Blk512,APD/EI/Seq,B is lenient and its port is pred
+block-unaware,AD/EI/Blk512,APD/EI/Seq,2,PREDICT,direct,True,0.05747013000006973,56,0,0,64512,,AD/EI/Blk512,APD/EI/Seq,B is lenient and its port is pred
+block-unaware,AD/EI/Blk512,EI/AD/-,0,PREDICT,direct,True,0.05650817000002917,12,0,0,64512,,AD/EI/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-unaware,AD/EI/Blk512,EI/AD/-,1,PREDICT,direct,True,0.0565998980000586,12,0,0,64512,,AD/EI/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-unaware,AD/EI/Blk512,EI/AD/-,2,PREDICT,direct,True,0.05618205099995066,12,0,0,64512,,AD/EI/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-unaware,AD/EI/Blk512,EI/APD/-,0,SPRAY,direct,True,0.915265053999974,1577,256,1088,64512,0.9866662960471693,AD/EI/Blk512,EI/APD/-,"A random, opener=A"
+block-unaware,AD/EI/Blk512,EI/APD/-,1,SPRAY,direct,True,0.34098686100003306,616,256,1088,64512,0.9866662960471693,AD/EI/Blk512,EI/APD/-,"A random, opener=A"
+block-unaware,AD/EI/Blk512,EI/APD/-,2,SPRAY,direct,True,0.34271824799998285,616,256,1088,64512,0.9866662960471693,AD/EI/Blk512,EI/APD/-,"A random, opener=A"
+block-unaware,AD/EI/Blk512,EI/EI/-,0,PREDICT,direct,True,0.05774194399998578,12,0,0,64512,,AD/EI/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-unaware,AD/EI/Blk512,EI/EI/-,1,PREDICT,direct,True,0.057705716999976175,12,0,0,64512,,AD/EI/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-unaware,AD/EI/Blk512,EI/EI/-,2,PREDICT,direct,True,0.056145016000073156,12,0,0,64512,,AD/EI/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-unaware,APD/AD/Blk512,AD/AD/Fixed,0,PREDICT,direct,True,0.058074177999969834,56,0,0,64512,,APD/AD/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-unaware,APD/AD/Blk512,AD/AD/Fixed,1,PREDICT,direct,True,0.05856283000002804,56,0,0,64512,,APD/AD/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-unaware,APD/AD/Blk512,AD/AD/Fixed,2,PREDICT,direct,True,0.061213247000068804,56,0,0,64512,,APD/AD/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-unaware,APD/AD/Blk512,AD/AD/Rand,0,SPRAY,direct,True,0.18950470499999028,424,256,1088,64512,0.9866662960471693,APD/AD/Blk512,AD/AD/Rand,"A random, opener=A"
+block-unaware,APD/AD/Blk512,AD/AD/Rand,1,SPRAY,direct,True,0.08360119700000723,296,256,1088,64512,0.9866662960471693,APD/AD/Blk512,AD/AD/Rand,"A random, opener=A"
+block-unaware,APD/AD/Blk512,AD/AD/Rand,2,SPRAY,direct,True,0.08440671799996835,296,256,1088,64512,0.9866662960471693,APD/AD/Blk512,AD/AD/Rand,"A random, opener=A"
+block-unaware,APD/AD/Blk512,AD/AD/Seq,0,PREDICT,direct,True,0.05808155900001566,56,0,0,64512,,APD/AD/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-unaware,APD/AD/Blk512,AD/AD/Seq,1,PREDICT,direct,True,0.059158636999995906,56,0,0,64512,,APD/AD/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-unaware,APD/AD/Blk512,AD/AD/Seq,2,PREDICT,direct,True,0.05860429799997746,56,0,0,64512,,APD/AD/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-unaware,APD/AD/Blk512,AD/APD/Fixed,0,RELAY,relay,True,0.005907760000013695,6,0,0,64512,,APD/AD/Blk512,AD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/AD/Blk512,AD/APD/Fixed,1,RELAY,relay,True,0.005529873000000407,6,0,0,64512,,APD/AD/Blk512,AD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/AD/Blk512,AD/APD/Fixed,2,RELAY,relay,True,0.005445041999905698,6,0,0,64512,,APD/AD/Blk512,AD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/AD/Blk512,AD/APD/Rand,0,RELAY,relay,True,0.005458255999997164,6,0,0,64512,,APD/AD/Blk512,AD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,APD/AD/Blk512,AD/APD/Rand,1,RELAY,relay,True,0.005385025999999016,6,0,0,64512,,APD/AD/Blk512,AD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,APD/AD/Blk512,AD/APD/Rand,2,RELAY,relay,True,0.006030512999927851,6,0,0,64512,,APD/AD/Blk512,AD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,APD/AD/Blk512,AD/APD/Seq,0,RELAY,relay,True,0.005306023999992249,6,0,0,64512,,APD/AD/Blk512,AD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/AD/Blk512,AD/APD/Seq,1,RELAY,relay,True,0.005412244000012834,6,0,0,64512,,APD/AD/Blk512,AD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/AD/Blk512,AD/APD/Seq,2,RELAY,relay,True,0.00544029299999238,6,0,0,64512,,APD/AD/Blk512,AD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/AD/Blk512,AD/EI/Fixed,0,PREDICT,direct,True,0.061228518999996595,56,0,0,64512,,APD/AD/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-unaware,APD/AD/Blk512,AD/EI/Fixed,1,PREDICT,direct,True,0.06699720200003867,56,0,0,64512,,APD/AD/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-unaware,APD/AD/Blk512,AD/EI/Fixed,2,PREDICT,direct,True,0.05928398800006107,56,0,0,64512,,APD/AD/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-unaware,APD/AD/Blk512,AD/EI/Rand,0,SPRAY,direct,True,0.1856825800000479,424,256,1088,64512,0.9866662960471693,APD/AD/Blk512,AD/EI/Rand,"A random, opener=A"
+block-unaware,APD/AD/Blk512,AD/EI/Rand,1,SPRAY,direct,True,0.187203156999999,424,256,1088,64512,0.9866662960471693,APD/AD/Blk512,AD/EI/Rand,"A random, opener=A"
+block-unaware,APD/AD/Blk512,AD/EI/Rand,2,SPRAY,direct,True,0.4462655040000527,1000,256,1088,64512,0.9866662960471693,APD/AD/Blk512,AD/EI/Rand,"A random, opener=A"
+block-unaware,APD/AD/Blk512,AD/EI/Seq,0,PREDICT,direct,True,0.06098624799994923,56,0,0,64512,,APD/AD/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-unaware,APD/AD/Blk512,AD/EI/Seq,1,PREDICT,direct,True,0.057669264999958614,56,0,0,64512,,APD/AD/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-unaware,APD/AD/Blk512,AD/EI/Seq,2,PREDICT,direct,True,0.061612014000047566,56,0,0,64512,,APD/AD/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-unaware,APD/AD/Blk512,APD/AD/Fixed,0,PREDICT,direct,True,0.06266960099992502,88,0,0,64512,,APD/AD/Blk512,APD/AD/Fixed,B is lenient and its port is pred
+block-unaware,APD/AD/Blk512,APD/AD/Fixed,1,PREDICT,direct,True,0.06204303799995614,88,0,0,64512,,APD/AD/Blk512,APD/AD/Fixed,B is lenient and its port is pred
+block-unaware,APD/AD/Blk512,APD/AD/Fixed,2,PREDICT,direct,True,0.06477507500005686,88,0,0,64512,,APD/AD/Blk512,APD/AD/Fixed,B is lenient and its port is pred
+block-unaware,APD/AD/Blk512,APD/AD/Rand,0,SPRAY,direct,True,0.08702272000004996,296,256,1088,64512,0.9866662960471693,APD/AD/Blk512,APD/AD/Rand,"A random, opener=A"
+block-unaware,APD/AD/Blk512,APD/AD/Rand,1,SPRAY,direct,True,0.19978249600001163,424,256,1088,64512,0.9866662960471693,APD/AD/Blk512,APD/AD/Rand,"A random, opener=A"
+block-unaware,APD/AD/Blk512,APD/AD/Rand,2,SPRAY,direct,True,0.23007517099995312,456,256,1088,64512,0.9866662960471693,APD/AD/Blk512,APD/AD/Rand,"A random, opener=A"
+block-unaware,APD/AD/Blk512,APD/AD/Seq,0,PREDICT,direct,True,0.061124607000010656,88,0,0,64512,,APD/AD/Blk512,APD/AD/Seq,B is lenient and its port is pred
+block-unaware,APD/AD/Blk512,APD/AD/Seq,1,PREDICT,direct,True,0.0597537779999584,87,0,0,64512,,APD/AD/Blk512,APD/AD/Seq,B is lenient and its port is pred
+block-unaware,APD/AD/Blk512,APD/AD/Seq,2,PREDICT,direct,True,0.06031270100004349,87,0,0,64512,,APD/AD/Blk512,APD/AD/Seq,B is lenient and its port is pred
+block-unaware,APD/AD/Blk512,APD/APD/Fixed,0,RELAY,relay,True,0.005417597999894497,6,0,0,64512,,APD/AD/Blk512,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/AD/Blk512,APD/APD/Fixed,1,RELAY,relay,True,0.005489476999855469,6,0,0,64512,,APD/AD/Blk512,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/AD/Blk512,APD/APD/Fixed,2,RELAY,relay,True,0.005365233000020453,6,0,0,64512,,APD/AD/Blk512,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/AD/Blk512,APD/APD/Rand,0,RELAY,relay,True,0.005323528999952032,6,0,0,64512,,APD/AD/Blk512,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,APD/AD/Blk512,APD/APD/Rand,1,RELAY,relay,True,0.005429816000059873,6,0,0,64512,,APD/AD/Blk512,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,APD/AD/Blk512,APD/APD/Rand,2,RELAY,relay,True,0.005357919000061884,6,0,0,64512,,APD/AD/Blk512,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,APD/AD/Blk512,APD/APD/Seq,0,RELAY,relay,True,0.005374487000040062,6,0,0,64512,,APD/AD/Blk512,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/AD/Blk512,APD/APD/Seq,1,RELAY,relay,True,0.005439656000021387,6,0,0,64512,,APD/AD/Blk512,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/AD/Blk512,APD/APD/Seq,2,RELAY,relay,True,0.005375685999979396,6,0,0,64512,,APD/AD/Blk512,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/AD/Blk512,APD/EI/Fixed,0,PREDICT,direct,True,0.06076247700002568,88,0,0,64512,,APD/AD/Blk512,APD/EI/Fixed,B is lenient and its port is pred
+block-unaware,APD/AD/Blk512,APD/EI/Fixed,1,PREDICT,direct,True,0.06102554799997506,88,0,0,64512,,APD/AD/Blk512,APD/EI/Fixed,B is lenient and its port is pred
+block-unaware,APD/AD/Blk512,APD/EI/Fixed,2,PREDICT,direct,True,0.06062923399997544,87,0,0,64512,,APD/AD/Blk512,APD/EI/Fixed,B is lenient and its port is pred
+block-unaware,APD/AD/Blk512,APD/EI/Rand,0,SPRAY,direct,True,0.33818907099998796,841,256,1088,64512,0.9866662960471693,APD/AD/Blk512,APD/EI/Rand,"A random, opener=A"
+block-unaware,APD/AD/Blk512,APD/EI/Rand,1,SPRAY,direct,True,0.20204412600003252,424,256,1088,64512,0.9866662960471693,APD/AD/Blk512,APD/EI/Rand,"A random, opener=A"
+block-unaware,APD/AD/Blk512,APD/EI/Rand,2,SPRAY,direct,True,0.19537248799997542,426,256,1088,64512,0.9866662960471693,APD/AD/Blk512,APD/EI/Rand,"A random, opener=A"
+block-unaware,APD/AD/Blk512,APD/EI/Seq,0,PREDICT,direct,True,0.060131759000000784,87,0,0,64512,,APD/AD/Blk512,APD/EI/Seq,B is lenient and its port is pred
+block-unaware,APD/AD/Blk512,APD/EI/Seq,1,PREDICT,direct,True,0.06317116100001385,87,0,0,64512,,APD/AD/Blk512,APD/EI/Seq,B is lenient and its port is pred
+block-unaware,APD/AD/Blk512,APD/EI/Seq,2,PREDICT,direct,True,0.06625489300006393,87,0,0,64512,,APD/AD/Blk512,APD/EI/Seq,B is lenient and its port is pred
+block-unaware,APD/AD/Blk512,EI/AD/-,0,PREDICT,direct,True,0.0571041730000843,10,0,0,64512,,APD/AD/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-unaware,APD/AD/Blk512,EI/AD/-,1,PREDICT,direct,True,0.05738684599998578,10,0,0,64512,,APD/AD/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-unaware,APD/AD/Blk512,EI/AD/-,2,PREDICT,direct,True,0.05815982499996153,10,0,0,64512,,APD/AD/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-unaware,APD/AD/Blk512,EI/APD/-,0,SPRAY,direct,True,0.9878043979999802,1288,256,1088,64512,0.9866662960471693,APD/AD/Blk512,EI/APD/-,"A random, opener=A"
+block-unaware,APD/AD/Blk512,EI/APD/-,1,SPRAY,direct,True,0.21258294200004002,456,256,1088,64512,0.9866662960471693,APD/AD/Blk512,EI/APD/-,"A random, opener=A"
+block-unaware,APD/AD/Blk512,EI/APD/-,2,SPRAY,direct,True,0.18601763799995297,424,256,1088,64512,0.9866662960471693,APD/AD/Blk512,EI/APD/-,"A random, opener=A"
+block-unaware,APD/AD/Blk512,EI/EI/-,0,PREDICT,direct,True,0.055784764999998515,10,0,0,64512,,APD/AD/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-unaware,APD/AD/Blk512,EI/EI/-,1,PREDICT,direct,True,0.05614115299999867,10,0,0,64512,,APD/AD/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-unaware,APD/AD/Blk512,EI/EI/-,2,PREDICT,direct,True,0.05728417599993918,10,0,0,64512,,APD/AD/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-unaware,APD/APD/Blk512,AD/AD/Fixed,0,PREDICT,direct,True,0.05970787100000052,56,0,0,64512,,APD/APD/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-unaware,APD/APD/Blk512,AD/AD/Fixed,1,PREDICT,direct,True,0.05849666999984038,56,0,0,64512,,APD/APD/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-unaware,APD/APD/Blk512,AD/AD/Fixed,2,PREDICT,direct,True,0.058687927999926615,56,0,0,64512,,APD/APD/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-unaware,APD/APD/Blk512,AD/AD/Rand,0,SPRAY,relay,True,2.5264494199998353,1606,256,1088,64512,0.9866662960471693,APD/APD/Blk512,AD/AD/Rand,"B random, opener=B"
+block-unaware,APD/APD/Blk512,AD/AD/Rand,1,SPRAY,direct,True,1.3278501540000889,904,256,1088,64512,0.9866662960471693,APD/APD/Blk512,AD/AD/Rand,"B random, opener=B"
+block-unaware,APD/APD/Blk512,AD/AD/Rand,2,SPRAY,direct,True,0.1965258630000335,424,256,1088,64512,0.9866662960471693,APD/APD/Blk512,AD/AD/Rand,"B random, opener=B"
+block-unaware,APD/APD/Blk512,AD/AD/Seq,0,PREDICT,direct,True,0.05953051999995296,56,0,0,64512,,APD/APD/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-unaware,APD/APD/Blk512,AD/AD/Seq,1,PREDICT,direct,True,0.05815129899997373,56,0,0,64512,,APD/APD/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-unaware,APD/APD/Blk512,AD/AD/Seq,2,PREDICT,direct,True,0.0580964830000994,56,0,0,64512,,APD/APD/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-unaware,APD/APD/Blk512,AD/APD/Fixed,0,RELAY,relay,True,0.005468060999874069,6,0,0,64512,,APD/APD/Blk512,AD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/APD/Blk512,AD/APD/Fixed,1,RELAY,relay,True,0.005387775000144757,6,0,0,64512,,APD/APD/Blk512,AD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/APD/Blk512,AD/APD/Fixed,2,RELAY,relay,True,0.005465336999805004,6,0,0,64512,,APD/APD/Blk512,AD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/APD/Blk512,AD/APD/Rand,0,RELAY,relay,True,0.005431135999970138,6,0,0,64512,,APD/APD/Blk512,AD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,APD/APD/Blk512,AD/APD/Rand,1,RELAY,relay,True,0.0053247209998517064,6,0,0,64512,,APD/APD/Blk512,AD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,APD/APD/Blk512,AD/APD/Rand,2,RELAY,relay,True,0.005424164000032761,6,0,0,64512,,APD/APD/Blk512,AD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,APD/APD/Blk512,AD/APD/Seq,0,RELAY,relay,True,0.005319521000046734,6,0,0,64512,,APD/APD/Blk512,AD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/APD/Blk512,AD/APD/Seq,1,RELAY,relay,True,0.005363354000110121,6,0,0,64512,,APD/APD/Blk512,AD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/APD/Blk512,AD/APD/Seq,2,RELAY,relay,True,0.005398482000146032,6,0,0,64512,,APD/APD/Blk512,AD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/APD/Blk512,AD/EI/Fixed,0,PREDICT,direct,True,0.05776630700006535,56,0,0,64512,,APD/APD/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-unaware,APD/APD/Blk512,AD/EI/Fixed,1,PREDICT,direct,True,0.05902538899999854,56,0,0,64512,,APD/APD/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-unaware,APD/APD/Blk512,AD/EI/Fixed,2,PREDICT,direct,True,0.0579872340001657,56,0,0,64512,,APD/APD/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-unaware,APD/APD/Blk512,AD/EI/Rand,0,SPRAY,direct,True,0.8520863170001576,937,256,1088,64512,0.9866662960471693,APD/APD/Blk512,AD/EI/Rand,"B random, opener=B"
+block-unaware,APD/APD/Blk512,AD/EI/Rand,1,SPRAY,direct,True,0.445865620999939,936,256,1088,64512,0.9866662960471693,APD/APD/Blk512,AD/EI/Rand,"B random, opener=B"
+block-unaware,APD/APD/Blk512,AD/EI/Rand,2,SPRAY,direct,True,0.28943532699986463,520,256,1088,64512,0.9866662960471693,APD/APD/Blk512,AD/EI/Rand,"B random, opener=B"
+block-unaware,APD/APD/Blk512,AD/EI/Seq,0,PREDICT,direct,True,0.05865294099999119,56,0,0,64512,,APD/APD/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-unaware,APD/APD/Blk512,AD/EI/Seq,1,PREDICT,direct,True,0.05863560900002085,56,0,0,64512,,APD/APD/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-unaware,APD/APD/Blk512,AD/EI/Seq,2,PREDICT,direct,True,0.05784685499997977,56,0,0,64512,,APD/APD/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-unaware,APD/APD/Blk512,APD/AD/Fixed,0,RELAY,relay,True,0.005564735999996628,6,0,0,64512,,APD/APD/Blk512,APD/AD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/APD/Blk512,APD/AD/Fixed,1,RELAY,relay,True,0.005394778999971095,6,0,0,64512,,APD/APD/Blk512,APD/AD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/APD/Blk512,APD/AD/Fixed,2,RELAY,relay,True,0.00534205999997539,6,0,0,64512,,APD/APD/Blk512,APD/AD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/APD/Blk512,APD/AD/Rand,0,RELAY,relay,True,0.005412373999888587,6,0,0,64512,,APD/APD/Blk512,APD/AD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,APD/APD/Blk512,APD/AD/Rand,1,RELAY,relay,True,0.0053754489999846555,6,0,0,64512,,APD/APD/Blk512,APD/AD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,APD/APD/Blk512,APD/AD/Rand,2,RELAY,relay,True,0.005350378999992245,6,0,0,64512,,APD/APD/Blk512,APD/AD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,APD/APD/Blk512,APD/AD/Seq,0,RELAY,relay,True,0.005347788000108267,6,0,0,64512,,APD/APD/Blk512,APD/AD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/APD/Blk512,APD/AD/Seq,1,RELAY,relay,True,0.0054002730000775045,6,0,0,64512,,APD/APD/Blk512,APD/AD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/APD/Blk512,APD/AD/Seq,2,RELAY,relay,True,0.005434448999949382,6,0,0,64512,,APD/APD/Blk512,APD/AD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/APD/Blk512,APD/APD/Fixed,0,RELAY,relay,True,0.005357459999913772,6,0,0,64512,,APD/APD/Blk512,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/APD/Blk512,APD/APD/Fixed,1,RELAY,relay,True,0.005464907000032326,6,0,0,64512,,APD/APD/Blk512,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/APD/Blk512,APD/APD/Fixed,2,RELAY,relay,True,0.005420711999931882,6,0,0,64512,,APD/APD/Blk512,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/APD/Blk512,APD/APD/Rand,0,RELAY,relay,True,0.005409568000004583,6,0,0,64512,,APD/APD/Blk512,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,APD/APD/Blk512,APD/APD/Rand,1,RELAY,relay,True,0.005365201999893543,6,0,0,64512,,APD/APD/Blk512,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,APD/APD/Blk512,APD/APD/Rand,2,RELAY,relay,True,0.005413074999978562,6,0,0,64512,,APD/APD/Blk512,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,APD/APD/Blk512,APD/APD/Seq,0,RELAY,relay,True,0.0055112550001013005,6,0,0,64512,,APD/APD/Blk512,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/APD/Blk512,APD/APD/Seq,1,RELAY,relay,True,0.0055587829999694804,6,0,0,64512,,APD/APD/Blk512,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/APD/Blk512,APD/APD/Seq,2,RELAY,relay,True,0.005393224000044938,6,0,0,64512,,APD/APD/Blk512,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/APD/Blk512,APD/EI/Fixed,0,RELAY,relay,True,0.005493427999908818,6,0,0,64512,,APD/APD/Blk512,APD/EI/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/APD/Blk512,APD/EI/Fixed,1,RELAY,relay,True,0.005392608999954973,6,0,0,64512,,APD/APD/Blk512,APD/EI/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/APD/Blk512,APD/EI/Fixed,2,RELAY,relay,True,0.005764987000020483,6,0,0,64512,,APD/APD/Blk512,APD/EI/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/APD/Blk512,APD/EI/Rand,0,RELAY,relay,True,0.005329248999942138,6,0,0,64512,,APD/APD/Blk512,APD/EI/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,APD/APD/Blk512,APD/EI/Rand,1,RELAY,relay,True,0.00545578000014757,6,0,0,64512,,APD/APD/Blk512,APD/EI/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,APD/APD/Blk512,APD/EI/Rand,2,RELAY,relay,True,0.005491806999998516,6,0,0,64512,,APD/APD/Blk512,APD/EI/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,APD/APD/Blk512,APD/EI/Seq,0,RELAY,relay,True,0.005419166999899971,6,0,0,64512,,APD/APD/Blk512,APD/EI/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/APD/Blk512,APD/EI/Seq,1,RELAY,relay,True,0.005362408000110008,6,0,0,64512,,APD/APD/Blk512,APD/EI/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/APD/Blk512,APD/EI/Seq,2,RELAY,relay,True,0.005565212999954383,6,0,0,64512,,APD/APD/Blk512,APD/EI/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/APD/Blk512,EI/AD/-,0,PREDICT,direct,True,0.05618116000005102,10,0,0,64512,,APD/APD/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-unaware,APD/APD/Blk512,EI/AD/-,1,PREDICT,direct,True,0.05640296799992939,10,0,0,64512,,APD/APD/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-unaware,APD/APD/Blk512,EI/AD/-,2,PREDICT,direct,True,0.05724114300005567,10,0,0,64512,,APD/APD/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-unaware,APD/APD/Blk512,EI/APD/-,0,SPRAY,direct,True,0.23829175900004884,488,256,1088,64512,0.9866662960471693,APD/APD/Blk512,EI/APD/-,"A random, opener=A"
+block-unaware,APD/APD/Blk512,EI/APD/-,1,SPRAY,direct,True,0.21368793000010555,456,256,1088,64512,0.9866662960471693,APD/APD/Blk512,EI/APD/-,"A random, opener=A"
+block-unaware,APD/APD/Blk512,EI/APD/-,2,SPRAY,direct,True,0.1361653760000081,360,256,1088,64512,0.9866662960471693,APD/APD/Blk512,EI/APD/-,"A random, opener=A"
+block-unaware,APD/APD/Blk512,EI/EI/-,0,PREDICT,direct,True,0.0563170610000725,10,0,0,64512,,APD/APD/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-unaware,APD/APD/Blk512,EI/EI/-,1,PREDICT,direct,True,0.05595008799991774,10,0,0,64512,,APD/APD/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-unaware,APD/APD/Blk512,EI/EI/-,2,PREDICT,direct,True,0.05667850999998336,10,0,0,64512,,APD/APD/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-unaware,APD/EI/Blk512,AD/AD/Fixed,0,PREDICT,direct,True,0.058404730000006566,58,0,0,64512,,APD/EI/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-unaware,APD/EI/Blk512,AD/AD/Fixed,1,PREDICT,direct,True,0.05824830100004874,56,0,0,64512,,APD/EI/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-unaware,APD/EI/Blk512,AD/AD/Fixed,2,PREDICT,direct,True,0.05916248899995935,58,0,0,64512,,APD/EI/Blk512,AD/AD/Fixed,B is lenient and its port is pred
+block-unaware,APD/EI/Blk512,AD/AD/Rand,0,SPRAY,direct,True,0.26391454199995223,520,256,1088,64512,0.9866662960471693,APD/EI/Blk512,AD/AD/Rand,"A random, opener=A"
+block-unaware,APD/EI/Blk512,AD/AD/Rand,1,SPRAY,relay,True,2.5183934409999438,1606,256,1088,64512,0.9866662960471693,APD/EI/Blk512,AD/AD/Rand,"A random, opener=A"
+block-unaware,APD/EI/Blk512,AD/AD/Rand,2,SPRAY,direct,True,0.2159947690000763,456,256,1088,64512,0.9866662960471693,APD/EI/Blk512,AD/AD/Rand,"A random, opener=A"
+block-unaware,APD/EI/Blk512,AD/AD/Seq,0,PREDICT,direct,True,0.058568845999957375,58,0,0,64512,,APD/EI/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-unaware,APD/EI/Blk512,AD/AD/Seq,1,PREDICT,direct,True,0.05844838600000912,56,0,0,64512,,APD/EI/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-unaware,APD/EI/Blk512,AD/AD/Seq,2,PREDICT,direct,True,0.05846048699993389,56,0,0,64512,,APD/EI/Blk512,AD/AD/Seq,B is lenient and its port is pred
+block-unaware,APD/EI/Blk512,AD/APD/Fixed,0,RELAY,relay,True,0.00535008699989703,6,0,0,64512,,APD/EI/Blk512,AD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/EI/Blk512,AD/APD/Fixed,1,RELAY,relay,True,0.005345306999970489,6,0,0,64512,,APD/EI/Blk512,AD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/EI/Blk512,AD/APD/Fixed,2,RELAY,relay,True,0.0053945849999763595,6,0,0,64512,,APD/EI/Blk512,AD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/EI/Blk512,AD/APD/Rand,0,RELAY,relay,True,0.005616175999989537,6,0,0,64512,,APD/EI/Blk512,AD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,APD/EI/Blk512,AD/APD/Rand,1,RELAY,relay,True,0.005867855000019517,6,0,0,64512,,APD/EI/Blk512,AD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,APD/EI/Blk512,AD/APD/Rand,2,RELAY,relay,True,0.005676922000020568,6,0,0,64512,,APD/EI/Blk512,AD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,APD/EI/Blk512,AD/APD/Seq,0,RELAY,relay,True,0.005571490999955131,6,0,0,64512,,APD/EI/Blk512,AD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/EI/Blk512,AD/APD/Seq,1,RELAY,relay,True,0.005539614999975129,6,0,0,64512,,APD/EI/Blk512,AD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/EI/Blk512,AD/APD/Seq,2,RELAY,relay,True,0.005389953999952013,6,0,0,64512,,APD/EI/Blk512,AD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/EI/Blk512,AD/EI/Fixed,0,PREDICT,direct,True,0.05907522600000448,59,0,0,64512,,APD/EI/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-unaware,APD/EI/Blk512,AD/EI/Fixed,1,PREDICT,direct,True,0.06220945399991251,58,0,0,64512,,APD/EI/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-unaware,APD/EI/Blk512,AD/EI/Fixed,2,PREDICT,direct,True,0.05916115499996977,58,0,0,64512,,APD/EI/Blk512,AD/EI/Fixed,B is lenient and its port is pred
+block-unaware,APD/EI/Blk512,AD/EI/Rand,0,SPRAY,direct,True,0.18690090699999473,425,256,1088,64512,0.9866662960471693,APD/EI/Blk512,AD/EI/Rand,"A random, opener=A"
+block-unaware,APD/EI/Blk512,AD/EI/Rand,1,SPRAY,direct,True,0.23622035700009292,488,256,1088,64512,0.9866662960471693,APD/EI/Blk512,AD/EI/Rand,"A random, opener=A"
+block-unaware,APD/EI/Blk512,AD/EI/Rand,2,SPRAY,direct,True,0.31767110700002377,584,256,1088,64512,0.9866662960471693,APD/EI/Blk512,AD/EI/Rand,"A random, opener=A"
+block-unaware,APD/EI/Blk512,AD/EI/Seq,0,PREDICT,direct,True,0.05947742000000744,56,0,0,64512,,APD/EI/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-unaware,APD/EI/Blk512,AD/EI/Seq,1,PREDICT,direct,True,0.05758927500005484,56,0,0,64512,,APD/EI/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-unaware,APD/EI/Blk512,AD/EI/Seq,2,PREDICT,direct,True,0.05814106200000424,58,0,0,64512,,APD/EI/Blk512,AD/EI/Seq,B is lenient and its port is pred
+block-unaware,APD/EI/Blk512,APD/AD/Fixed,0,PREDICT,direct,True,0.061308524999958536,87,0,0,64512,,APD/EI/Blk512,APD/AD/Fixed,B is lenient and its port is pred
+block-unaware,APD/EI/Blk512,APD/AD/Fixed,1,PREDICT,direct,True,0.0633336490000147,88,0,0,64512,,APD/EI/Blk512,APD/AD/Fixed,B is lenient and its port is pred
+block-unaware,APD/EI/Blk512,APD/AD/Fixed,2,PREDICT,direct,True,0.060809941000002254,88,0,0,64512,,APD/EI/Blk512,APD/AD/Fixed,B is lenient and its port is pred
+block-unaware,APD/EI/Blk512,APD/AD/Rand,0,SPRAY,direct,True,0.19923062800000935,424,256,1088,64512,0.9866662960471693,APD/EI/Blk512,APD/AD/Rand,"A random, opener=A"
+block-unaware,APD/EI/Blk512,APD/AD/Rand,1,SPRAY,direct,True,0.3423762940000188,584,256,1088,64512,0.9866662960471693,APD/EI/Blk512,APD/AD/Rand,"A random, opener=A"
+block-unaware,APD/EI/Blk512,APD/AD/Rand,2,SPRAY,direct,True,0.11475825599995915,328,256,1088,64512,0.9866662960471693,APD/EI/Blk512,APD/AD/Rand,"A random, opener=A"
+block-unaware,APD/EI/Blk512,APD/AD/Seq,0,PREDICT,direct,True,0.061010722999981226,87,0,0,64512,,APD/EI/Blk512,APD/AD/Seq,B is lenient and its port is pred
+block-unaware,APD/EI/Blk512,APD/AD/Seq,1,PREDICT,direct,True,0.06305321699994693,88,0,0,64512,,APD/EI/Blk512,APD/AD/Seq,B is lenient and its port is pred
+block-unaware,APD/EI/Blk512,APD/AD/Seq,2,PREDICT,direct,True,0.061540986999943925,90,0,0,64512,,APD/EI/Blk512,APD/AD/Seq,B is lenient and its port is pred
+block-unaware,APD/EI/Blk512,APD/APD/Fixed,0,RELAY,relay,True,0.005456331000004866,6,0,0,64512,,APD/EI/Blk512,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/EI/Blk512,APD/APD/Fixed,1,RELAY,relay,True,0.005347662000076525,6,0,0,64512,,APD/EI/Blk512,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/EI/Blk512,APD/APD/Fixed,2,RELAY,relay,True,0.00580531000002793,6,0,0,64512,,APD/EI/Blk512,APD/APD/Fixed,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/EI/Blk512,APD/APD/Rand,0,RELAY,relay,True,0.005407598000033431,6,0,0,64512,,APD/EI/Blk512,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,APD/EI/Blk512,APD/APD/Rand,1,RELAY,relay,True,0.00539473599997109,6,0,0,64512,,APD/EI/Blk512,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,APD/EI/Blk512,APD/APD/Rand,2,RELAY,relay,True,0.005529480999939551,6,0,0,64512,,APD/EI/Blk512,APD/APD/Rand,"no viable direct method (rand/rand, filters too strict)"
+block-unaware,APD/EI/Blk512,APD/APD/Seq,0,RELAY,relay,True,0.005446620000043367,6,0,0,64512,,APD/EI/Blk512,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/EI/Blk512,APD/APD/Seq,1,RELAY,relay,True,0.0058065140000280735,6,0,0,64512,,APD/EI/Blk512,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/EI/Blk512,APD/APD/Seq,2,RELAY,relay,True,0.005374555000003056,6,0,0,64512,,APD/EI/Blk512,APD/APD/Seq,"no viable direct method (rand/pred, filters too strict)"
+block-unaware,APD/EI/Blk512,APD/EI/Fixed,0,PREDICT,direct,True,0.0633073509999349,88,0,0,64512,,APD/EI/Blk512,APD/EI/Fixed,B is lenient and its port is pred
+block-unaware,APD/EI/Blk512,APD/EI/Fixed,1,PREDICT,direct,True,0.06321530300010636,87,0,0,64512,,APD/EI/Blk512,APD/EI/Fixed,B is lenient and its port is pred
+block-unaware,APD/EI/Blk512,APD/EI/Fixed,2,PREDICT,direct,True,0.059979661000056694,87,0,0,64512,,APD/EI/Blk512,APD/EI/Fixed,B is lenient and its port is pred
+block-unaware,APD/EI/Blk512,APD/EI/Rand,0,SPRAY,direct,True,0.05779174199994941,264,256,1088,64512,0.9866662960471693,APD/EI/Blk512,APD/EI/Rand,"A random, opener=A"
+block-unaware,APD/EI/Blk512,APD/EI/Rand,1,SPRAY,direct,True,0.31176542499997595,552,256,1088,64512,0.9866662960471693,APD/EI/Blk512,APD/EI/Rand,"A random, opener=A"
+block-unaware,APD/EI/Blk512,APD/EI/Rand,2,SPRAY,direct,True,0.12525529300000926,328,256,1088,64512,0.9866662960471693,APD/EI/Blk512,APD/EI/Rand,"A random, opener=A"
+block-unaware,APD/EI/Blk512,APD/EI/Seq,0,PREDICT,direct,True,0.060978371000032894,88,0,0,64512,,APD/EI/Blk512,APD/EI/Seq,B is lenient and its port is pred
+block-unaware,APD/EI/Blk512,APD/EI/Seq,1,PREDICT,direct,True,0.06068045299991809,87,0,0,64512,,APD/EI/Blk512,APD/EI/Seq,B is lenient and its port is pred
+block-unaware,APD/EI/Blk512,APD/EI/Seq,2,PREDICT,direct,True,0.06092744699992636,89,0,0,64512,,APD/EI/Blk512,APD/EI/Seq,B is lenient and its port is pred
+block-unaware,APD/EI/Blk512,EI/AD/-,0,PREDICT,direct,True,0.056012885999962236,12,0,0,64512,,APD/EI/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-unaware,APD/EI/Blk512,EI/AD/-,1,PREDICT,direct,True,0.05640953400006765,12,0,0,64512,,APD/EI/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-unaware,APD/EI/Blk512,EI/AD/-,2,PREDICT,direct,True,0.05624826000007488,12,0,0,64512,,APD/EI/Blk512,EI/AD/-,B is lenient and its port is fixed
+block-unaware,APD/EI/Blk512,EI/APD/-,0,SPRAY,direct,True,0.0822881620000544,296,256,1088,64512,0.9866662960471693,APD/EI/Blk512,EI/APD/-,"A random, opener=A"
+block-unaware,APD/EI/Blk512,EI/APD/-,1,SPRAY,direct,True,0.2136416719999943,456,256,1088,64512,0.9866662960471693,APD/EI/Blk512,EI/APD/-,"A random, opener=A"
+block-unaware,APD/EI/Blk512,EI/APD/-,2,SPRAY,direct,True,0.26453645300000517,520,256,1088,64512,0.9866662960471693,APD/EI/Blk512,EI/APD/-,"A random, opener=A"
+block-unaware,APD/EI/Blk512,EI/EI/-,0,PREDICT,direct,True,0.05634193499997764,12,0,0,64512,,APD/EI/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-unaware,APD/EI/Blk512,EI/EI/-,1,PREDICT,direct,True,0.05664864300001682,12,0,0,64512,,APD/EI/Blk512,EI/EI/-,B is lenient and its port is fixed
+block-unaware,APD/EI/Blk512,EI/EI/-,2,PREDICT,direct,True,0.0561313489999975,12,0,0,64512,,APD/EI/Blk512,EI/EI/-,B is lenient and its port is fixed
+ice,AD/AD/Blk512,AD/AD/Fixed,0,ICE,relay,True,2.5494195889999673,106,,,,,,,
+ice,AD/AD/Blk512,AD/AD/Fixed,1,ICE,relay,True,2.552883903999941,106,,,,,,,
+ice,AD/AD/Blk512,AD/AD/Fixed,2,ICE,relay,True,2.5434354959999155,106,,,,,,,
+ice,AD/AD/Blk512,AD/AD/Rand,0,ICE,relay,True,2.5517508560000124,106,,,,,,,
+ice,AD/AD/Blk512,AD/AD/Rand,1,ICE,relay,True,2.5438771080000606,106,,,,,,,
+ice,AD/AD/Blk512,AD/AD/Rand,2,ICE,relay,True,2.5423059900000453,106,,,,,,,
+ice,AD/AD/Blk512,AD/AD/Seq,0,ICE,relay,True,2.5479376360000288,106,,,,,,,
+ice,AD/AD/Blk512,AD/AD/Seq,1,ICE,relay,True,2.5466680189999806,106,,,,,,,
+ice,AD/AD/Blk512,AD/AD/Seq,2,ICE,relay,True,2.551926451999975,106,,,,,,,
+ice,AD/AD/Blk512,AD/APD/Fixed,0,ICE,relay,True,2.544904609000014,106,,,,,,,
+ice,AD/AD/Blk512,AD/APD/Fixed,1,ICE,relay,True,2.5533783070000027,106,,,,,,,
+ice,AD/AD/Blk512,AD/APD/Fixed,2,ICE,relay,True,2.5477625550000766,106,,,,,,,
+ice,AD/AD/Blk512,AD/APD/Rand,0,ICE,relay,True,2.544464471000083,106,,,,,,,
+ice,AD/AD/Blk512,AD/APD/Rand,1,ICE,relay,True,2.5426864329999717,106,,,,,,,
+ice,AD/AD/Blk512,AD/APD/Rand,2,ICE,relay,True,2.5383263539999916,106,,,,,,,
+ice,AD/AD/Blk512,AD/APD/Seq,0,ICE,relay,True,2.548417868999991,106,,,,,,,
+ice,AD/AD/Blk512,AD/APD/Seq,1,ICE,relay,True,2.548659463999911,106,,,,,,,
+ice,AD/AD/Blk512,AD/APD/Seq,2,ICE,relay,True,2.5527605030000586,106,,,,,,,
+ice,AD/AD/Blk512,AD/EI/Fixed,0,ICE,direct,True,0.1580058370000188,21,,,,,,,
+ice,AD/AD/Blk512,AD/EI/Fixed,1,ICE,direct,True,0.15731321399994158,21,,,,,,,
+ice,AD/AD/Blk512,AD/EI/Fixed,2,ICE,direct,True,0.15746192400001746,21,,,,,,,
+ice,AD/AD/Blk512,AD/EI/Rand,0,ICE,direct,True,0.1588746170000377,21,,,,,,,
+ice,AD/AD/Blk512,AD/EI/Rand,1,ICE,direct,True,0.1585634669999081,21,,,,,,,
+ice,AD/AD/Blk512,AD/EI/Rand,2,ICE,direct,True,0.15914757000007285,21,,,,,,,
+ice,AD/AD/Blk512,AD/EI/Seq,0,ICE,direct,True,0.15793688400003703,21,,,,,,,
+ice,AD/AD/Blk512,AD/EI/Seq,1,ICE,direct,True,0.15830391999998028,21,,,,,,,
+ice,AD/AD/Blk512,AD/EI/Seq,2,ICE,direct,True,0.15822464500001843,21,,,,,,,
+ice,AD/AD/Blk512,APD/AD/Fixed,0,ICE,relay,True,2.5349037119999593,102,,,,,,,
+ice,AD/AD/Blk512,APD/AD/Fixed,1,ICE,relay,True,2.5309434559999318,102,,,,,,,
+ice,AD/AD/Blk512,APD/AD/Fixed,2,ICE,relay,True,2.5507047459999512,106,,,,,,,
+ice,AD/AD/Blk512,APD/AD/Rand,0,ICE,relay,True,2.5513128339999867,106,,,,,,,
+ice,AD/AD/Blk512,APD/AD/Rand,1,ICE,relay,True,2.507247135000057,104,,,,,,,
+ice,AD/AD/Blk512,APD/AD/Rand,2,ICE,relay,True,2.547017672000038,106,,,,,,,
+ice,AD/AD/Blk512,APD/AD/Seq,0,ICE,relay,True,2.546702806999974,106,,,,,,,
+ice,AD/AD/Blk512,APD/AD/Seq,1,ICE,relay,True,2.550387234000027,106,,,,,,,
+ice,AD/AD/Blk512,APD/AD/Seq,2,ICE,relay,True,2.514949713000078,100,,,,,,,
+ice,AD/AD/Blk512,APD/APD/Fixed,0,ICE,relay,True,2.546973524000009,106,,,,,,,
+ice,AD/AD/Blk512,APD/APD/Fixed,1,ICE,relay,True,2.5489242830000194,106,,,,,,,
+ice,AD/AD/Blk512,APD/APD/Fixed,2,ICE,relay,True,2.547674551,106,,,,,,,
+ice,AD/AD/Blk512,APD/APD/Rand,0,ICE,relay,True,2.545693527000026,106,,,,,,,
+ice,AD/AD/Blk512,APD/APD/Rand,1,ICE,relay,True,2.5460722750000286,106,,,,,,,
+ice,AD/AD/Blk512,APD/APD/Rand,2,ICE,relay,True,2.542289119999964,106,,,,,,,
+ice,AD/AD/Blk512,APD/APD/Seq,0,ICE,relay,True,2.5504483680000476,106,,,,,,,
+ice,AD/AD/Blk512,APD/APD/Seq,1,ICE,relay,True,2.5541238859999567,106,,,,,,,
+ice,AD/AD/Blk512,APD/APD/Seq,2,ICE,relay,True,2.5451943640000536,106,,,,,,,
+ice,AD/AD/Blk512,APD/EI/Fixed,0,ICE,direct,True,0.15832095300004312,21,,,,,,,
+ice,AD/AD/Blk512,APD/EI/Fixed,1,ICE,direct,True,0.157594816000028,21,,,,,,,
+ice,AD/AD/Blk512,APD/EI/Fixed,2,ICE,direct,True,0.15826158200002283,21,,,,,,,
+ice,AD/AD/Blk512,APD/EI/Rand,0,ICE,direct,True,0.15831100299999434,21,,,,,,,
+ice,AD/AD/Blk512,APD/EI/Rand,1,ICE,direct,True,0.1590621509999437,21,,,,,,,
+ice,AD/AD/Blk512,APD/EI/Rand,2,ICE,direct,True,0.15796401400007198,21,,,,,,,
+ice,AD/AD/Blk512,APD/EI/Seq,0,ICE,direct,True,0.15778829900000346,21,,,,,,,
+ice,AD/AD/Blk512,APD/EI/Seq,1,ICE,direct,True,0.15794293300007212,21,,,,,,,
+ice,AD/AD/Blk512,APD/EI/Seq,2,ICE,direct,True,0.15774766599997747,21,,,,,,,
+ice,AD/AD/Blk512,EI/AD/-,0,ICE,direct,True,0.10642773300003228,14,,,,,,,
+ice,AD/AD/Blk512,EI/AD/-,1,ICE,direct,True,0.10697111199999654,14,,,,,,,
+ice,AD/AD/Blk512,EI/AD/-,2,ICE,direct,True,0.10700526699997681,14,,,,,,,
+ice,AD/AD/Blk512,EI/APD/-,0,ICE,relay,True,2.546296790999918,106,,,,,,,
+ice,AD/AD/Blk512,EI/APD/-,1,ICE,relay,True,2.548824503999981,106,,,,,,,
+ice,AD/AD/Blk512,EI/APD/-,2,ICE,relay,True,2.546018221000054,106,,,,,,,
+ice,AD/AD/Blk512,EI/EI/-,0,ICE,direct,True,0.10709922399996685,14,,,,,,,
+ice,AD/AD/Blk512,EI/EI/-,1,ICE,direct,True,0.10713730899999518,14,,,,,,,
+ice,AD/AD/Blk512,EI/EI/-,2,ICE,direct,True,0.10713558799989187,14,,,,,,,
+ice,AD/APD/Blk512,AD/AD/Fixed,0,ICE,relay,True,2.5489307340000096,106,,,,,,,
+ice,AD/APD/Blk512,AD/AD/Fixed,1,ICE,relay,True,2.555361909999988,106,,,,,,,
+ice,AD/APD/Blk512,AD/AD/Fixed,2,ICE,relay,True,2.554675866000025,106,,,,,,,
+ice,AD/APD/Blk512,AD/AD/Rand,0,ICE,relay,True,2.5147417900000164,104,,,,,,,
+ice,AD/APD/Blk512,AD/AD/Rand,1,ICE,relay,True,2.555838521999931,106,,,,,,,
+ice,AD/APD/Blk512,AD/AD/Rand,2,ICE,relay,True,2.550651048000077,106,,,,,,,
+ice,AD/APD/Blk512,AD/AD/Seq,0,ICE,relay,True,2.5545525489999363,106,,,,,,,
+ice,AD/APD/Blk512,AD/AD/Seq,1,ICE,relay,True,2.5073854610000126,104,,,,,,,
+ice,AD/APD/Blk512,AD/AD/Seq,2,ICE,relay,True,2.5540782229999195,106,,,,,,,
+ice,AD/APD/Blk512,AD/APD/Fixed,0,ICE,relay,True,2.546470099999965,106,,,,,,,
+ice,AD/APD/Blk512,AD/APD/Fixed,1,ICE,relay,True,2.550605721000011,106,,,,,,,
+ice,AD/APD/Blk512,AD/APD/Fixed,2,ICE,relay,True,2.506056469999976,104,,,,,,,
+ice,AD/APD/Blk512,AD/APD/Rand,0,ICE,relay,True,2.5127266580000196,104,,,,,,,
+ice,AD/APD/Blk512,AD/APD/Rand,1,ICE,relay,True,2.5528885100000025,106,,,,,,,
+ice,AD/APD/Blk512,AD/APD/Rand,2,ICE,relay,True,2.554394505999994,106,,,,,,,
+ice,AD/APD/Blk512,AD/APD/Seq,0,ICE,relay,True,2.5495904629999586,106,,,,,,,
+ice,AD/APD/Blk512,AD/APD/Seq,1,ICE,relay,True,2.5611020640000106,106,,,,,,,
+ice,AD/APD/Blk512,AD/APD/Seq,2,ICE,relay,True,2.550516180999921,106,,,,,,,
+ice,AD/APD/Blk512,AD/EI/Fixed,0,ICE,relay,True,2.547772460000033,205,,,,,,,
+ice,AD/APD/Blk512,AD/EI/Fixed,1,ICE,relay,True,2.555956955000056,205,,,,,,,
+ice,AD/APD/Blk512,AD/EI/Fixed,2,ICE,relay,True,2.545063501999948,205,,,,,,,
+ice,AD/APD/Blk512,AD/EI/Rand,0,ICE,relay,True,2.5504369349999934,205,,,,,,,
+ice,AD/APD/Blk512,AD/EI/Rand,1,ICE,relay,True,2.5474633640000093,205,,,,,,,
+ice,AD/APD/Blk512,AD/EI/Rand,2,ICE,relay,True,2.5467073470000514,205,,,,,,,
+ice,AD/APD/Blk512,AD/EI/Seq,0,ICE,relay,True,2.5549588929999345,205,,,,,,,
+ice,AD/APD/Blk512,AD/EI/Seq,1,ICE,relay,True,2.5479354029999968,205,,,,,,,
+ice,AD/APD/Blk512,AD/EI/Seq,2,ICE,relay,True,2.5494992730000376,205,,,,,,,
+ice,AD/APD/Blk512,APD/AD/Fixed,0,ICE,relay,True,2.548423699000068,106,,,,,,,
+ice,AD/APD/Blk512,APD/AD/Fixed,1,ICE,relay,True,2.5535090349999336,106,,,,,,,
+ice,AD/APD/Blk512,APD/AD/Fixed,2,ICE,relay,True,2.5492628670000386,106,,,,,,,
+ice,AD/APD/Blk512,APD/AD/Rand,0,ICE,relay,True,2.5069524810000985,104,,,,,,,
+ice,AD/APD/Blk512,APD/AD/Rand,1,ICE,relay,True,2.5572961550000173,106,,,,,,,
+ice,AD/APD/Blk512,APD/AD/Rand,2,ICE,relay,True,2.5070694979999644,104,,,,,,,
+ice,AD/APD/Blk512,APD/AD/Seq,0,ICE,relay,True,2.549364532000027,106,,,,,,,
+ice,AD/APD/Blk512,APD/AD/Seq,1,ICE,relay,True,2.547804736000103,106,,,,,,,
+ice,AD/APD/Blk512,APD/AD/Seq,2,ICE,relay,True,2.5536643960000447,106,,,,,,,
+ice,AD/APD/Blk512,APD/APD/Fixed,0,ICE,relay,True,2.5503657179999664,106,,,,,,,
+ice,AD/APD/Blk512,APD/APD/Fixed,1,ICE,relay,True,2.5558553829999937,106,,,,,,,
+ice,AD/APD/Blk512,APD/APD/Fixed,2,ICE,relay,True,2.5497697920000064,106,,,,,,,
+ice,AD/APD/Blk512,APD/APD/Rand,0,ICE,relay,True,2.548642975000007,106,,,,,,,
+ice,AD/APD/Blk512,APD/APD/Rand,1,ICE,relay,True,2.546379430999991,106,,,,,,,
+ice,AD/APD/Blk512,APD/APD/Rand,2,ICE,relay,True,2.5445803580000756,106,,,,,,,
+ice,AD/APD/Blk512,APD/APD/Seq,0,ICE,relay,True,2.5487823760000765,106,,,,,,,
+ice,AD/APD/Blk512,APD/APD/Seq,1,ICE,relay,True,2.5055860700000494,100,,,,,,,
+ice,AD/APD/Blk512,APD/APD/Seq,2,ICE,relay,True,2.5122871369999302,100,,,,,,,
+ice,AD/APD/Blk512,APD/EI/Fixed,0,ICE,relay,True,2.5489518890000227,205,,,,,,,
+ice,AD/APD/Blk512,APD/EI/Fixed,1,ICE,relay,True,2.553819992000058,205,,,,,,,
+ice,AD/APD/Blk512,APD/EI/Fixed,2,ICE,relay,True,2.552181699000016,205,,,,,,,
+ice,AD/APD/Blk512,APD/EI/Rand,0,ICE,relay,True,2.5531394939999927,205,,,,,,,
+ice,AD/APD/Blk512,APD/EI/Rand,1,ICE,relay,True,2.5508521700000983,205,,,,,,,
+ice,AD/APD/Blk512,APD/EI/Rand,2,ICE,relay,True,2.549829038000098,205,,,,,,,
+ice,AD/APD/Blk512,APD/EI/Seq,0,ICE,relay,True,2.5063102500000696,201,,,,,,,
+ice,AD/APD/Blk512,APD/EI/Seq,1,ICE,relay,True,2.5524846150000258,205,,,,,,,
+ice,AD/APD/Blk512,APD/EI/Seq,2,ICE,relay,True,2.5531765770000447,205,,,,,,,
+ice,AD/APD/Blk512,EI/AD/-,0,ICE,direct,True,0.10746022399996491,14,,,,,,,
+ice,AD/APD/Blk512,EI/AD/-,1,ICE,direct,True,0.10817647999999735,14,,,,,,,
+ice,AD/APD/Blk512,EI/AD/-,2,ICE,direct,True,0.10696785400000408,14,,,,,,,
+ice,AD/APD/Blk512,EI/APD/-,0,ICE,relay,True,2.545766942,106,,,,,,,
+ice,AD/APD/Blk512,EI/APD/-,1,ICE,relay,True,2.5549218559999645,106,,,,,,,
+ice,AD/APD/Blk512,EI/APD/-,2,ICE,relay,True,2.5081074130000616,104,,,,,,,
+ice,AD/APD/Blk512,EI/EI/-,0,ICE,direct,True,0.10722024599999713,14,,,,,,,
+ice,AD/APD/Blk512,EI/EI/-,1,ICE,direct,True,0.10708503499995459,14,,,,,,,
+ice,AD/APD/Blk512,EI/EI/-,2,ICE,direct,True,0.106904401999941,14,,,,,,,
+ice,AD/EI/Blk512,AD/AD/Fixed,0,ICE,direct,True,0.157105647000094,21,,,,,,,
+ice,AD/EI/Blk512,AD/AD/Fixed,1,ICE,direct,True,0.15667096900006072,21,,,,,,,
+ice,AD/EI/Blk512,AD/AD/Fixed,2,ICE,direct,True,0.15764566300003935,21,,,,,,,
+ice,AD/EI/Blk512,AD/AD/Rand,0,ICE,direct,True,0.15718116199991528,21,,,,,,,
+ice,AD/EI/Blk512,AD/AD/Rand,1,ICE,direct,True,0.1595063790000495,21,,,,,,,
+ice,AD/EI/Blk512,AD/AD/Rand,2,ICE,direct,True,0.1595627180000747,21,,,,,,,
+ice,AD/EI/Blk512,AD/AD/Seq,0,ICE,direct,True,0.1576500029999579,21,,,,,,,
+ice,AD/EI/Blk512,AD/AD/Seq,1,ICE,direct,True,0.15785721100007777,21,,,,,,,
+ice,AD/EI/Blk512,AD/AD/Seq,2,ICE,direct,True,0.15822037700002056,21,,,,,,,
+ice,AD/EI/Blk512,AD/APD/Fixed,0,ICE,relay,True,2.5483417099999315,205,,,,,,,
+ice,AD/EI/Blk512,AD/APD/Fixed,1,ICE,relay,True,2.5443495089999715,205,,,,,,,
+ice,AD/EI/Blk512,AD/APD/Fixed,2,ICE,relay,True,2.55239610000001,205,,,,,,,
+ice,AD/EI/Blk512,AD/APD/Rand,0,ICE,relay,True,2.5493246690000433,205,,,,,,,
+ice,AD/EI/Blk512,AD/APD/Rand,1,ICE,relay,True,2.542873327999928,205,,,,,,,
+ice,AD/EI/Blk512,AD/APD/Rand,2,ICE,relay,True,2.540704154000082,205,,,,,,,
+ice,AD/EI/Blk512,AD/APD/Seq,0,ICE,relay,True,2.548679557000014,205,,,,,,,
+ice,AD/EI/Blk512,AD/APD/Seq,1,ICE,relay,True,2.552252969000051,205,,,,,,,
+ice,AD/EI/Blk512,AD/APD/Seq,2,ICE,relay,True,2.5534974559999455,205,,,,,,,
+ice,AD/EI/Blk512,AD/EI/Fixed,0,ICE,direct,True,0.10665429599998788,18,,,,,,,
+ice,AD/EI/Blk512,AD/EI/Fixed,1,ICE,direct,True,0.1071890320000648,18,,,,,,,
+ice,AD/EI/Blk512,AD/EI/Fixed,2,ICE,direct,True,0.10567286699995293,18,,,,,,,
+ice,AD/EI/Blk512,AD/EI/Rand,0,ICE,direct,True,0.10609860399995341,18,,,,,,,
+ice,AD/EI/Blk512,AD/EI/Rand,1,ICE,direct,True,0.10741955499997857,18,,,,,,,
+ice,AD/EI/Blk512,AD/EI/Rand,2,ICE,direct,True,0.10842030499998145,18,,,,,,,
+ice,AD/EI/Blk512,AD/EI/Seq,0,ICE,direct,True,0.10656440299999304,18,,,,,,,
+ice,AD/EI/Blk512,AD/EI/Seq,1,ICE,direct,True,0.10686719900002117,18,,,,,,,
+ice,AD/EI/Blk512,AD/EI/Seq,2,ICE,direct,True,0.10707350500001667,18,,,,,,,
+ice,AD/EI/Blk512,APD/AD/Fixed,0,ICE,direct,True,0.20827477700004238,30,,,,,,,
+ice,AD/EI/Blk512,APD/AD/Fixed,1,ICE,direct,True,0.2087926609999613,30,,,,,,,
+ice,AD/EI/Blk512,APD/AD/Fixed,2,ICE,direct,True,0.20953811599997607,30,,,,,,,
+ice,AD/EI/Blk512,APD/AD/Rand,0,ICE,direct,True,0.20887504600000284,30,,,,,,,
+ice,AD/EI/Blk512,APD/AD/Rand,1,ICE,direct,True,0.21543768200001523,30,,,,,,,
+ice,AD/EI/Blk512,APD/AD/Rand,2,ICE,direct,True,0.20888493699999344,30,,,,,,,
+ice,AD/EI/Blk512,APD/AD/Seq,0,ICE,direct,True,0.20863062299997637,30,,,,,,,
+ice,AD/EI/Blk512,APD/AD/Seq,1,ICE,direct,True,0.2088008489999993,30,,,,,,,
+ice,AD/EI/Blk512,APD/AD/Seq,2,ICE,direct,True,0.20910098499996366,30,,,,,,,
+ice,AD/EI/Blk512,APD/APD/Fixed,0,ICE,relay,True,2.5061444099999335,201,,,,,,,
+ice,AD/EI/Blk512,APD/APD/Fixed,1,ICE,relay,True,2.549031118999892,205,,,,,,,
+ice,AD/EI/Blk512,APD/APD/Fixed,2,ICE,relay,True,2.550031640000043,205,,,,,,,
+ice,AD/EI/Blk512,APD/APD/Rand,0,ICE,relay,True,2.5520353770000384,205,,,,,,,
+ice,AD/EI/Blk512,APD/APD/Rand,1,ICE,relay,True,2.547718883000016,205,,,,,,,
+ice,AD/EI/Blk512,APD/APD/Rand,2,ICE,relay,True,2.5506132269999853,205,,,,,,,
+ice,AD/EI/Blk512,APD/APD/Seq,0,ICE,relay,True,2.5456899749999593,205,,,,,,,
+ice,AD/EI/Blk512,APD/APD/Seq,1,ICE,relay,True,2.551614496999946,205,,,,,,,
+ice,AD/EI/Blk512,APD/APD/Seq,2,ICE,relay,True,2.507079568999984,201,,,,,,,
+ice,AD/EI/Blk512,APD/EI/Fixed,0,ICE,direct,True,0.15820414799998161,28,,,,,,,
+ice,AD/EI/Blk512,APD/EI/Fixed,1,ICE,direct,True,0.15803122799991343,28,,,,,,,
+ice,AD/EI/Blk512,APD/EI/Fixed,2,ICE,direct,True,0.1583452249999482,28,,,,,,,
+ice,AD/EI/Blk512,APD/EI/Rand,0,ICE,direct,True,0.15688321400000405,28,,,,,,,
+ice,AD/EI/Blk512,APD/EI/Rand,1,ICE,direct,True,0.1567147670000395,28,,,,,,,
+ice,AD/EI/Blk512,APD/EI/Rand,2,ICE,direct,True,0.15757733700002063,28,,,,,,,
+ice,AD/EI/Blk512,APD/EI/Seq,0,ICE,direct,True,0.15979032300003837,28,,,,,,,
+ice,AD/EI/Blk512,APD/EI/Seq,1,ICE,direct,True,0.15762497399998665,28,,,,,,,
+ice,AD/EI/Blk512,APD/EI/Seq,2,ICE,direct,True,0.15804584900001828,28,,,,,,,
+ice,AD/EI/Blk512,EI/AD/-,0,ICE,direct,True,0.10656611600006727,16,,,,,,,
+ice,AD/EI/Blk512,EI/AD/-,1,ICE,direct,True,0.10831509799993455,16,,,,,,,
+ice,AD/EI/Blk512,EI/AD/-,2,ICE,direct,True,0.10861884799999189,16,,,,,,,
+ice,AD/EI/Blk512,EI/APD/-,0,ICE,relay,True,2.545153558999914,156,,,,,,,
+ice,AD/EI/Blk512,EI/APD/-,1,ICE,relay,True,2.5435844900000575,156,,,,,,,
+ice,AD/EI/Blk512,EI/APD/-,2,ICE,relay,True,2.5440400200000113,156,,,,,,,
+ice,AD/EI/Blk512,EI/EI/-,0,ICE,direct,True,0.10707765299991934,16,,,,,,,
+ice,AD/EI/Blk512,EI/EI/-,1,ICE,direct,True,0.10680960100000902,16,,,,,,,
+ice,AD/EI/Blk512,EI/EI/-,2,ICE,direct,True,0.10743747499998335,16,,,,,,,
+ice,APD/AD/Blk512,AD/AD/Fixed,0,ICE,relay,True,2.509686646999967,104,,,,,,,
+ice,APD/AD/Blk512,AD/AD/Fixed,1,ICE,relay,True,2.5097311340000488,104,,,,,,,
+ice,APD/AD/Blk512,AD/AD/Fixed,2,ICE,relay,True,2.550909317999981,106,,,,,,,
+ice,APD/AD/Blk512,AD/AD/Rand,0,ICE,relay,True,2.551816988999917,106,,,,,,,
+ice,APD/AD/Blk512,AD/AD/Rand,1,ICE,relay,True,2.509274504000018,104,,,,,,,
+ice,APD/AD/Blk512,AD/AD/Rand,2,ICE,relay,True,2.55726491300004,105,,,,,,,
+ice,APD/AD/Blk512,AD/AD/Seq,0,ICE,relay,True,2.5536565709999195,106,,,,,,,
+ice,APD/AD/Blk512,AD/AD/Seq,1,ICE,relay,True,2.5531156309999687,106,,,,,,,
+ice,APD/AD/Blk512,AD/AD/Seq,2,ICE,relay,True,2.554127626999957,106,,,,,,,
+ice,APD/AD/Blk512,AD/APD/Fixed,0,ICE,relay,True,2.548160472999939,106,,,,,,,
+ice,APD/AD/Blk512,AD/APD/Fixed,1,ICE,relay,True,2.507333448000054,104,,,,,,,
+ice,APD/AD/Blk512,AD/APD/Fixed,2,ICE,relay,True,2.5553019940000468,106,,,,,,,
+ice,APD/AD/Blk512,AD/APD/Rand,0,ICE,relay,True,2.547274434999963,106,,,,,,,
+ice,APD/AD/Blk512,AD/APD/Rand,1,ICE,relay,True,2.548050988,106,,,,,,,
+ice,APD/AD/Blk512,AD/APD/Rand,2,ICE,relay,True,2.548009652000019,106,,,,,,,
+ice,APD/AD/Blk512,AD/APD/Seq,0,ICE,relay,True,2.5557225759999938,106,,,,,,,
+ice,APD/AD/Blk512,AD/APD/Seq,1,ICE,relay,True,2.5484148769999138,106,,,,,,,
+ice,APD/AD/Blk512,AD/APD/Seq,2,ICE,relay,True,2.5523738140000205,106,,,,,,,
+ice,APD/AD/Blk512,AD/EI/Fixed,0,ICE,direct,True,0.2091238190000695,30,,,,,,,
+ice,APD/AD/Blk512,AD/EI/Fixed,1,ICE,direct,True,0.20794103299999733,30,,,,,,,
+ice,APD/AD/Blk512,AD/EI/Fixed,2,ICE,direct,True,0.20843035700011114,30,,,,,,,
+ice,APD/AD/Blk512,AD/EI/Rand,0,ICE,direct,True,0.20998658099995282,30,,,,,,,
+ice,APD/AD/Blk512,AD/EI/Rand,1,ICE,direct,True,0.209356439999965,30,,,,,,,
+ice,APD/AD/Blk512,AD/EI/Rand,2,ICE,direct,True,0.2088112370000772,30,,,,,,,
+ice,APD/AD/Blk512,AD/EI/Seq,0,ICE,direct,True,0.208318644999963,30,,,,,,,
+ice,APD/AD/Blk512,AD/EI/Seq,1,ICE,direct,True,0.20988137999995615,30,,,,,,,
+ice,APD/AD/Blk512,AD/EI/Seq,2,ICE,direct,True,0.209657112000059,30,,,,,,,
+ice,APD/AD/Blk512,APD/AD/Fixed,0,ICE,relay,True,2.5097962010000856,104,,,,,,,
+ice,APD/AD/Blk512,APD/AD/Fixed,1,ICE,relay,True,2.5131546620000336,104,,,,,,,
+ice,APD/AD/Blk512,APD/AD/Fixed,2,ICE,relay,True,2.553632764999975,106,,,,,,,
+ice,APD/AD/Blk512,APD/AD/Rand,0,ICE,relay,True,2.555194850000021,106,,,,,,,
+ice,APD/AD/Blk512,APD/AD/Rand,1,ICE,relay,True,2.546006735999981,106,,,,,,,
+ice,APD/AD/Blk512,APD/AD/Rand,2,ICE,relay,True,2.5543341940000346,106,,,,,,,
+ice,APD/AD/Blk512,APD/AD/Seq,0,ICE,relay,True,2.550155818999997,106,,,,,,,
+ice,APD/AD/Blk512,APD/AD/Seq,1,ICE,relay,True,2.5539945709999756,106,,,,,,,
+ice,APD/AD/Blk512,APD/AD/Seq,2,ICE,relay,True,2.5090203330000804,104,,,,,,,
+ice,APD/AD/Blk512,APD/APD/Fixed,0,ICE,relay,True,2.50628747199994,104,,,,,,,
+ice,APD/AD/Blk512,APD/APD/Fixed,1,ICE,relay,True,2.5469233440001062,106,,,,,,,
+ice,APD/AD/Blk512,APD/APD/Fixed,2,ICE,relay,True,2.5477266650000274,106,,,,,,,
+ice,APD/AD/Blk512,APD/APD/Rand,0,ICE,relay,True,2.547661975999972,106,,,,,,,
+ice,APD/AD/Blk512,APD/APD/Rand,1,ICE,relay,True,2.5468842679999852,106,,,,,,,
+ice,APD/AD/Blk512,APD/APD/Rand,2,ICE,relay,True,2.5459347559999514,106,,,,,,,
+ice,APD/AD/Blk512,APD/APD/Seq,0,ICE,relay,True,2.5410112359999175,104,,,,,,,
+ice,APD/AD/Blk512,APD/APD/Seq,1,ICE,relay,True,2.5528206279999495,106,,,,,,,
+ice,APD/AD/Blk512,APD/APD/Seq,2,ICE,relay,True,2.5496772229998896,106,,,,,,,
+ice,APD/AD/Blk512,APD/EI/Fixed,0,ICE,relay,True,2.512300097999969,3085,,,,,,,
+ice,APD/AD/Blk512,APD/EI/Fixed,1,ICE,relay,True,2.5320746870000903,2505,,,,,,,
+ice,APD/AD/Blk512,APD/EI/Fixed,2,ICE,relay,True,2.533494319000056,2771,,,,,,,
+ice,APD/AD/Blk512,APD/EI/Rand,0,ICE,relay,True,2.538742500000012,3931,,,,,,,
+ice,APD/AD/Blk512,APD/EI/Rand,1,ICE,relay,True,2.553930926000021,2890,,,,,,,
+ice,APD/AD/Blk512,APD/EI/Rand,2,ICE,relay,True,2.551385664999998,2846,,,,,,,
+ice,APD/AD/Blk512,APD/EI/Seq,0,ICE,relay,True,2.510822585000028,2669,,,,,,,
+ice,APD/AD/Blk512,APD/EI/Seq,1,ICE,relay,True,2.5542371639999146,3231,,,,,,,
+ice,APD/AD/Blk512,APD/EI/Seq,2,ICE,relay,True,2.5071520809999583,2505,,,,,,,
+ice,APD/AD/Blk512,EI/AD/-,0,ICE,direct,True,0.10609992100000909,14,,,,,,,
+ice,APD/AD/Blk512,EI/AD/-,1,ICE,direct,True,0.10653025900001012,14,,,,,,,
+ice,APD/AD/Blk512,EI/AD/-,2,ICE,direct,True,0.10685066200005622,14,,,,,,,
+ice,APD/AD/Blk512,EI/APD/-,0,ICE,relay,True,2.5381176839999853,94,,,,,,,
+ice,APD/AD/Blk512,EI/APD/-,1,ICE,relay,True,2.5536845889999995,94,,,,,,,
+ice,APD/AD/Blk512,EI/APD/-,2,ICE,relay,True,2.5478627090000145,106,,,,,,,
+ice,APD/AD/Blk512,EI/EI/-,0,ICE,direct,True,0.10697791500001586,14,,,,,,,
+ice,APD/AD/Blk512,EI/EI/-,1,ICE,direct,True,0.10741602099994907,14,,,,,,,
+ice,APD/AD/Blk512,EI/EI/-,2,ICE,direct,True,0.10749517499993999,14,,,,,,,
+ice,APD/APD/Blk512,AD/AD/Fixed,0,ICE,relay,True,2.549897989000101,106,,,,,,,
+ice,APD/APD/Blk512,AD/AD/Fixed,1,ICE,relay,True,2.5507550649999757,106,,,,,,,
+ice,APD/APD/Blk512,AD/AD/Fixed,2,ICE,relay,True,2.551383522000151,106,,,,,,,
+ice,APD/APD/Blk512,AD/AD/Rand,0,ICE,relay,True,2.5133935390001625,88,,,,,,,
+ice,APD/APD/Blk512,AD/AD/Rand,1,ICE,relay,True,2.5900080349999826,70,,,,,,,
+ice,APD/APD/Blk512,AD/AD/Rand,2,ICE,relay,True,2.5226336059999994,84,,,,,,,
+ice,APD/APD/Blk512,AD/AD/Seq,0,ICE,relay,True,2.550085054999954,106,,,,,,,
+ice,APD/APD/Blk512,AD/AD/Seq,1,ICE,relay,True,2.516863892000174,104,,,,,,,
+ice,APD/APD/Blk512,AD/AD/Seq,2,ICE,relay,True,2.5163565670000025,104,,,,,,,
+ice,APD/APD/Blk512,AD/APD/Fixed,0,ICE,relay,True,2.5495467590001226,106,,,,,,,
+ice,APD/APD/Blk512,AD/APD/Fixed,1,ICE,relay,True,2.55098552000004,106,,,,,,,
+ice,APD/APD/Blk512,AD/APD/Fixed,2,ICE,relay,True,2.551649131999966,106,,,,,,,
+ice,APD/APD/Blk512,AD/APD/Rand,0,ICE,relay,True,2.555899924999949,106,,,,,,,
+ice,APD/APD/Blk512,AD/APD/Rand,1,ICE,relay,True,2.554533784999876,106,,,,,,,
+ice,APD/APD/Blk512,AD/APD/Rand,2,ICE,relay,True,2.5566098379999858,106,,,,,,,
+ice,APD/APD/Blk512,AD/APD/Seq,0,ICE,relay,True,2.549032514000146,106,,,,,,,
+ice,APD/APD/Blk512,AD/APD/Seq,1,ICE,relay,True,2.5517128669998783,106,,,,,,,
+ice,APD/APD/Blk512,AD/APD/Seq,2,ICE,relay,True,2.5539269160001368,106,,,,,,,
+ice,APD/APD/Blk512,AD/EI/Fixed,0,ICE,relay,True,2.548401297000055,205,,,,,,,
+ice,APD/APD/Blk512,AD/EI/Fixed,1,ICE,relay,True,2.556134178999855,205,,,,,,,
+ice,APD/APD/Blk512,AD/EI/Fixed,2,ICE,relay,True,2.549549792999869,205,,,,,,,
+ice,APD/APD/Blk512,AD/EI/Rand,0,ICE,relay,True,2.5353107470000396,173,,,,,,,
+ice,APD/APD/Blk512,AD/EI/Rand,1,ICE,relay,True,2.5400024319999375,173,,,,,,,
+ice,APD/APD/Blk512,AD/EI/Rand,2,ICE,relay,True,2.5443826409998564,205,,,,,,,
+ice,APD/APD/Blk512,AD/EI/Seq,0,ICE,relay,True,2.5086646139998265,201,,,,,,,
+ice,APD/APD/Blk512,AD/EI/Seq,1,ICE,relay,True,2.5466798540001037,205,,,,,,,
+ice,APD/APD/Blk512,AD/EI/Seq,2,ICE,relay,True,2.5148614979998456,201,,,,,,,
+ice,APD/APD/Blk512,APD/AD/Fixed,0,ICE,relay,True,2.5065643529999306,104,,,,,,,
+ice,APD/APD/Blk512,APD/AD/Fixed,1,ICE,relay,True,2.554078833999938,106,,,,,,,
+ice,APD/APD/Blk512,APD/AD/Fixed,2,ICE,relay,True,2.5500541220001196,106,,,,,,,
+ice,APD/APD/Blk512,APD/AD/Rand,0,ICE,relay,True,2.555937608000022,106,,,,,,,
+ice,APD/APD/Blk512,APD/AD/Rand,1,ICE,relay,True,2.556244328000048,106,,,,,,,
+ice,APD/APD/Blk512,APD/AD/Rand,2,ICE,relay,True,2.552056056000083,106,,,,,,,
+ice,APD/APD/Blk512,APD/AD/Seq,0,ICE,relay,True,2.5071725779998815,104,,,,,,,
+ice,APD/APD/Blk512,APD/AD/Seq,1,ICE,relay,True,2.554442133999828,106,,,,,,,
+ice,APD/APD/Blk512,APD/AD/Seq,2,ICE,relay,True,2.50916353599996,104,,,,,,,
+ice,APD/APD/Blk512,APD/APD/Fixed,0,ICE,relay,True,2.50795608500016,102,,,,,,,
+ice,APD/APD/Blk512,APD/APD/Fixed,1,ICE,relay,True,2.5513697760000014,104,,,,,,,
+ice,APD/APD/Blk512,APD/APD/Fixed,2,ICE,relay,True,2.5343920929999513,104,,,,,,,
+ice,APD/APD/Blk512,APD/APD/Rand,0,ICE,relay,True,2.5077601829998457,104,,,,,,,
+ice,APD/APD/Blk512,APD/APD/Rand,1,ICE,relay,True,2.5505034259999775,106,,,,,,,
+ice,APD/APD/Blk512,APD/APD/Rand,2,ICE,relay,True,2.545427360999838,106,,,,,,,
+ice,APD/APD/Blk512,APD/APD/Seq,0,ICE,relay,True,2.5111901650000163,104,,,,,,,
+ice,APD/APD/Blk512,APD/APD/Seq,1,ICE,relay,True,2.51665152999999,104,,,,,,,
+ice,APD/APD/Blk512,APD/APD/Seq,2,ICE,relay,True,2.5162428830001318,104,,,,,,,
+ice,APD/APD/Blk512,APD/EI/Fixed,0,ICE,relay,True,2.547062058999927,205,,,,,,,
+ice,APD/APD/Blk512,APD/EI/Fixed,1,ICE,relay,True,2.547986940999863,205,,,,,,,
+ice,APD/APD/Blk512,APD/EI/Fixed,2,ICE,relay,True,2.5455581220001022,205,,,,,,,
+ice,APD/APD/Blk512,APD/EI/Rand,0,ICE,relay,True,2.551732699000013,205,,,,,,,
+ice,APD/APD/Blk512,APD/EI/Rand,1,ICE,relay,True,2.55346263499996,205,,,,,,,
+ice,APD/APD/Blk512,APD/EI/Rand,2,ICE,relay,True,2.5560129330001473,205,,,,,,,
+ice,APD/APD/Blk512,APD/EI/Seq,0,ICE,relay,True,2.547761049999963,205,,,,,,,
+ice,APD/APD/Blk512,APD/EI/Seq,1,ICE,relay,True,2.544753217000107,205,,,,,,,
+ice,APD/APD/Blk512,APD/EI/Seq,2,ICE,relay,True,2.5430596329999844,205,,,,,,,
+ice,APD/APD/Blk512,EI/AD/-,0,ICE,direct,True,0.10701091299984,14,,,,,,,
+ice,APD/APD/Blk512,EI/AD/-,1,ICE,direct,True,0.10794493100002,14,,,,,,,
+ice,APD/APD/Blk512,EI/AD/-,2,ICE,direct,True,0.10812608700007331,14,,,,,,,
+ice,APD/APD/Blk512,EI/APD/-,0,ICE,relay,True,2.5481065449998823,106,,,,,,,
+ice,APD/APD/Blk512,EI/APD/-,1,ICE,relay,True,2.5475226309999925,106,,,,,,,
+ice,APD/APD/Blk512,EI/APD/-,2,ICE,relay,True,2.5490397769999618,106,,,,,,,
+ice,APD/APD/Blk512,EI/EI/-,0,ICE,direct,True,0.1076604260001659,14,,,,,,,
+ice,APD/APD/Blk512,EI/EI/-,1,ICE,direct,True,0.10811593800008268,14,,,,,,,
+ice,APD/APD/Blk512,EI/EI/-,2,ICE,direct,True,0.10719280299986167,14,,,,,,,
+ice,APD/EI/Blk512,AD/AD/Fixed,0,ICE,direct,True,0.158883696000089,21,,,,,,,
+ice,APD/EI/Blk512,AD/AD/Fixed,1,ICE,direct,True,0.1575034909999431,21,,,,,,,
+ice,APD/EI/Blk512,AD/AD/Fixed,2,ICE,direct,True,0.1590957519999847,21,,,,,,,
+ice,APD/EI/Blk512,AD/AD/Rand,0,ICE,direct,True,0.15715506900005494,21,,,,,,,
+ice,APD/EI/Blk512,AD/AD/Rand,1,ICE,direct,True,0.15803006600003755,21,,,,,,,
+ice,APD/EI/Blk512,AD/AD/Rand,2,ICE,direct,True,0.15824643799999194,21,,,,,,,
+ice,APD/EI/Blk512,AD/AD/Seq,0,ICE,direct,True,0.15861052499997186,21,,,,,,,
+ice,APD/EI/Blk512,AD/AD/Seq,1,ICE,direct,True,0.15819795400000203,21,,,,,,,
+ice,APD/EI/Blk512,AD/AD/Seq,2,ICE,direct,True,0.15740155000003142,21,,,,,,,
+ice,APD/EI/Blk512,AD/APD/Fixed,0,ICE,relay,True,2.5469953059999852,205,,,,,,,
+ice,APD/EI/Blk512,AD/APD/Fixed,1,ICE,relay,True,2.551949473000036,205,,,,,,,
+ice,APD/EI/Blk512,AD/APD/Fixed,2,ICE,relay,True,2.5064178290000427,201,,,,,,,
+ice,APD/EI/Blk512,AD/APD/Rand,0,ICE,relay,True,2.554478700000004,205,,,,,,,
+ice,APD/EI/Blk512,AD/APD/Rand,1,ICE,relay,True,2.548017234999975,205,,,,,,,
+ice,APD/EI/Blk512,AD/APD/Rand,2,ICE,relay,True,2.553206478999982,205,,,,,,,
+ice,APD/EI/Blk512,AD/APD/Seq,0,ICE,relay,True,2.545013066000024,205,,,,,,,
+ice,APD/EI/Blk512,AD/APD/Seq,1,ICE,relay,True,2.5564373260000366,203,,,,,,,
+ice,APD/EI/Blk512,AD/APD/Seq,2,ICE,relay,True,2.5535382459999028,205,,,,,,,
+ice,APD/EI/Blk512,AD/EI/Fixed,0,ICE,direct,True,0.15692885000009937,28,,,,,,,
+ice,APD/EI/Blk512,AD/EI/Fixed,1,ICE,direct,True,0.16004716899999494,28,,,,,,,
+ice,APD/EI/Blk512,AD/EI/Fixed,2,ICE,direct,True,0.16115740400005052,28,,,,,,,
+ice,APD/EI/Blk512,AD/EI/Rand,0,ICE,direct,True,0.1574813390000145,28,,,,,,,
+ice,APD/EI/Blk512,AD/EI/Rand,1,ICE,direct,True,0.1570733300000029,28,,,,,,,
+ice,APD/EI/Blk512,AD/EI/Rand,2,ICE,direct,True,0.15733555199994953,28,,,,,,,
+ice,APD/EI/Blk512,AD/EI/Seq,0,ICE,direct,True,0.157654191000006,28,,,,,,,
+ice,APD/EI/Blk512,AD/EI/Seq,1,ICE,direct,True,0.15910126400001445,28,,,,,,,
+ice,APD/EI/Blk512,AD/EI/Seq,2,ICE,direct,True,0.1575044879999723,28,,,,,,,
+ice,APD/EI/Blk512,APD/AD/Fixed,0,ICE,relay,True,2.5191685319999806,4145,,,,,,,
+ice,APD/EI/Blk512,APD/AD/Fixed,1,ICE,relay,True,2.5538020090000373,3284,,,,,,,
+ice,APD/EI/Blk512,APD/AD/Fixed,2,ICE,relay,True,2.5086149449999766,2925,,,,,,,
+ice,APD/EI/Blk512,APD/AD/Rand,0,ICE,relay,True,2.5556744100000515,3728,,,,,,,
+ice,APD/EI/Blk512,APD/AD/Rand,1,ICE,relay,True,2.554776706000098,2606,,,,,,,
+ice,APD/EI/Blk512,APD/AD/Rand,2,ICE,relay,True,2.509531681999988,3407,,,,,,,
+ice,APD/EI/Blk512,APD/AD/Seq,0,ICE,relay,True,2.5165799249999736,2715,,,,,,,
+ice,APD/EI/Blk512,APD/AD/Seq,1,ICE,relay,True,2.516516589999924,2547,,,,,,,
+ice,APD/EI/Blk512,APD/AD/Seq,2,ICE,relay,True,2.52023739699996,4145,,,,,,,
+ice,APD/EI/Blk512,APD/APD/Fixed,0,ICE,relay,True,2.551052279999908,205,,,,,,,
+ice,APD/EI/Blk512,APD/APD/Fixed,1,ICE,relay,True,2.5057717820000107,201,,,,,,,
+ice,APD/EI/Blk512,APD/APD/Fixed,2,ICE,relay,True,2.5489982660000123,205,,,,,,,
+ice,APD/EI/Blk512,APD/APD/Rand,0,ICE,relay,True,2.5509702570000172,205,,,,,,,
+ice,APD/EI/Blk512,APD/APD/Rand,1,ICE,relay,True,2.553971623000052,205,,,,,,,
+ice,APD/EI/Blk512,APD/APD/Rand,2,ICE,relay,True,2.5551840059999904,205,,,,,,,
+ice,APD/EI/Blk512,APD/APD/Seq,0,ICE,relay,True,2.5510974679999663,205,,,,,,,
+ice,APD/EI/Blk512,APD/APD/Seq,1,ICE,relay,True,2.5532711650000692,205,,,,,,,
+ice,APD/EI/Blk512,APD/APD/Seq,2,ICE,relay,True,2.5518712450000294,205,,,,,,,
+ice,APD/EI/Blk512,APD/EI/Fixed,0,ICE,relay,True,2.531251518999966,5984,,,,,,,
+ice,APD/EI/Blk512,APD/EI/Fixed,1,ICE,relay,True,2.5320717939999895,5746,,,,,,,
+ice,APD/EI/Blk512,APD/EI/Fixed,2,ICE,relay,True,2.53967732000001,6706,,,,,,,
+ice,APD/EI/Blk512,APD/EI/Rand,0,ICE,relay,True,2.5236559679999573,7088,,,,,,,
+ice,APD/EI/Blk512,APD/EI/Rand,1,ICE,relay,True,2.529674855000053,6074,,,,,,,
+ice,APD/EI/Blk512,APD/EI/Rand,2,ICE,relay,True,2.526679401000024,5484,,,,,,,
+ice,APD/EI/Blk512,APD/EI/Seq,0,ICE,relay,True,2.528121270999918,7948,,,,,,,
+ice,APD/EI/Blk512,APD/EI/Seq,1,ICE,relay,True,2.5143087110000124,6170,,,,,,,
+ice,APD/EI/Blk512,APD/EI/Seq,2,ICE,relay,True,2.5311058979999643,7100,,,,,,,
+ice,APD/EI/Blk512,EI/AD/-,0,ICE,direct,True,0.10756545000003825,16,,,,,,,
+ice,APD/EI/Blk512,EI/AD/-,1,ICE,direct,True,0.10738504199991894,16,,,,,,,
+ice,APD/EI/Blk512,EI/AD/-,2,ICE,direct,True,0.10629167799993411,16,,,,,,,
+ice,APD/EI/Blk512,EI/APD/-,0,ICE,relay,True,2.5420685189999404,156,,,,,,,
+ice,APD/EI/Blk512,EI/APD/-,1,ICE,relay,True,2.5447066569998924,156,,,,,,,
+ice,APD/EI/Blk512,EI/APD/-,2,ICE,relay,True,2.5394726669999272,156,,,,,,,
+ice,APD/EI/Blk512,EI/EI/-,0,ICE,direct,True,0.1068362140000545,16,,,,,,,
+ice,APD/EI/Blk512,EI/EI/-,1,ICE,direct,True,0.10648705999994945,16,,,,,,,
+ice,APD/EI/Blk512,EI/EI/-,2,ICE,direct,True,0.106909523000013,16,,,,,,,

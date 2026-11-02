@@ -1,0 +1,60 @@
+adaptive full-cone       full-cone       t0 plan=DIRECT  path=direct t=0.057s prof=EI/EI/-|EI/EI/- 
+aioice   full-cone       full-cone       t0 plan=ICE     path=relay  t=15.009s prof=| TimeoutError
+adaptive full-cone       full-cone       t1 plan=DIRECT  path=direct t=0.058s prof=EI/EI/-|EI/EI/- 
+aioice   full-cone       full-cone       t1 plan=ICE     path=direct t=0.041s prof=| 
+adaptive full-cone       full-cone       t2 plan=DIRECT  path=direct t=0.059s prof=EI/EI/-|EI/EI/- 
+aioice   full-cone       full-cone       t2 plan=ICE     path=direct t=0.041s prof=| 
+adaptive full-cone       full-cone       t3 plan=DIRECT  path=direct t=0.062s prof=EI/EI/-|EI/EI/- 
+aioice   full-cone       full-cone       t3 plan=ICE     path=direct t=0.041s prof=| 
+adaptive full-cone       full-cone       t4 plan=DIRECT  path=direct t=0.060s prof=EI/EI/-|EI/EI/- 
+aioice   full-cone       full-cone       t4 plan=ICE     path=direct t=0.041s prof=| 
+adaptive full-cone       port-restricted t0 plan=DIRECT  path=direct t=0.058s prof=EI/EI/-|EI/APD/- 
+aioice   full-cone       port-restricted t0 plan=ICE     path=direct t=0.042s prof=| 
+adaptive full-cone       port-restricted t1 plan=DIRECT  path=direct t=0.058s prof=EI/EI/-|EI/APD/- 
+aioice   full-cone       port-restricted t1 plan=ICE     path=direct t=0.041s prof=| 
+adaptive full-cone       port-restricted t2 plan=DIRECT  path=direct t=0.061s prof=EI/EI/-|EI/APD/- 
+aioice   full-cone       port-restricted t2 plan=ICE     path=direct t=0.042s prof=| 
+adaptive full-cone       port-restricted t3 plan=DIRECT  path=direct t=0.062s prof=EI/EI/-|EI/APD/- 
+aioice   full-cone       port-restricted t3 plan=ICE     path=direct t=0.042s prof=| 
+adaptive full-cone       port-restricted t4 plan=DIRECT  path=direct t=0.060s prof=EI/EI/-|EI/APD/- 
+aioice   full-cone       port-restricted t4 plan=ICE     path=direct t=0.522s prof=| 
+adaptive full-cone       symmetric       t0 plan=PREDICT path=direct t=0.059s prof=EI/EI/-|APD/APD/Rand 
+aioice   full-cone       symmetric       t0 plan=ICE     path=direct t=0.042s prof=| 
+adaptive full-cone       symmetric       t1 plan=PREDICT path=direct t=0.064s prof=EI/EI/-|APD/APD/Rand 
+aioice   full-cone       symmetric       t1 plan=ICE     path=direct t=0.042s prof=| 
+adaptive full-cone       symmetric       t2 plan=PREDICT path=direct t=0.059s prof=EI/EI/-|APD/APD/Rand 
+aioice   full-cone       symmetric       t2 plan=ICE     path=direct t=0.042s prof=| 
+adaptive full-cone       symmetric       t3 plan=PREDICT path=direct t=0.060s prof=EI/EI/-|APD/APD/Rand 
+aioice   full-cone       symmetric       t3 plan=ICE     path=direct t=0.042s prof=| 
+adaptive full-cone       symmetric       t4 plan=PREDICT path=direct t=0.063s prof=EI/EI/-|APD/APD/Rand 
+aioice   full-cone       symmetric       t4 plan=ICE     path=direct t=0.042s prof=| 
+adaptive port-restricted port-restricted t0 plan=DIRECT  path=direct t=0.057s prof=EI/APD/-|EI/APD/- 
+aioice   port-restricted port-restricted t0 plan=ICE     path=relay  t=15.009s prof=| TimeoutError
+adaptive port-restricted port-restricted t1 plan=DIRECT  path=direct t=0.061s prof=EI/APD/-|EI/APD/- 
+aioice   port-restricted port-restricted t1 plan=ICE     path=relay  t=15.008s prof=| TimeoutError
+adaptive port-restricted port-restricted t2 plan=DIRECT  path=direct t=0.062s prof=EI/APD/-|EI/APD/- 
+aioice   port-restricted port-restricted t2 plan=ICE     path=relay  t=15.008s prof=| TimeoutError
+adaptive port-restricted port-restricted t3 plan=DIRECT  path=direct t=0.060s prof=EI/APD/-|EI/APD/- 
+aioice   port-restricted port-restricted t3 plan=ICE     path=relay  t=15.006s prof=| TimeoutError
+adaptive port-restricted port-restricted t4 plan=DIRECT  path=direct t=0.062s prof=EI/APD/-|EI/APD/- 
+aioice   port-restricted port-restricted t4 plan=ICE     path=relay  t=15.009s prof=| TimeoutError
+adaptive port-restricted symmetric       t0 plan=SPRAY   path=direct t=0.626s prof=EI/APD/-|APD/APD/Rand 
+aioice   port-restricted symmetric       t0 plan=ICE     path=relay  t=15.008s prof=| TimeoutError
+adaptive port-restricted symmetric       t1 plan=SPRAY   path=direct t=0.236s prof=EI/APD/-|APD/APD/Rand 
+aioice   port-restricted symmetric       t1 plan=ICE     path=relay  t=15.005s prof=| TimeoutError
+adaptive port-restricted symmetric       t2 plan=SPRAY   path=direct t=0.237s prof=EI/APD/-|APD/APD/Rand 
+aioice   port-restricted symmetric       t2 plan=ICE     path=relay  t=15.006s prof=| TimeoutError
+adaptive port-restricted symmetric       t3 plan=SPRAY   path=direct t=0.623s prof=EI/APD/-|APD/APD/Rand 
+aioice   port-restricted symmetric       t3 plan=ICE     path=relay  t=15.006s prof=| TimeoutError
+adaptive port-restricted symmetric       t4 plan=SPRAY   path=direct t=0.319s prof=EI/APD/-|APD/APD/Rand 
+aioice   port-restricted symmetric       t4 plan=ICE     path=relay  t=15.008s prof=| TimeoutError
+adaptive symmetric       symmetric       t0 plan=RELAY   path=relay  t=0.006s prof=APD/APD/Rand|APD/APD/Rand 
+aioice   symmetric       symmetric       t0 plan=ICE     path=relay  t=15.010s prof=| TimeoutError
+adaptive symmetric       symmetric       t1 plan=RELAY   path=relay  t=0.005s prof=APD/APD/Rand|APD/APD/Rand 
+aioice   symmetric       symmetric       t1 plan=ICE     path=relay  t=15.009s prof=| TimeoutError
+adaptive symmetric       symmetric       t2 plan=RELAY   path=relay  t=0.006s prof=APD/APD/Rand|APD/APD/Rand 
+aioice   symmetric       symmetric       t2 plan=ICE     path=relay  t=15.009s prof=| TimeoutError
+adaptive symmetric       symmetric       t3 plan=RELAY   path=relay  t=0.006s prof=APD/APD/Rand|APD/APD/Rand 
+aioice   symmetric       symmetric       t3 plan=ICE     path=relay  t=15.004s prof=| TimeoutError
+adaptive symmetric       symmetric       t4 plan=RELAY   path=relay  t=0.006s prof=APD/APD/Rand|APD/APD/Rand 
+aioice   symmetric       symmetric       t4 plan=ICE     path=relay  t=15.009s prof=| TimeoutError

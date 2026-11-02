@@ -1,0 +1,172 @@
+{
+ "acc_reps": 5,
+ "acc_EI": "15/15",
+ "acc_AD": "45/45",
+ "acc_APD": "45/45",
+ "acc_all": "105/105",
+ "prof_t_EI": 0.0,
+ "prof_t_AD": 1.5,
+ "prof_t_APD": 1.51,
+ "prof_t_max": 1.51,
+ "probes_EI": 4,
+ "probes_other": 17.0,
+ "sim_sessions_per_agent": 693,
+ "sim_pairings": 231,
+ "sim_trials": 3,
+ "sim_ice_direct": 36.4,
+ "sim_adp_direct": 88.0,
+ "sim_ok_all": true,
+ "sim_failed_sessions": 0,
+ "adp_relayplan_n": 81,
+ "adp_relayplan_tmed_ms": 5.4,
+ "ice_relay_tmed": 2.55,
+ "adp_direct_tmed_ms": 57.6,
+ "adp_direct_tmax": 0.88,
+ "ice_direct_tmed_ms": 107.3,
+ "sim_adp_tmed_all": 0.057,
+ "sim_ice_tmed_all": 2.543,
+ "m_DIRECT_n": 18,
+ "m_DIRECT_direct": 100.0,
+ "m_DIRECT_pkts": 12.0,
+ "m_DIRECT_tmed_ms": 56.3,
+ "m_PREDICT_n": 510,
+ "m_PREDICT_direct": 100.0,
+ "m_PREDICT_pkts": 74.0,
+ "m_PREDICT_tmed_ms": 57.3,
+ "m_SPRAY_n": 84,
+ "m_SPRAY_direct": 97.6,
+ "m_SPRAY_pkts": 440.0,
+ "m_SPRAY_tmed_ms": 199.5,
+ "m_RELAY_n": 81,
+ "m_RELAY_direct": 0.0,
+ "m_RELAY_pkts": 6,
+ "m_RELAY_tmed_ms": 5.4,
+ "spray_model_p": 98.7,
+ "ice_pkts": 106,
+ "pairs_ice_better": 0,
+ "pairs_adp_better": 120,
+ "pairs_equal": 111,
+ "relay_plan_but_ice_direct": 0,
+ "table4": [
+  [
+   "Cone / Cone",
+   "100%",
+   "100%",
+   "56 ms",
+   "56 ms"
+  ],
+  [
+   "Cone / S-Pred",
+   "67%",
+   "100%",
+   "107 ms",
+   "56 ms"
+  ],
+  [
+   "Cone / S-Rand",
+   "67%",
+   "100%",
+   "107 ms",
+   "56 ms"
+  ],
+  [
+   "S-Pred / S-Pred",
+   "24%",
+   "100%",
+   "2.55 s",
+   "58 ms"
+  ],
+  [
+   "S-Pred / S-Rand",
+   "25%",
+   "71%",
+   "2.55 s",
+   "57 ms"
+  ],
+  [
+   "S-Rand / S-Rand",
+   "24%",
+   "67%",
+   "2.55 s",
+   "86 ms"
+  ],
+  [
+   "All",
+   "36%",
+   "88%",
+   "2.54 s",
+   "57 ms"
+  ]
+ ],
+ "prof_sim_tmed": 1.51,
+ "table5": [
+  [
+   "FC / FC",
+   "5/5",
+   "59 ms",
+   "Direct",
+   "4/5",
+   "41 ms"
+  ],
+  [
+   "FC / PR",
+   "5/5",
+   "60 ms",
+   "Direct",
+   "5/5",
+   "42 ms"
+  ],
+  [
+   "FC / Sym",
+   "5/5",
+   "60 ms",
+   "Predict",
+   "5/5",
+   "42 ms"
+  ],
+  [
+   "PR / PR",
+   "5/5",
+   "61 ms",
+   "Direct",
+   "0/5",
+   "15.0 s"
+  ],
+  [
+   "PR / Sym",
+   "5/5",
+   "319 ms",
+   "Spray",
+   "0/5",
+   "15.0 s"
+  ],
+  [
+   "Sym / Sym",
+   "0/5",
+   "6 ms",
+   "Relay",
+   "0/5",
+   "15.0 s"
+  ]
+ ],
+ "tb_adp": "25/30",
+ "tb_ice": "14/30",
+ "tb_trials": 5,
+ "tb_profiles": [
+  [
+   "full-cone",
+   "EI/EI/-"
+  ],
+  [
+   "port-restricted",
+   "EI/APD/-"
+  ],
+  [
+   "symmetric",
+   "APD/APD/Rand"
+  ]
+ ],
+ "tb_ice_errors": [
+  "TimeoutError"
+ ]
+}

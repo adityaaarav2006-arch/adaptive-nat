@@ -1,0 +1,392 @@
+{
+ "assets": "C:\\Users\\Archita Jaiswal\\Downloads\\adaptive-nat-final\\adaptive-nat\\deck\\assets",
+ "slides": [
+  {
+   "layout": "title",
+   "title": "Adaptive NAT Traversal",
+   "subtitle": "Behaviour-Aware Hole Punching",
+   "lines": [
+    "Aditya Jaiswal (24BCE2365)   ·   Chiranjib Dash (24BCE2411)",
+    "BCSE308P Computer Networks   ·   Guide: Jaya Subalakshmi R"
+   ],
+   "notes": "We built an agent that measures each router first, then picks the cheapest way to connect two peers directly."
+  },
+  {
+   "layout": "stats",
+   "kicker": "Results at a glance (measured)",
+   "title": "More direct calls, set up faster",
+   "stats": [
+    {
+     "label": "Direct connections, simulation (693 calls each)",
+     "ours": "88.0%",
+     "ice": "36.4%",
+     "iceName": "ICE"
+    },
+    {
+     "label": "Median time to a working path",
+     "ours": "57 ms",
+     "ice": "2.54 s",
+     "iceName": "ICE"
+    },
+    {
+     "label": "Direct connections, real Linux NATs",
+     "ours": "25/30",
+     "ice": "14/30",
+     "iceName": "aioice"
+    },
+    {
+     "label": "Profiler accuracy",
+     "ours": "105/105",
+     "ice": "30/30",
+     "iceName": "blocks"
+    }
+   ],
+   "foot": "Simulation: 231 router pairings × 3 trials. Testbed: 6 pairings × 5 runs on kernel NATs (nftables + conntrack). ICE never got more direct paths than us in any pairing; every call of both agents delivered its data.",
+   "notes": "Four numbers: direct connections in simulation, time to a working path, real Linux routers, and profiler accuracy."
+  },
+  {
+   "layout": "image",
+   "kicker": "The problem (illustration)",
+   "title": "Why video calls end up on a slow relay",
+   "image": "shot_problem.png",
+   "bullets": [
+    "Cone NAT: one public port for every destination, so a simultaneous hole punch gets through.",
+    "Symmetric NAT: a new port per destination, so the punch aims at a port that does not exist and is dropped.",
+    "Standard ICE then waits out its timeout and relays: median 2.55 s in our simulation."
+   ],
+   "notes": "A symmetric router opens a new door for every destination, so the punch misses and the call falls back to the relay."
+  },
+  {
+   "layout": "cards",
+   "kicker": "Step 1 · Measure each router",
+   "title": "Profiling a NAT (RFC 4787 behaviour)",
+   "cards": [
+    {
+     "head": "1 · Filtering test",
+     "body": "Own socket. Two parallel probes with CHANGE-REQUEST: reply from another IP+port, and from another port.\n→ EI / AD / APD filtering"
+    },
+    {
+     "head": "2 · Mapping test",
+     "body": "Compare the public port seen by two server addresses, then by the same IP on another port.\n→ EI / AD / APD mapping"
+    },
+    {
+     "head": "3 · Allocation test",
+     "body": "12 probes to 12 servers; compare port gaps.\n→ sequential / fixed step / random / random inside one aligned 512-port block"
+    }
+   ],
+   "bullets": [
+    "Output: a profile label such as APD/APD/Blk512.   Accuracy 105/105 (EI 15/15, AD 45/45, APD 45/45); block detection 30/30.",
+    "Cost: 0.9 ms on the real full-cone NAT (33 ms simulated). With AD/APD filtering a reply never comes, so it waits out 3 × 0.5 s: 1.50 s real, 1.56 s simulated."
+   ],
+   "notes": "Three short tests tell us how the router maps ports, which packets it lets in, and how it picks new ports."
+  },
+  {
+   "layout": "cards",
+   "kicker": "Step 2 · Decide (rules from strategy.py)",
+   "title": "Cheapest method that can work",
+   "cards": [
+    {
+     "head": "DIRECT",
+     "body": "Both routers keep one port for everyone (EI mapping).\nSimultaneous open to each other's STUN address.",
+     "color": "#2a78d6"
+    },
+    {
+     "head": "PREDICT",
+     "body": "Both ports fixed or predictable (sequential / fixed step), or a lenient side to aim at.\nEach side aims at a window of the other's next ports.",
+     "color": "#2a78d6"
+    },
+    {
+     "head": "SPRAY",
+     "body": "A random side that can open ports for the other to hit.\nOpener opens N ports, prober fires M probes. Full range N=256, M=1,088; 512-block N=M=49.",
+     "color": "#2a78d6"
+    },
+    {
+     "head": "RELAY",
+     "body": "Nothing above can work (filters too strict).\nGo to the relay at once: median 5.4 ms instead of waiting 2.5 s.",
+     "color": "#6250d6"
+    }
+   ],
+   "bullets": [
+    "Both peers run the same rules on both profiles, so they agree without extra messages. Port-block sides are tried first as the spray opener.",
+    "The JavaScript port in the demo matches strategy.choose() on all 441 ordered pairs of the 21 NAT types, plus the block types (7,731 cases)."
+   ],
+   "notes": "The agent walks down the ladder: direct, predict, spray, relay, and stops at the first rung that can work."
+  },
+  {
+   "layout": "image",
+   "kicker": "Step 2 · Example from the live demo",
+   "title": "Port-restricted ↔ symmetric random: SPRAY",
+   "image": "shot_strategy.png",
+   "bullets": [
+    "Measured for this pairing: ours 3/3 direct, median 83 ms; ICE 0/3, median 2.54 s."
+   ],
+   "notes": "For a port-restricted router talking to a symmetric random one, the rules pick spraying, and the measured runs agree."
+  },
+  {
+   "layout": "cards",
+   "kicker": "Why spraying works",
+   "title": "The birthday paradox, for ports",
+   "formula": "P(success) = 1 − e^(−N·M / R)",
+   "cards": [
+    {
+     "head": "Full port range",
+     "body": "R = 64,512\nN = 256, M = 1,088\nP ≈ 98.7%   (1,600 packets worst case)"
+    },
+    {
+     "head": "One 512-port block",
+     "body": "R = 512\nN = M = 49\nP ≈ 99.1%   (~147 packets)"
+    },
+    {
+     "head": "Measured",
+     "body": "Spray: 82/84 direct (97.6%) vs formula 98.7%\nBlock-aware: 98.0% of 102 vs formula 99.1%"
+    }
+   ],
+   "notes": "If one side opens N random ports and the other probes M, a match is likely long before every port is tried."
+  },
+  {
+   "layout": "chart",
+   "kicker": "Results · Simulation (measured)",
+   "title": "Direct paths and setup time by pairing class",
+   "image": "chart_classes.png",
+   "foot": "231 pairings × 3 trials = 693 calls per agent. Cone = EI mapping; S-Pred = symmetric, sequential/fixed-step ports; S-Rand = symmetric, random ports. ICE was never better in any pairing (ours better in 120, equal in 111); all 693 + 693 calls delivered data.",
+   "notes": "In simulation ours connects directly 88 percent of the time against 36 for ICE, and does it in tens of milliseconds instead of two and a half seconds."
+  },
+  {
+   "layout": "chart_table",
+   "kicker": "Results · By method (measured)",
+   "title": "What each method costs",
+   "image": "chart_packets.png",
+   "table": {
+    "head": [
+     "Method",
+     "Calls",
+     "Direct",
+     "Median packets",
+     "Median time"
+    ],
+    "rows": [
+     [
+      "DIRECT",
+      "18",
+      "100%",
+      "12",
+      "56 ms"
+     ],
+     [
+      "PREDICT",
+      "510",
+      "100%",
+      "74",
+      "57 ms"
+     ],
+     [
+      "SPRAY",
+      "84",
+      "97.6%",
+      "440",
+      "199 ms"
+     ],
+     [
+      "RELAY",
+      "81",
+      "0%",
+      "6",
+      "5.4 ms"
+     ],
+     [
+      "ICE",
+      "693",
+      "36.4%",
+      "106",
+      "2.54 s"
+     ]
+    ]
+   },
+   "foot": "SPRAY: 82 of 84 calls direct, formula predicted 98.7%. RELAY pairings go to the relay in 5.4 ms.",
+   "notes": "Cheap methods handle most pairings; spraying costs more but only where it is needed, and hopeless pairings go to the relay at once."
+  },
+  {
+   "layout": "chart_table",
+   "kicker": "Results · Real Linux NATs (measured)",
+   "title": "Testbed: ours 25/30 vs aioice 14/30",
+   "image": "chart_testbed.png",
+   "table": {
+    "head": [
+     "Pairing",
+     "Ours",
+     "Method",
+     "Median",
+     "aioice",
+     "Median"
+    ],
+    "rows": [
+     [
+      "FC/FC",
+      "5/5",
+      "Direct",
+      "59 ms",
+      "4/5",
+      "41 ms"
+     ],
+     [
+      "FC/PR",
+      "5/5",
+      "Direct",
+      "60 ms",
+      "5/5",
+      "42 ms"
+     ],
+     [
+      "FC/Sym",
+      "5/5",
+      "Predict",
+      "60 ms",
+      "5/5",
+      "42 ms"
+     ],
+     [
+      "PR/PR",
+      "5/5",
+      "Direct",
+      "61 ms",
+      "0/5",
+      "15.0 s"
+     ],
+     [
+      "PR/Sym",
+      "5/5",
+      "Spray",
+      "319 ms",
+      "0/5",
+      "15.0 s"
+     ],
+     [
+      "Sym/Sym",
+      "0/5",
+      "Relay",
+      "6 ms",
+      "0/5",
+      "15.0 s"
+     ]
+    ]
+   },
+   "foot": "FC = full cone, PR = port-restricted, Sym = symmetric (random). Kernel nftables NATs in network namespaces, 5 runs each; aioice gives up after 15 s. One aioice FC/FC session timed out, which did not reproduce in 6 reruns.",
+   "notes": "On real Linux routers we got 25 of 30 direct against 14 for aioice; aioice failed every port-restricted pairing."
+  },
+  {
+   "layout": "chart_table",
+   "kicker": "Results · Port-block-aware spraying (measured)",
+   "title": "Same success, about 5× fewer packets",
+   "image": "chart_blocks.png",
+   "table": {
+    "head": [
+     "",
+     "Block-aware",
+     "Unaware",
+     "ICE / aioice"
+    ],
+    "rows": [
+     [
+      "Sim: direct",
+      "98.0%",
+      "98.0%",
+      "26.5%"
+     ],
+     [
+      "Sim: median packets",
+      "92",
+      "424",
+      "–"
+     ],
+     [
+      "Sim: median time",
+      "83 ms",
+      "196 ms",
+      "2.54 s"
+     ],
+     [
+      "Real NAT: direct",
+      "10/10",
+      "10/10",
+      "0/5"
+     ],
+     [
+      "Real NAT: packets",
+      "92 (90–95)",
+      "472 (296–1,448)",
+      "–"
+     ],
+     [
+      "Real NAT: median time",
+      "86 ms",
+      "228 ms",
+      "15 s timeout"
+     ]
+    ]
+   },
+   "foot": "Simulation: 102 calls that sprayed into a 512-port block. Real NAT: nftables “masquerade to :40960–41471 random”.",
+   "notes": "Spotting the 512-port block cuts spraying cost about five times with the same success, and makes it predictable."
+  },
+  {
+   "layout": "cards",
+   "kicker": "What we learned",
+   "title": "Four findings",
+   "cols": 2,
+   "cards": [
+    {
+     "head": "1 · Discovery tests contaminate each other",
+     "body": "Shared socket, mapping first: strict filters looked lenient (simulator 12/15 → 15/15 after reordering). Filtering first: Linux EI NATs looked symmetric (conntrack entries). Fix: separate socket for the filtering test."
+    },
+    {
+     "head": "2 · Linux conntrack breaks naive simultaneous open",
+     "body": "An early packet leaves an UNREPLIED entry and the NAT re-maps the port (/proc/net/nf_conntrack: 58330 became 52320). aioice: 0/10 on port-restricted pairings. Fix: TTL-2 opening packets."
+    },
+    {
+     "head": "3 · APD replies leave from a new port",
+     "body": "That rules out some pairings that look feasible. The agent sends them to the relay in 5.4 ms instead of wasting 2.5 s."
+    },
+    {
+     "head": "4 · Port blocks make spraying cheap and predictable",
+     "body": "About 5× fewer packets, same success: 90–95 packets every time on the real NAT, against 296–1,448."
+    }
+   ],
+   "notes": "Testing on real Linux turned up four problems that the textbook description of NAT traversal leaves out."
+  },
+  {
+   "layout": "two_col",
+   "kicker": "Honest scope",
+   "title": "Limitations and future work",
+   "left": {
+    "head": "Limitations",
+    "items": [
+     "Simulator follows RFC 4787 exactly",
+     "Testbed: one machine, three Linux NAT types, no real delay or loss",
+     "TTL = 2 matches the testbed topology",
+     "JSON probes instead of binary STUN (aioice runs use real STUN)",
+     "Minimal relay, not coturn",
+     "Adaptive keepalive not implemented",
+     "Block detection assumes aligned blocks"
+    ]
+   },
+   "right": {
+    "head": "Future work",
+    "items": [
+     "Real routers and mobile / carrier-grade networks",
+     "Automatic TTL: measure hops to our own NAT",
+     "WebRTC integration: steer ICE checks with the profile"
+    ]
+   },
+   "notes": "Our testbed is one machine with three Linux NAT types; next we want real routers, mobile networks and WebRTC integration."
+  },
+  {
+   "layout": "end",
+   "title": "Thank you",
+   "subtitle": "Questions?",
+   "lines": [
+    "Live interactive demo: demo/index.html (works offline)",
+    "Aditya Jaiswal (24BCE2365)   ·   Chiranjib Dash (24BCE2411)"
+   ],
+   "notes": "Happy to take questions, or show any pairing live in the demo."
+  }
+ ]
+}
